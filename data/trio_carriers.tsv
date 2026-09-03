@@ -1,0 +1,6 @@
+chrom	pos	ref	alt	variation_id	gene	clnsig	revstat	condition	HG002	HG003	HG004
+chr1	94008251	C	T	7888	ABCA4	Pathogenic	reviewed by expert panel	Macular dystrophy|Retinal dystrophy|not specified|ABCA4-related disorder|Inborn 	0/0	0/1	0/0
+chr4	186274193	G	T	11891	F11	Pathogenic	criteria provided, multiple submitters, no conflicts	Plasma factor XI deficiency|Bleeding and platelet disorders|Factor XI deficiency	0/1	0/1	0/0
+chr5	148120311	G	GA	5268	SPINK5	Pathogenic	criteria provided, multiple submitters, no conflicts	Ichthyosis linearis circumflexa|not provided|Netherton syndrome	0/0	0/0	0/1
+chr13	20189414	CA	C	17010	GJB2	Pathogenic	reviewed by expert panel	Mutilating keratoderma|Palmoplantar keratoderma-deafness syndrome|Knuckle pads, 	0/0	0/0	0/1
+chr18	23548051	TA	T	371675	NPC1	Pathogenic	criteria provided, single submitter	Niemann-Pick disease, type C|Niemann-Pick disease, type C1	0/0	0/0	0/1

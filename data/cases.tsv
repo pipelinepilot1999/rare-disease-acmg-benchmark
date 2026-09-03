@@ -1,0 +1,1035 @@
+case_id	gene	disease_id	disease	model	n_variants	n_hpo	variants	source
+PMID_14585638_F3_2	TBX1	OMIM:188400	DiGeorge syndrome	ad_inherited	1	3	chr22:19766601TC>T	0.1.27/TBX1/PMID_14585638_F3_2.json
+PMID_36446582_Ockeloen2015_P12	ANKRD11	OMIM:148050	KBG syndrome	ad_inherited	1	5	chr16:89282710T>A	0.1.27/ANKRD11/PMID_36446582_Ockeloen2015_P12.json
+PMID_36189931_12	COL3A1	OMIM:130050	Ehlers-Danlos syndrome, vascular type	ad_inherited	1	4	chr2:188990325G>T	0.1.27/COL3A1/PMID_36189931_12.json
+PMID_37761890_43	PPP2R1A	OMIM:616362	Houge-Janssens syndrome 2	ad_inherited	1	8	chr19:52213076G>A	0.1.27/PPP2R1A/PMID_37761890_43.json
+PMID_36182950_Patient_71	CHD8	OMIM:615032	Intellectual developmental disorder with autism and macrocephaly	ad_inherited	1	7	chr14:21393995G>GAAGC	0.1.27/CHD8/PMID_36182950_Patient_71.json
+PMID_22219643_II_13	FBN1	OMIM:129600	Ectopia lentis, familial	ad_inherited	1	3	chr15:48508660A>G	0.1.27/FBN1/PMID_22219643_II_13.json
+PMID_41912533_Individual_13	MAU2	OMIM:621570	Cornelia de Lange syndrome 7	ad_inherited	1	5	chr19:19342854GAGA>G	0.1.27/MAU2/PMID_41912533_Individual_13.json
+PMID_38884572_Family_11_Patient_12	TUBA4A	OMIM:621226	Spastic ataxia 11, autosomal dominant	ad_inherited	1	10	chr2:219250432C>T	0.1.27/TUBA4A/PMID_38884572_Family_11_Patient_12.json
+PMID_8282779_III_I	SLC4A1	OMIM:612653	Spherocytosis, type 4	ad_inherited	1	6	chr17:44251435A>ACATCTGGGTG	0.1.27/SLC4A1/PMID_8282779_III_I.json
+PMID_27148574_Patient_5	AHDC1	OMIM:615829	Xia-Gibbs syndrome	ad_inherited	1	16	chr1:27548306CT>C	0.1.27/AHDC1/PMID_27148574_Patient_5.json
+PMID_26219450_4_month_old_female_infant	TBX5	OMIM:142900	Holt-Oram syndrome	ad_inherited	1	6	chr12:114401853G>T	0.1.27/TBX5/PMID_26219450_4_month_old_female_infant.json
+PMID_39256359_Pedigree_Z_case_21	LRRC7	OMIM:621415	Intellectual developmental disorder, autosomal dominant 77	ad_inherited	1	10	chr1:70038197GC>G	0.1.27/LRRC7/PMID_39256359_Pedigree_Z_case_21.json
+PMID_38579670_Individual_5	GLUL	OMIM:620806	Developmental and epileptic encephalopathy 116	ad_inherited	1	5	chr1:182388737T>A	0.1.27/GLUL/PMID_38579670_Individual_5.json
+PMID_29513881_III_11	UMOD	OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant, 1	ad_inherited	1	3	chr16:20349138C>T	0.1.27/UMOD/PMID_29513881_III_11.json
+PMID_37964426_S6_A275T	ITPR1	OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive	ad_inherited	1	10	chr3:4645696G>A	0.1.27/ITPR1/PMID_37964426_S6_A275T.json
+PMID_32376980_Patient_37	TRAF7	OMIM:618164	Cardiac, facial, and digital anomalies with developmental delay	ad_inherited	1	9	chr16:2176350G>A	0.1.27/TRAF7/PMID_32376980_Patient_37.json
+PMID_35190816_STX_Str_Ca_SD	STXBP1	OMIM:612164	Developmental and epileptic encephalopathy 4	ad_inherited	1	11	chr9:127675911C>A	0.1.27/STXBP1/PMID_35190816_STX_Str_Ca_SD.json
+PMID_31021519_Patient_3_from_Zarate_et_al_2015	SATB2	OMIM:612313	Glass syndrome	ad_inherited	1	6	chr2:199349126G>A	0.1.27/SATB2/PMID_31021519_Patient_3_from_Zarate_et_al_2015.json
+PMID_36751037_Family_H_individual_12	AMOTL1	OMIM:621192	Craniofaciocardiohepatic syndrome	ad_inherited	1	15	chr11:94799672A>G	0.1.27/AMOTL1/PMID_36751037_Family_H_individual_12.json
+PMID_31136090_case_report	POGZ	OMIM:616364	White-Sutton syndrome	ad_inherited	1	29	chr1:151406324A>C	0.1.27/POGZ/PMID_31136090_case_report.json
+PMID_38596211_individual_5	NF1	OMIM:162200	Neurofibromatosis, type 1	ad_inherited	1	4	chr17:31326249TAA>T	0.1.27/NF1/PMID_38596211_individual_5.json
+PMID_25802881_B68	GNAS	OMIM:103580	Pseudohypoparathyroidism Ia	ad_inherited	1	3	chr20:58909704G>A	0.1.27/GNAS/PMID_25802881_B68.json
+PMID_35003478_Case_report	TGFBR1	OMIM:609192	Loeys-Dietz syndrome 1	ad_inherited	1	10	chr9:99149238G>A	0.1.27/TGFBR1/PMID_35003478_Case_report.json
+PMID_10939567_Patient_EMD4_III_7	LMNA	OMIM:181350	Emery-Dreifuss muscular dystrophy 2, autosomal dominant	ad_inherited	1	10	chr1:156137204G>C	0.1.27/LMNA/PMID_10939567_Patient_EMD4_III_7.json
+PMID_32710489_Group_1_Patient_2	SETD2	OMIM:620155	Rabin-Pappas syndrome	ad_inherited	1	37	chr3:47088172G>A	0.1.27/SETD2/PMID_32710489_Group_1_Patient_2.json
+PMID_41492970_Individual_T_I_2	RAB3A	OMIM:621535	Spinocerebellar ataxia 52	ad_inherited	1	3	chr19:18200427G>A	0.1.27/RAB3A/PMID_41492970_Individual_T_I_2.json
+PMID_35960817_Family_D_D1	TRAF3	OMIM:621096	Immunodeficiency 132B	ad_inherited	1	14	chr14:102876442C>T	0.1.27/TRAF3/PMID_35960817_Family_D_D1.json
+PMID_38655005_Neonate	SOX17	OMIM:621248	Pulmonary hypertension, primary, 7	ad_inherited	1	5	chr8:54458346C>G	0.1.27/SOX17/PMID_38655005_Neonate.json
+PMID_38815585_Individual_4	MSL2	OMIM:620985	Karayol-Borroto-Haghshenas neurodevelopmental syndrome	ad_inherited	1	6	chr3:136152370G>A	0.1.27/MSL2/PMID_38815585_Individual_4.json
+PMID_26981933_Family_C_individual_C2	IKZF1	OMIM:616873	Immunodeficiency, common variable, 13	ad_inherited	1	6	chr7:50382603G>A	0.1.27/IKZF1/PMID_26981933_Family_C_individual_C2.json
+PMID_35310830_Individual_III_2	SAMD9L	OMIM:619806	Spinocerebellar ataxia 49	ad_inherited	1	6	chr7:93134095G>A	0.1.27/SAMD9L/PMID_35310830_Individual_III_2.json
+PMID_30368668_Individual_NS876	LZTR1	OMIM:616564	Noonan syndrome 10	ad_inherited	1	6	chr22:20990476G>A	0.1.27/LZTR1/PMID_30368668_Individual_NS876.json
+PMID_38791218_Family_1_Patient_5_II_4	KCTD1	OMIM:621434	Dental radicular dysplasia	ad_inherited	1	4	chr18:26455795C>T	0.1.27/KCTD1/PMID_38791218_Family_1_Patient_5_II_4.json
+PMID_39970126_FAMILY_1_individual_F1P4_pedigree_III5	ATP2A2	OMIM:621236	Rhabdomyolysis, susceptibility to, 2	ad_inherited	1	5	chr12:110339543G>A	0.1.27/ATP2A2/PMID_39970126_FAMILY_1_individual_F1P4_pedigree_III5.json
+PMID_39419027_P3	MARK2	OMIM:621285	Intellectual developmental disorder, autosomal dominant 76	ad_inherited	1	6	chr11:63895601A>AAG	0.1.27/MARK2/PMID_39419027_P3.json
+PMID_37256937_Patient_6	PSMC3	OMIM:621539	Ebstein-Bezieau neurodevelopmental syndrome	ad_inherited	1	6	chr11:47422682A>G	0.1.27/PSMC3/PMID_37256937_Patient_6.json
+PMID_11603379_Patient_3	SLC2A1	OMIM:606777	GLUT1 deficiency syndrome 1, infantile onset, severe	ad_inherited	1	4	chr1:42930765C>T	0.1.27/SLC2A1/PMID_11603379_Patient_3.json
+PMID_15031030_Family_153_individual_II_2	SMAD4	OMIM:175050	Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome	ad_inherited	1	6	chr18:51065521G>A	0.1.27/SMAD4/PMID_15031030_Family_153_individual_II_2.json
+PMID_37598857_Family_7_individual_III_3	NEK8	OMIM:620903	Polycystic kidney disease 8	ad_inherited	1	5	chr17:28734068C>T	0.1.27/NEK8/PMID_37598857_Family_7_individual_III_3.json
+PMID_22772371_MS239_IV_12	TGFB2	OMIM:614816	Loeys-Dietz syndrome 4	ad_inherited	1	8	chr1:218434381C>A	0.1.27/TGFB2/PMID_22772371_MS239_IV_12.json
+PMID_15761194_II_2	KCNJ2	OMIM:609622	Short QT syndrome 3	ad_inherited	1	3	chr17:70175553G>A	0.1.27/KCNJ2/PMID_15761194_II_2.json
+PMID_38858457_F1_individual_4	RAB32	OMIM:620923	Parkinson disease 26, autosomal dominant, susceptibility to	ad_inherited	1	4	chr6:146544084C>G	0.1.27/RAB32/PMID_38858457_F1_individual_4.json
+PMID_40610405_COL034_2	NR6A1	OMIM:621277	Oculovertebral syndrome	ad_inherited	1	3	chr9:124554439G>A	0.1.27/NR6A1/PMID_40610405_COL034_2.json
+PMID_39721588_Individual_8	UBR5	OMIM:621372	Neurodevelopmental disorder with speech delay and behavioral abnormalities	ad_inherited	1	7	chr8:102295766G>A	0.1.27/UBR5/PMID_39721588_Individual_8.json
+PMID_38950288_Proband_1	C10orf71	OMIM:621251	Cardiomyopathy, dilated, 1QQ	ad_inherited	1	3	chr10:49323639CT>C	0.1.27/C10orf71/PMID_38950288_Proband_1.json
+PMID_39069253_individual_4_Zhou_et_al	ZNF462	OMIM:618619	Weiss-Kruszka syndrome	ad_inherited	1	17	chr9:106938989C>CA	0.1.27/ZNF462/PMID_39069253_individual_4_Zhou_et_al.json
+PMID_24736735_G114_Sister	GLI3	OMIM:175700	Greig cephalopolysyndactyly syndrome	ad_inherited	1	4	chr7:41964448CGAGGCGTGGT>C	0.1.27/GLI3/PMID_24736735_G114_Sister.json
+PMID_25835445_1_IV_2	TGFB3	OMIM:615582	Loeys-Dietz syndrome 5	ad_inherited	1	3	chr14:75965586A>G	0.1.27/TGFB3/PMID_25835445_1_IV_2.json
+PMID_32128574_Family_B_IV_1	TOP2B	OMIM:609296	B-cell immunodeficiency, distal limb anomalies, and urogenital malformations	ad_inherited	1	18	chr3:25630407C>G	0.1.27/TOP2B/PMID_32128574_Family_B_IV_1.json
+PMID_23434115_Sanger_1_father	ACTN1	OMIM:615193	Bleeding disorder, platelet-type, 15	ad_inherited	1	3	chr14:68925641C>T	0.1.27/ACTN1/PMID_23434115_Sanger_1_father.json
+PMID_25142838_P4	KMT2D	OMIM:147920	Kabuki Syndrome 1	ad_inherited	1	12	chr12:49042205T>C	0.1.27/KMT2D/PMID_25142838_P4.json
+PMID_35904126_Proband_6	TAF4	OMIM:620450	Intellectual developmental disorder, autosomal dominant 73	ad_inherited	1	15	chr20:62000246GT>G	0.1.27/TAF4/PMID_35904126_Proband_6.json
+PMID_31337854_Patient_17	NIPBL	OMIM:122470	Cornelia de Lange syndrome 1	ad_inherited	1	24	chr5:36985083T>TA	0.1.27/NIPBL/PMID_31337854_Patient_17.json
+PMID_40965981_Individual_11	PTBP1	OMIM:621495	STAD syndrome	ad_inherited	1	17	chr19:797498A>C	0.1.27/PTBP1/PMID_40965981_Individual_11.json
+PMID_38489591_Family_A_individual_4	CST3	OMIM:621214	Leukodystrophy, adult-onset, autosomal dominant, without amyloid angiopathy	ad_inherited	1	9	chr20:23633996CT>C	0.1.27/CST3/PMID_38489591_Family_A_individual_4.json
+PMID_22541558_individual_I_1	SF3B4	OMIM:154400	Acrofacial dysostosis 1, Nager type	ad_inherited	1	8	chr1:149923867C>CG	0.1.27/SF3B4/PMID_22541558_individual_I_1.json
+PMID_39560673_P3	ITPR3	OMIM:621254	Immunodeficiency 133 with ectodermal dysplasia with or without peripheral neuropathy	ad_inherited	1	25	chr6:33692840G>A	0.1.27/ITPR3/PMID_39560673_P3.json
+PMID_37196654_Individual_51_ASC_80001103038	KDM6B	OMIM:618505	Stolerman neurodevelopmental syndrome	ad_inherited	1	4	chr17:7848422C>T	0.1.27/KDM6B/PMID_37196654_Individual_51_ASC_80001103038.json
+PMID_22822385_17_year_old_male	PTPN11	OMIM:151100	LEOPARD syndrome 1	ad_inherited	1	4	chr12:112473023A>G	0.1.27/PTPN11/PMID_22822385_17_year_old_male.json
+PMID_15731757_Family_1_II_1	TGFBR2	OMIM:610168	Loeys-Dietz syndrome 2	ad_inherited	1	9	chr3:30672246G>C	0.1.27/TGFBR2/PMID_15731757_Family_1_II_1.json
+PMID_29050398_Patient_19	SPTAN1	OMIM:613477	Developmental and epileptic encephalopathy 5	ad_inherited	1	5	chr9:128615809C>T	0.1.27/SPTAN1/PMID_29050398_Patient_19.json
+PMID_30315159_Patient_2_Father_of_Patient_1	ACTB	OMIM:620475	Thrombocytopenia 8, with dysmorphic features and developmental delay	ad_inherited	1	6	chr7:5528050A>C	0.1.27/ACTB/PMID_30315159_Patient_2_Father_of_Patient_1.json
+PMID_35979925_Case_5	CAPRIN1	OMIM:620782	Neurodevelopmental disorder with language impairment, autism, and attention deficit-hyperactivity disorder	ad_inherited	1	6	chr11:34083003A>T	0.1.27/CAPRIN1/PMID_35979925_Case_5.json
+PMID_37467750_Individual_12	DHX9	OMIM:620988	Intellectual developmental disorder, autosomal dominant 75	ad_inherited	1	6	chr1:182887118G>C	0.1.27/DHX9/PMID_37467750_Individual_12.json
+PMID_37962958_Individual_10	U2AF2	OMIM:620535	Developmental delay, dysmorphic facies, and brain anomalies	ad_inherited	1	16	chr19:55661148C>T	0.1.27/U2AF2/PMID_37962958_Individual_10.json
+PMID_37075751_Individual_8	POLR1A	OMIM:616462	Acrofacial dysostosis, Cincinnati type	ad_inherited	1	11	chr2:86075153C>A	0.1.27/POLR1A/PMID_37075751_Individual_8.json
+PMID_36074901_Patient_17	ATP6V0C	OMIM:620465	Epilepsy, early-onset, 3, with or without developmental delay	ad_inherited	1	4	chr16:2519689G>C	0.1.27/ATP6V0C/PMID_36074901_Patient_17.json
+PMID_40610405_Individual_12	EIF4A2	OMIM:620455	Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures	ad_inherited	1	10	chr3:186787527TATC>T	0.1.27/EIF4A2/PMID_40610405_Individual_12.json
+PMID_33633439_5485_II_2	FZD5	OMIM:620731	Microphthalmia/coloboma 11	ad_inherited	1	3	chr2:207767333C>CAGGT	0.1.27/FZD5/PMID_33633439_5485_II_2.json
+PMID_30057029_Individual_7	FBXO11	OMIM:618089	Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities	ad_inherited	1	7	chr2:47808188G>C	0.1.27/FBXO11/PMID_30057029_Individual_7.json
+PMID_30612693_Individual_12	MAPK8IP3	OMIM:618443	Neurodevelopmental disorder with or without variable brain abnormalities	ad_inherited	1	7	chr16:1767834C>T	0.1.27/MAPK8IP3/PMID_30612693_Individual_12.json
+PMID_36440963_IV_4	PRDM10	OMIM:620459	Birt-Hogg-Dube syndrome 2	ad_inherited	1	3	chr11:129923264C>T	0.1.27/PRDM10/PMID_36440963_IV_4.json
+PMID_19458539_patient	MYOT	OMIM:609200	Myopathy, myofibrillar, 3	ad_inherited	1	11	chr5:137886887G>A	0.1.27/MYOT/PMID_19458539_patient.json
+PMID_28542676_SK3	CLN3	OMIM:621548	Retinitis pigmentosa 101	ad_inherited	1	5	chr16:28487544G>C	0.1.27/CLN3/PMID_28542676_SK3.json
+PMID_39978342_P16	PPP2R5C	OMIM:621185	Houge-Janssens syndrome 4	ad_inherited	1	9	chr14:101882264A>C	0.1.27/PPP2R5C/PMID_39978342_P16.json
+PMID_19208399_Patient_II_3	VCP	OMIM:167320	Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia 1	ad_inherited	1	12	chr9:35065358C>G	0.1.27/VCP/PMID_19208399_Patient_II_3.json
+PMID_31569402_Family_22_Patient_I	SMAD3	OMIM:613795	Loeys-Dietz syndrome 3	ad_inherited	1	10	chr15:67181385G>A	0.1.27/SMAD3/PMID_31569402_Family_22_Patient_I.json
+PMID_21131976_EsM5850	POLR1D	OMIM:613717	Treacher Collins syndrome 2	ad_inherited	1	8	chr13:27623014C>T	0.1.27/POLR1D/PMID_21131976_EsM5850.json
+PMID_30968594_individual_4	CYP21A2	OMIM:201910	Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency	ad_inherited	1	5	chr6:32040535C>T	0.1.27/CYP21A2/PMID_30968594_individual_4.json
+PMID_40857589_P1	CRNKL1	OMIM:621436	Microcephaly, progressive, with simplified gyral pattern and cerebellar hypoplasia	ad_inherited	1	16	chr20:20048482G>A	0.1.27/CRNKL1/PMID_40857589_P1.json
+PMID_37421948_Individual_12	TMEM63B	OMIM:621250	Developmental and epileptic encephalopathy 118	ad_inherited	1	6	chr6:44148919G>A	0.1.27/TMEM63B/PMID_37421948_Individual_12.json
+PMID_39013458_individual_KS110012	EHMT1	OMIM:610253	Kleefstra syndrome 1	ad_inherited	1	7	chr9:137798894C>T	0.1.27/EHMT1/PMID_39013458_individual_KS110012.json
+PMID_28947713_proband_II_2	HOXA13	OMIM:140000	Hand-foot-genital syndrome	ad_inherited	1	18	chr7:27198242C>A	0.1.27/HOXA13/PMID_28947713_proband_II_2.json
+PMID_35923690_50_7	RPS19	OMIM:105650	Diamond-Blackfan anemia 1	ad_inherited	1	5	chr19:41869043G>A	0.1.27/RPS19/PMID_35923690_50_7.json
+PMID_33078099_II_6	LIM2	OMIM:615277	Cataract 19, multiple types	ad_inherited	1	4	chr19:51380577G>A	0.1.27/LIM2/PMID_33078099_II_6.json
+PMID_26162006_Individual_II_7	EFEMP1	OMIM:611276	Glaucoma 1, open angle, H	ad_inherited	1	4	chr2:55917764G>A	0.1.27/EFEMP1/PMID_26162006_Individual_II_7.json
+PMID_29484404_proband	SPTA1	OMIM:130600	Elliptocytosis-2	ad_inherited	1	7	chr1:158685211T>G	0.1.27/SPTA1/PMID_29484404_proband.json
+PMID_39088281_II_1	RPL17	OMIM:621262	Diamond-Blackfan anemia 22	ad_inherited	1	18	chr18:49489413CG>C	0.1.27/RPL17/PMID_39088281_II_1.json
+PMID_37433783_P3	EZH1	OMIM:601674	EZH1-related neurodevelopmental disorder	ad_inherited	1	16	chr17:42706011T>A	0.1.27/EZH1/PMID_37433783_P3.json
+PMID_25851998_Sibling_3	MTOR	OMIM:616638	Smith-Kingsmore syndrome	ad_inherited	1	18	chr1:11130747C>T	0.1.27/MTOR/PMID_25851998_Sibling_3.json
+PMID_40210435_A_III_2	CDK4	OMIM:621507	Microcephaly 31, primary, autosomal recessive	ad_inherited	1	11	chr12:57751078G>A	0.1.27/CDK4/PMID_40210435_A_III_2.json
+PMID_32219868_F2_V_2	AFG3L2	OMIM:618977	Optic atrophy 12	ad_inherited	1	3	chr18:12351347G>A	0.1.27/AFG3L2/PMID_32219868_F2_V_2.json
+PMID_16962354_second_mutation	TGIF1	OMIM:142946	Holoprosencephaly 4	ad_inherited	1	8	chr18:3456474CTG>C	0.1.27/TGIF1/PMID_16962354_second_mutation.json
+PMID_33768696_Patient_4	SMARCB1	OMIM:614608	Coffin-Siris syndrome 3	ad_inherited	1	14	chr22:23833681C>T	0.1.27/SMARCB1/PMID_33768696_Patient_4.json
+PMID_33499149_II_1	GSN	OMIM:105120	Amyloidosis, Finnish type	ad_inherited	1	9	chr9:121326680G>A	0.1.27/GSN/PMID_33499149_II_1.json
+PMID_31239556_individual_36	CTCF	OMIM:615502	Intellectual developmental disorder, autosomal dominant 21	ad_inherited	1	15	chr16:67628550C>T	0.1.27/CTCF/PMID_31239556_individual_36.json
+PMID_37907725_Patient_III_2	BAG3	OMIM:621094	Neuronopathy, distal hereditary motor, autosomal dominant 15	ad_inherited	1	7	chr10:119677067G>GGGAC	0.1.27/BAG3/PMID_37907725_Patient_III_2.json
+PMID_40519748_Family_5_individual_III_1	DHRS3	OMIM:621499	Craniosynostosis-scoliosis syndrome	ad_inherited	1	22	chr1:12572822C>G	0.1.27/DHRS3/PMID_40519748_Family_5_individual_III_1.json
+PMID_36197437_case_7	FOSL2	OMIM:620789	Aplasia cutis-enamel dysplasia syndrome	ad_inherited	1	6	chr2:28412067GC>G	0.1.27/FOSL2/PMID_36197437_case_7.json
+PMID_17886299_patient_BM2	COL6A3	OMIM:620726	Bethlem myopathy 1C	ad_inherited	1	6	chr2:237367010A>C	0.1.27/COL6A3/PMID_17886299_patient_BM2.json
+PMID_23378224_Patient_4_family_C	TPM2	OMIM:609285	Congenital myopathy 23	ad_inherited	1	10	chr9:35689795ATCT>A	0.1.27/TPM2/PMID_23378224_Patient_4_family_C.json
+PMID_30157302_Patient_3	SMAD2	OMIM:619657	Congenital heart defects, multiple types, 8, with or without heterotaxy	ad_inherited	1	7	chr18:47870576T>C	0.1.27/SMAD2/PMID_30157302_Patient_3.json
+PMID_36549593_Id7	TRA2B	OMIM:621421	Ramond-Elliott neurodevelopmental syndrome	ad_inherited	1	15	chr3:185937860T>C	0.1.27/TRA2B/PMID_36549593_Id7.json
+PMID_38652464_Patient	OTULIN	OMIM:621030	Autoinflammation, panniculitis, and dermatosis syndrome, autosomal dominant	ad_inherited	1	10	chr5:14692906G>A	0.1.27/OTULIN/PMID_38652464_Patient.json
+PMID_35977029_Family_5_individualNA127	UBAP2L	OMIM:620494	Neurodevelopmental disorder with impaired language, behavioral abnormalities, and dysmorphic facies	ad_inherited	1	11	chr1:154237138T>TG	0.1.27/UBAP2L/PMID_35977029_Family_5_individualNA127.json
+PMID_34890546_M1374_Mayo_R3376	IFT140	OMIM:621164	Polycystic kidney disease 9, susceptibility to	ad_inherited	1	3	chr16:1592215A>AC	0.1.27/IFT140/PMID_34890546_M1374_Mayo_R3376.json
+PMID_38479391_Individual_13	FRYL	OMIM:621049	Pan-Chung-Bellen syndrome	ad_inherited	1	10	chr4:48527604C>A	0.1.27/FRYL/PMID_38479391_Individual_13.json
+PMID_36799992_A_III_2	DTNA	OMIM:620971	Myopathy with myalgia, increased serum creatine kinase, and with or without episodic rhabdomyolysis 2	ad_inherited	1	7	chr18:34863985G>A	0.1.27/DTNA/PMID_36799992_A_III_2.json
+PMID_36073542_individual_3	SLC32A1	OMIM:620774	Developmental and epileptic encephalopathy 114	ad_inherited	1	9	chr20:38727867T>C	0.1.27/SLC32A1/PMID_36073542_individual_3.json
+PMID_27435956_case_report	NLRP3	OMIM:191900	Muckle-Wells syndrome	ad_inherited	1	8	chr1:247424492C>T	0.1.27/NLRP3/PMID_27435956_case_report.json
+PMID_39414788_III_13	CCN2	OMIM:621099	Spondyloepimetaphyseal dysplasia, Li-Shao-Li type	ad_inherited	1	13	chr6:131951108C>G	0.1.27/CCN2/PMID_39414788_III_13.json
+PMID_37168776_Case_2	SON	OMIM:617140	ZTTK syndrome	ad_inherited	1	8	chr21:33543114A>AT	0.1.27/SON/PMID_37168776_Case_2.json
+PMID_27108799_Individual_10	GNB1	OMIM:616973	Intellectual developmental disorder, autosomal dominant 42	ad_inherited	1	14	chr1:1806503A>G	0.1.27/GNB1/PMID_27108799_Individual_10.json
+PMID_38141607_Individuals_1_P1_DDD_304967	MAX	OMIM:620712	Polydactyly-macrocephaly syndrome	ad_inherited	1	11	chr14:65078029C>T	0.1.27/MAX/PMID_38141607_Individuals_1_P1_DDD_304967.json
+PMID_9916936_second_cousin_IV_3	APOA1	OMIM:620657	Amyloidosis, hereditary systemic 3	ad_inherited	1	4	chr11:116836271A>G	0.1.27/APOA1/PMID_9916936_second_cousin_IV_3.json
+PMID_27738187_Patient_5	ERF	OMIM:617180	Chitayat syndrome	ad_inherited	1	6	chr19:42249934T>C	0.1.27/ERF/PMID_27738187_Patient_5.json
+PMID_35470444_P13	BRD4	OMIM:620568	Cornelia de Lange syndrome 6	ad_inherited	1	4	chr19:15272962C>CG	0.1.27/BRD4/PMID_35470444_P13.json
+PMID_26467218_individual_2_Runtuwene_et_al_21	NRAS	OMIM:613224	Noonan syndrome 6	ad_inherited	1	11	chr1:114716090A>T	0.1.27/NRAS/PMID_26467218_individual_2_Runtuwene_et_al_21.json
+PMID_11805270_patient	CAV3	OMIM:614321	Myopathy, distal, Tateyama type	ad_inherited	1	6	chr3:8733956G>A	0.1.27/CAV3/PMID_11805270_patient.json
+PMID_34655521_Patient_2	KDM1A	OMIM:620990	ACTH-independent macronodular adrenal hyperplasia 3	ad_inherited	1	3	chr1:23030468G>A	0.1.27/KDM1A/PMID_34655521_Patient_2.json
+PMID_28132691_Subject_3	PSMD12	OMIM:617516	Stankiewicz-Isidor syndrome	ad_inherited	1	4	chr17:67347395G>A	0.1.27/PSMD12/PMID_28132691_Subject_3.json
+PMID_18412284_Patient_II_6	PRPF3	OMIM:601414	Retinitis pigmentosa 18	ad_inherited	1	6	chr1:150344201C>A	0.1.27/PRPF3/PMID_18412284_Patient_II_6.json
+PMID_35451551_proband	RAP1B	OMIM:620654	Thrombocytopenia 11 with multiple congenital anomalies and dysmorphic facies	ad_inherited	1	22	chr12:68652044C>G	0.1.27/RAP1B/PMID_35451551_proband.json
+PMID_41125872_Pathogenic_15	UNC13A	OMIM:621456	Neurodevelopmental disorder with speech delay, movement abnormalities, and seizures	ad_inherited	1	7	chr19:17642876G>A	0.1.27/UNC13A/PMID_41125872_Pathogenic_15.json
+PMID_38572164_Case_report	COL5A1	OMIM:130000	Ehlers-Danlos syndrome, classic type, 1	ad_inherited	1	13	chr9:134700119G>A	0.1.27/COL5A1/PMID_38572164_Case_report.json
+PMID_36214804_P2	KLHL20	OMIM:621390	Neurodevelopmental disorder with early-onset seizures, facial dysmorphism, and behavioral abnormalities	ad_inherited	1	22	chr1:173757077G>A	0.1.27/KLHL20/PMID_36214804_P2.json
+PMID_30580808_Patient_10_Zhu_et_al	SMARCC2	OMIM:618362	Coffin-Siris syndrome 8	ad_inherited	1	18	chr12:56172426A>G	0.1.27/SMARCC2/PMID_30580808_Patient_10_Zhu_et_al.json
+PMID_27376152_FPLD_122_8	ADRA2A	OMIM:620679	Lipodystrophy, familial partial, type 8	ad_inherited	1	7	chr10:111078198C>T	0.1.27/ADRA2A/PMID_27376152_FPLD_122_8.json
+PMID_39480921_Patient_12	CCT3	OMIM:621034	Neurodevelopmental disorder with speech or visual impairment and brain hypomyelination	ad_inherited	1	22	chr1:156309285G>A	0.1.27/CCT3/PMID_39480921_Patient_12.json
+PMID_28584669_newborn_male	MYH3	OMIM:193700	Arthrogryposis, distal, type 2A (Freeman-Sheldon)	ad_inherited	1	12	chr17:10641317C>T	0.1.27/MYH3/PMID_28584669_newborn_male.json
+PMID_29196670_Patient_8	TSC2	OMIM:613254	Tuberous sclerosis-2	ad_inherited	1	7	chr16:2072847A>G	0.1.27/TSC2/PMID_29196670_Patient_8.json
+PMID_34819510_Patient_1	PSMB9	OMIM:620796	Proteasome-associated autoinflammatory syndrome 6	ad_inherited	1	22	chr6:32858440G>A	0.1.27/PSMB9/PMID_34819510_Patient_1.json
+PMID_36195757_Proband_4	KCNK3	OMIM:621402	Developmental delay with sleep apnea	ad_inherited	1	18	chr2:26727769G>A	0.1.27/KCNK3/PMID_36195757_Proband_4.json
+PMID_19541485_patient	LITAF	OMIM:601098	Charcot-Marie-Tooth disease, type 1C	ad_inherited	1	8	chr16:11549693C>T	0.1.27/LITAF/PMID_19541485_patient.json
+PMID_33087723_E2	SOCS1	OMIM:619375	Autoinflammatory syndrome, familial, with or without immunodeficiency	ad_inherited	1	3	chr16:11255019A>G	0.1.27/SOCS1/PMID_33087723_E2.json
+PMID_29506490_Patient_45_daughter	EP300	OMIM:613684	Rubinstein-Taybi syndrome 2	ad_inherited	1	10	chr22:41178930TCA>T	0.1.27/EP300/PMID_29506490_Patient_45_daughter.json
+PMID_35583550_Family_2_Grandmother	LEF1	OMIM:621224	Ectodermal dysplasia 17 with or without limb malformations	ad_inherited	1	3	chr4:108078300T>C	0.1.27/LEF1/PMID_35583550_Family_2_Grandmother.json
+PMID_35344616_A11	ROR2	OMIM:268310	Robinow syndrome, autosomal recessive 1	ad_inherited	1	36	chr9:91724524C>T	0.1.27/ROR2/PMID_35344616_A11.json
+PMID_33450762_P2_son	PDGFRB	OMIM:621091	Ocular pterygium-digital keloid dysplasia syndrome	ad_inherited	1	3	chr5:150124277T>A	0.1.27/PDGFRB/PMID_33450762_P2_son.json
+PMID_29198722_p_Arg913Ter_Affected_Individual_5	ZSWIM6	OMIM:617865	Neurodevelopmental disorder with movement abnormalities, abnormal gait, and autistic features	ad_inherited	1	17	chr5:61541917C>T	0.1.27/ZSWIM6/PMID_29198722_p_Arg913Ter_Affected_Individual_5.json
+PMID_27081549_subject	COL11A1	OMIM:604841	Stickler syndrome, type II	ad_inherited	1	8	chr1:102961861C>T	0.1.27/COL11A1/PMID_27081549_subject.json
+PMID_36917008_P3	IRF4	OMIM:621097	Immunodeficiency 131	ad_inherited	1	13	chr6:401753T>C	0.1.27/IRF4/PMID_36917008_P3.json
+PMID_38950322_P1	CIAO1	OMIM:620960	Multiple mitochondrial dysfunctions syndrome 10	ad_inherited	1	16	chr2:96271236A>C	0.1.27/CIAO1/PMID_38950322_P1.json
+PMID_37541189_Individual_12	HNRNPC	OMIM:620688	Intellectual developmental disorder, autosomal dominant 74	ad_inherited	1	12	chr14:21230992C>T	0.1.27/HNRNPC/PMID_37541189_Individual_12.json
+PMID_35484142_F8_P9	HNRNPA2B1	OMIM:620460	Oculopharyngeal muscular dystrophy 2	ad_inherited	1	9	chr7:26192567AC>A	0.1.27/HNRPA2B1/PMID_35484142_F8_P9.json
+PMID_28949039_Case_3	SGCE	OMIM:159900	Dystonia-11, myoclonic	ad_inherited	1	7	chr7:94600843CTTTGT>C	0.1.27/SGCE/PMID_28949039_Case_3.json
+PMID_17056636_Patient_No_4	KRAS	OMIM:609942	Noonan syndrome 3	ad_inherited	1	13	chr12:25245320T>C	0.1.27/KRAS/PMID_17056636_Patient_No_4.json
+PMID_25817016_Individual_016517	DVL1	OMIM:616331	Robinow syndrome, autosomal dominant 2	ad_inherited	1	18	chr1:1338107CG>C	0.1.27/DVL1/PMID_25817016_Individual_016517.json
+PMID_32165108_proband	HSPB8	OMIM:621078	Myopathy, myofibrillar, 13, with rimmed vacuoles	ad_inherited	1	11	chr12:119193842A>AAGTC	0.1.27/HSPB8/PMID_32165108_proband.json
+PMID_29330883_Subject_4	RERE	OMIM:616975	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart	ad_inherited	1	4	chr1:8358232G>A	0.1.27/RERE/PMID_29330883_Subject_4.json
+PMID_24800029_boy	BRAF	OMIM:115150	Cardiofaciocutaneous syndrome	ad_inherited	1	19	chr7:140778066G>T	0.1.27/BRAF/PMID_24800029_boy.json
+PMID_25145518_patient_VI_2	HCN4	OMIM:163800	Sick sinus syndrome 2	ad_inherited	1	4	chr15:73329719C>T	0.1.27/HCN4/PMID_25145518_patient_VI_2.json
+PMID_27003583_Patient_3	HIVEP2	OMIM:616977	Intellectual developmental disorder, autosomal dominant 43	ad_inherited	1	26	chr6:142761469T>TC	0.1.27/HIVEP2/PMID_27003583_Patient_3.json
+PMID_33452875_Clinical_data	SPINK5	OMIM:256500	Netherton syndrome	ad_inherited	1	13	chr5:148065371A>G	0.1.27/SPINK5/PMID_33452875_Clinical_data.json
+PMID_27439707_Individual_4	CNTNAP2	OMIM:610042	Pitt-Hopkins like syndrome 1	ad_inherited	1	6	chr7:148172430TC>T	0.1.27/CNTNAP2/PMID_27439707_Individual_4.json
+PMID_11479728_patient_13	ZIC2	OMIM:609637	Holoprosencephaly 5	ad_inherited	1	5	chr13:99982753C>CCCA	0.1.27/ZIC2/PMID_11479728_patient_13.json
+PMID_39480921_Patient_1	TCP1	OMIM:621021	Intellectual developmental disorder with polymicrogyria and seizures	ad_inherited	1	4	chr6:159787747G>T	0.1.27/TCP1/PMID_39480921_Patient_1.json
+PMID_28686853_Individual_13	WDR26	OMIM:617616	Skraban-Deardorff syndrome	ad_inherited	1	13	chr1:224431529A>AT	0.1.27/WDR26/PMID_28686853_Individual_13.json
+PMID_25525168_HM640	SCO2	OMIM:608908	Myopia 6	ad_inherited	1	4	chr22:50524078G>A	0.1.27/SCO2/PMID_25525168_HM640.json
+PMID_23691375_4_year_old_girl	TRPS1	OMIM:190350	Trichorhinophalangeal syndrome, type I	ad_inherited	1	8	chr8:115604771G>A	0.1.27/TRPS1/PMID_23691375_4_year_old_girl.json
+PMID_41133935_Individual_5	BAIAP2	OMIM:621468	Developmental and epileptic encephalopathy 120	ad_inherited	1	10	chr17:81104061C>T	0.1.27/BAIAP2/PMID_41133935_Individual_5.json
+PMID_23562786_patient	COMP	OMIM:177170	Pseudoachondroplasia	ad_inherited	1	15	chr19:18785830C>T	0.1.27/COMP/PMID_23562786_patient.json
+PMID_27374306_Case_1	CALM2	OMIM:616249	Long QT syndrome 15	ad_inherited	1	5	chr2:47161750C>G	0.1.27/CALM2/PMID_27374306_Case_1.json
+PMID_38531365_Individual_5	SEPHS1	OMIM:621325	Ververi-Brady syndrome 2	ad_inherited	1	11	chr10:13319209C>T	0.1.27/SEPHS1/PMID_38531365_Individual_5.json
+PMID_33185949_Case_Report	SEC61A1	OMIM:617056	Tubulointerstitial kidney disease, autosomal dominant, 5	ad_inherited	1	19	chr3:128060598A>G	0.1.27/SEC61A1/PMID_33185949_Case_Report.json
+PMID_27939640_individual_P2	BRPF1	OMIM:617333	Intellectual developmental disorder with dysmorphic facies and ptosis	ad_inherited	1	15	chr3:9739340AGTGGCTGTGCCGCC>A	0.1.27/BRPF1/PMID_27939640_individual_P2.json
+PMID_30243293_case_report	CLCN1	OMIM:160800	Myotonia congenita, dominant	ad_inherited	1	5	chr7:143332874G>A	0.1.27/CLCN1/PMID_30243293_case_report.json
+PMID_36213268_Case_presentation	PRKAR1A	OMIM:160980	Carney complex, type 1	ad_inherited	1	12	chr17:68523815A>G	0.1.27/PRKAR1A/PMID_36213268_Case_presentation.json
+PMID_40412389_case_report	OAS2	OMIM:621409	Autoinflammation and autoimmunity, systemic, with immune dysregulation 2 	ad_inherited	1	26	chr12:113006516C>G	0.1.27/OAS2/PMID_40412389_case_report.json
+PMID_10534505_proband	LYZ	OMIM:620658	Amyloidosis, hereditary systemic 5	ad_inherited	1	3	chr12:69350170G>C	0.1.27/LYZ/PMID_10534505_proband.json
+PMID_31859446_second_case	PUM1	OMIM:620719	Neurodevelopmental disorder with motor abnormalities, seizures, and facial dysmorphism	ad_inherited	1	12	chr1:30953796G>A	0.1.27/PUM1/PMID_31859446_second_case.json
+PMID_30681580_proband	FGFR3	OMIM:146000	Hypochondroplasia	ad_inherited	1	7	chr4:1803813C>T	0.1.27/FGFR3/PMID_30681580_proband.json
+PMID_24702427_Patient_2_II_3	ZFPM2	OMIM:610187	Diaphragmatic hernia 3	ad_inherited	1	3	chr8:105801475T>TTTTC	0.1.27/ZFPM2/PMID_24702427_Patient_2_II_3.json
+PMID_29742735_proband	TINF2	OMIM:613990	Dyskeratosis congenita, autosomal dominant 3	ad_inherited	1	11	chr14:24240636G>A	0.1.27/TINF2/PMID_29742735_proband.json
+PMID_38708366_Patient_3	KCNH5	OMIM:620537	Developmental and epileptic encephalopathy 112	ad_inherited	1	6	chr14:62950522C>T	0.1.27/KCNH5/PMID_38708366_Patient_3.json
+PMID_24573067_CASE_REPORT	AAGAB	OMIM:148600	Keratoderma, palmoplantar, punctate type IA	ad_inherited	1	3	chr15:67236719TG>T	0.1.27/AAGAB/PMID_24573067_CASE_REPORT.json
+PMID_25480986_individual_C_1	PNPLA6	OMIM:275400	Oliver-McFarlane syndrome	ad_inherited	1	8	chr19:7559066T>C	0.1.27/PNPLA6/PMID_25480986_individual_C_1.json
+PMID_37827158_Proband_7	DOT1L	OMIM:621265	Nil-Deshwar neurodevelopmental syndrome	ad_inherited	1	16	chr19:2214549C>G	0.1.27/DOT1L/PMID_37827158_Proband_7.json
+PMID_23086397_Patient_2	KCNT1	OMIM:614959	Developmental and epileptic encephalopathy 14	ad_inherited	1	13	chr9:135765706G>A	0.1.27/KCNT1/PMID_23086397_Patient_2.json
+PMID_36929019_F4_II2	ARHGEF15	OMIM:621331	Brain small vessel disease 5 with osteoporosis	ad_inherited	1	5	chr17:8319020C>T	0.1.27/ARHGEF15/PMID_36929019_F4_II2.json
+PMID_27656288_patient	COL5A2	OMIM:130010	Ehlers-Danlos syndrome, classic type, 2	ad_inherited	1	9	chr2:189086734C>T	0.1.27/COL5A2/PMID_27656288_patient.json
+PMID_38753057_Family_E_individual	ATXN7L3	OMIM:621377	Harel-Tora neurodevelopmental syndrome	ad_inherited	1	33	chr17:44197244G>A	0.1.27/ATXN7L3/PMID_38753057_Family_E_individual.json
+PMID_21371013_Case_2	SETBP1	OMIM:269150	Schinzel-Giedion midface retraction syndrome	ad_inherited	1	16	chr18:44951948G>A	0.1.27/SETBP1/PMID_21371013_Case_2.json
+PMID_17661815_Patient_B_III_3	CHD7	OMIM:214800	CHARGE syndrome	ad_inherited	1	13	chr8:60741901C>T	0.1.27/CHD7/PMID_17661815_Patient_B_III_3.json
+PMID_29491316_12_year_old_boy	HNF1B	OMIM:137920	Renal cysts and diabetes syndrome	ad_inherited	1	5	chr17:37739550A>T	0.1.27/HNF1B/PMID_29491316_12_year_old_boy.json
+PMID_36322151_KDM2B_13	KDM2B	OMIM:621474	Neurodevelopmental disorder with congenital cardiac defects and variable renal and ocular abnormalities	ad_inherited	1	16	chr12:121453173ACTT>A	0.1.27/KDM2B/PMID_36322151_KDM2B_13.json
+PMID_18423521_Patient_2	TFAP2A	OMIM:113620	Branchiooculofacial syndrome	ad_inherited	1	13	chr6:10404509T>C	0.1.27/TFAP2A/PMID_18423521_Patient_2.json
+PMID_37943617_Patient_2_IV_2	SEL1L	OMIM:621068	Neurodevelopmental disorder with hypotonia, poor growth, dysmorphic facies, and agammaglobulinemia	ad_inherited	1	3	chr14:81506160C>T	0.1.27/SEL1L/PMID_37943617_Patient_2_IV_2.json
+PMID_28482824_proband	MAF	OMIM:601088	Ayme-Gripp syndrome	ad_inherited	1	11	chr16:79599727G>C	0.1.27/MAF/PMID_28482824_proband.json
+PMID_37071997_Subject_I4	SRSF1	OMIM:620489	Neurodevelopmental disorder with dysmorphic facies and behavioral abnormalities	ad_inherited	1	6	chr17:58005875C>T	0.1.27/SRSF1/PMID_37071997_Subject_I4.json
+PMID_32730804_Individual_6	SCAF4	OMIM:620511	Fliedner-Zweier syndrome	ad_inherited	1	4	chr21:31692348C>G	0.1.27/SCAF4/PMID_32730804_Individual_6.json
+PMID_31173466_Suzuki_Patient_1	MRAS	OMIM:618499	Noonan syndrome-11	ad_inherited	1	14	chr3:138397342A>G	0.1.27/MRAS/PMID_31173466_Suzuki_Patient_1.json
+PMID_30356099_Patient_1	WWOX	OMIM:616211	Developmental and epileptic encephalopathy 28	ad_inherited	1	9	chr16:78109777G>T	0.1.27/WWOX/PMID_30356099_Patient_1.json
+PMID_24331334_DM_patient	RET	OMIM:171400	Multiple endocrine neoplasia IIA	ad_inherited	1	4	chr10:43114502C>G	0.1.27/RET/PMID_24331334_DM_patient.json
+PMID_26358773_Patient_1	SLC9A3	OMIM:616868	Diarrhea 8, secretory sodium, congenital	ad_inherited	1	9	chr5:483270C>T	0.1.27/SLC9A3/PMID_26358773_Patient_1.json
+PMID_23993195_Individual_1	GNAO1	OMIM:615473	Developmental and epileptic encephalopathy 17	ad_inherited	1	7	chr16:56351496T>A	0.1.27/GNAO1/PMID_23993195_Individual_1.json
+PMID_38503300_Individual_6	PSMB10	OMIM:620807	Immunodeficiency 121 with autoinflammation	ad_inherited	1	12	chr16:67934906C>T	0.1.27/PSMB10/PMID_38503300_Individual_6.json
+PMID_26541327_Pat_12_FXI	NBAS	OMIM:614800	Short stature, optic nerve atrophy, and Pelger-Huet anomaly	ad_inherited	1	17	chr2:15415656C>A	0.1.27/NBAS/PMID_26541327_Pat_12_FXI.json
+PMID_23388215_Proband_4	CALM1	OMIM:616247	Long QT syndrome 14	ad_inherited	1	4	chr14:90404693C>G	0.1.27/CALM1/PMID_23388215_Proband_4.json
+PMID_20358596_Patient_A	ANKH	OMIM:123000	Craniometaphyseal dysplasia	ad_inherited	1	9	chr5:14716832A>G	0.1.27/ANKH/PMID_20358596_Patient_A.json
+PMID_15028761_Patient	SCN2A	OMIM:613721	Developmental and epileptic encephalopathy 11	ad_inherited	1	4	chr2:165297053C>T	0.1.27/SCN2A/PMID_15028761_Patient.json
+PMID_30099644_III_3	PRPF31	OMIM:600138	Retinitis pigmentosa 11	ad_inherited	1	3	chr19:54126568G>A	0.1.27/PRPF31/PMID_30099644_III_3.json
+PMID_29078790_proband	PMP22	OMIM:162500	Neuropathy, recurrent, with pressure palsies	ad_inherited	1	4	chr17:15259092A>G	0.1.27/PMP22/PMID_29078790_proband.json
+PMID_40449487_Individual_4	TM2D3	OMIM:621379	Neurocardiorenal malformation syndrome	ad_inherited	1	20	chr15:101642546G>A	0.1.27/TM2D3/PMID_40449487_Individual_4.json
+PMID_31548836_Family_A_II1	RUNX2	OMIM:119600	Cleidocranial dysplasia	ad_inherited	1	17	chr6:45432016C>T	0.1.27/RUNX2/PMID_31548836_Family_A_II1.json
+PMID_15452312_II_5	KIF5A	OMIM:604187	Spastic paraplegia 10, autosomal dominant	ad_inherited	1	10	chr12:57569274C>T	0.1.27/KIF5A/PMID_15452312_II_5.json
+PMID_36595822_Case_presentation	PAX4	OMIM:612225	Maturity-onset diabetes of the young, type IX	ad_inherited	1	8	chr7:127613831G>A	0.1.27/PAX4/PMID_36595822_Case_presentation.json
+PMID_18264100_Family_1_patient_II1	TBXAS1	OMIM:231095	Ghosal hematodiaphyseal syndrome	ad_inherited	1	7	chr7:140017766T>C	0.1.27/TBXAS1/PMID_18264100_Family_1_patient_II1.json
+PMID_35420632_patient21_IV_2	POT1	OMIM:620367	Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 8	ad_inherited	1	8	chr7:124853065A>G	0.1.27/POT1/PMID_35420632_patient21_IV_2.json
+PMID_37148315_Family_5_Proband_II_1	NLRP7	OMIM:621471	Ooxyte/zygote/embryo maturation arrest 25 	ad_inherited	1	3	chr19:54934637G>A	0.1.27/NLRP7/PMID_37148315_Family_5_Proband_II_1.json
+PMID_15744029_Patient_1	KRT83	OMIM:621170	Monilethrix 3	ad_inherited	1	4	chr12:52315936C>T	0.1.27/KRT83/PMID_15744029_Patient_1.json
+PMID_8900230_Wang_et_al_1996_Patient_CS961588	FBN2	OMIM:121050	Contractural arachnodactyly, congenital	ad_inherited	1	6	chr5:128328823T>A	0.1.27/FBN2/PMID_8900230_Wang_et_al_1996_Patient_CS961588.json
+PMID_23546041_Patient_1	FGFR2	OMIM:101200	Apert syndrome	ad_inherited	1	16	chr10:121520163G>C	0.1.27/FGFR2/PMID_23546041_Patient_1.json
+PMID_19776401_Patient_3_1	DOCK8	OMIM:243700	Hyper-IgE syndrome 2, autosomal recessive, with recurrent infections	ad_inherited	1	18	chr9:311939T>G	0.1.27/DOCK8/PMID_19776401_Patient_3_1.json
+PMID_16965330_patient_13	AIRE	OMIM:240300	Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia	ad_inherited	1	5	chr21:44289773C>T	0.1.27/AIRE/PMID_16965330_patient_13.json
+PMID_25007886_Subject_3	SLC4A11	OMIM:613268	Corneal dystrophy, Fuchs endothelial, 4	ad_inherited	1	3	chr20:3230758G>A	0.1.27/SLC4A11/PMID_25007886_Subject_3.json
+PMID_38422122_Patient_1_Kindred_A	PTCRA	OMIM:620931	Immunodeficiency 126	ad_inherited	1	7	chr6:42916127G>C	0.1.27/PTCRA/PMID_38422122_Patient_1_Kindred_A.json
+PMID_11333380_P4	ACTA1	OMIM:161800	Congenital myopathy 2A, typical, autosomal dominant	ad_inherited	1	4	chr1:229432596G>C	0.1.27/ACTA1/PMID_11333380_P4.json
+PMID_38181735_Patient_1	PPFIA3	OMIM:621122	Paul-Chao neurodevelopmental syndrome	ad_inherited	1	26	chr19:49127988C>T	0.1.27/PPFIA3/PMID_38181735_Patient_1.json
+PMID_29196670_Patient_10	TSC1	OMIM:191100	Tuberous sclerosis-1	ad_inherited	1	5	chr9:132905877CGCAGGGCTTTCATCAGCACT>C	0.1.27/TSC1/PMID_29196670_Patient_10.json
+PMID_34826260_Patient_1	IKZF2	OMIM:621233	Immunodysregulation with variable immunodeficiency and autoimmunity	ad_inherited	1	21	chr2:213022105G>T	0.1.27/IKZF2/PMID_34826260_Patient_1.json
+PMID_36001342_Patient_III_4	YWHAZ	OMIM:618428	Popov-Chang syndrome	ad_inherited	1	7	chr8:100948743T>A	0.1.27/YWHAZ/PMID_36001342_Patient_III_4.json
+PMID_36860166_A_II_2	ATP5F1B	OMIM:621502	Dystonia 38	ad_inherited	1	3	chr12:56642532T>G	0.1.27/ATP5F1B/PMID_36860166_A_II_2.json
+PMID_37710961_Patient_1	MYCN	OMIM:620748	Megalencephaly-polydactyly syndrome	ad_inherited	1	11	chr2:15942243C>T	0.1.27/MYCN/PMID_37710961_Patient_1.json
+PMID_37065631_Proposita_I_1	LRP6	OMIM:621449	Osteopetrosis, autosomal dominant 4	ad_inherited	1	6	chr12:12187048G>A	0.1.27/LRP6/PMID_37065631_Proposita_I_1.json
+PMID_38465576_Individual_1	FEM1B	OMIM:621263	Neurodevelopmental disorder with behavioral, ear, and skeletal abnormalities	ad_inherited	1	27	chr15:68289735G>A	0.1.27/FEM1B/PMID_38465576_Individual_1.json
+PMID_36103875_Individual_3	GABBR1	OMIM:620502	Neurodevelopmental disorder with language delay and variable cognitive abnormalities	ad_inherited	1	6	chr6:29621234G>A	0.1.27/GABBR1/PMID_36103875_Individual_3.json
+PMID_38480682_F6_II_6	NAA60	OMIM:620786	Basal ganglia calcification, idiopathic, 9, autosomal recessive	ar_hom	1	9	chr16:3476277T>G	0.1.27/NAA60/PMID_38480682_F6_II_6.json
+PMID_35924320_proband	PPP1R13L	OMIM:620519	Arrhythmogenic cardiomyopathy with variable ectodermal abnormalities	ar_hom	1	7	chr19:45395721A>AG	0.1.27/PPP1R13L/PMID_35924320_proband.json
+PMID_9600239_propositus_VII_7	AMT	OMIM:620398	Glycine encephalopathy 2	ar_hom	1	4	chr3:49422237T>C	0.1.27/AMT/PMID_9600239_propositus_VII_7.json
+PMID_30247636_kindred_AH_proband_IV_1	GALE	OMIM:620776	Thrombocytopenia 13, syndromic	ar_hom	1	5	chr1:23798701G>A	0.1.27/GALE/PMID_30247636_kindred_AH_proband_IV_1.json
+PMID_39753114_F1_II_4	EEFSEC	OMIM:621102	Neurodevelopmental disorder with progressive spasticity and brain abnormalities	ar_hom	1	12	chr3:128153508A>G	0.1.27/EEFSEC/PMID_39753114_F1_II_4.json
+PMID_36823193_Patient_7_Family_5	TEFM	OMIM:620451	Combined oxidative phosphorylation deficiency 58	ar_hom	1	10	chr17:30904071GTCTTTC>G	0.1.27/TEFM/PMID_36823193_Patient_7_Family_5.json
+PMID_24269551_patient_IV_2	CHSY1	OMIM:605282	Temtamy preaxial brachydactyly syndrome	ar_hom	1	6	chr15:101177900C>T	0.1.27/CHSY1/PMID_24269551_patient_IV_2.json
+PMID_29051910_patient	SNAP29	OMIM:609528	Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome	ar_hom	1	20	chr22:20859195C>T	0.1.27/SNAP29/PMID_29051910_patient.json
+PMID_28183707_Case_presentation	LYST	OMIM:214500	Chediak-Higashi syndrome	ar_hom	1	7	chr1:235762812TAC>T	0.1.27/LYST/PMID_28183707_Case_presentation.json
+PMID_36303223_Proband_31_from_PMID_31806255	SUOX	OMIM:272300	Sulfite oxidase deficiency	ar_hom	1	7	chr12:56004771A>T	0.1.27/SUOX/PMID_36303223_Proband_31_from_PMID_31806255.json
+PMID_16501001_patient	CLDN16	OMIM:248250	Hypomagnesemia 3, renal	ar_hom	1	8	chr3:190409941A>T	0.1.27/CLDN16/PMID_16501001_patient.json
+PMID_41086021_Family_19_PT21_F19_II_1	ARHGAP19	OMIM:621466	Charcot-Marie-Tooth disease, axonal, type 2KK	ar_hom	1	7	chr10:97259559A>T	0.1.27/ARHGAP19/PMID_41086021_Family_19_PT21_F19_II_1.json
+PMID_34214472_patient_P1	CD28	OMIM:620901	Immunodeficiency 123 with HPV-related verrucosis	ar_hom	1	6	chr2:203706748G>A	0.1.27/CD28/PMID_34214472_patient_P1.json
+PMID_19807739_Patient_9	AIRE	OMIM:240300	Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia	ar_hom	1	6	chr21:44291179TGCCTGTCCCCTCC>T	0.1.27/AIRE/PMID_19807739_Patient_9.json
+PMID_30053862_Case_II_1	TP53RK	OMIM:617730	Galloway-Mowat syndrome 4	ar_hom	1	13	chr20:46689221T>A	0.1.27/TP53RK/PMID_30053862_Case_II_1.json
+PMID_40856104_Participant_2_1	TBCB	OMIM:621382	Neurodevelopmental disorder with behavioral abnormalities and childhood onset spastic paraplegia	ar_hom	1	11	chr19:36125492T>A	0.1.27/TBCB/PMID_40856104_Participant_2_1.json
+PMID_37352860_Individual_7	ERI1	OMIM:620662	Hoxha-Aliu syndrome	ar_hom	1	12	chr8:9016406G>A	0.1.27/ERI1/PMID_37352860_Individual_7.json
+PMID_38128568_Patient_FII_2	BORCS8	OMIM:620987	Neurodegeneration, infantile-onset, with optic atrophy and brain abnormalities	ar_hom	1	29	chr19:19186053T>G	0.1.27/BORCS8/PMID_38128568_Patient_FII_2.json
+PMID_40683276_Family_4_Patient_13	RCC1	OMIM:621333	Infection-induced acute-onset axonal neuropathy	ar_hom	1	3	chr1:28532189A>G	0.1.27/RCC1/PMID_40683276_Family_4_Patient_13.json
+PMID_37107710_F6_II_1	FDXR	OMIM:620887	Multiple mitochondrial dysfunctions syndrome 9B	ar_hom	1	4	chr17:74866529G>A	0.1.27/FDXR/PMID_37107710_F6_II_1.json
+PMID_22388936_II_1	ATP13A2	OMIM:606693	Kufor-Rakeb syndrome	ar_hom	1	10	chr1:16989739A>C	0.1.27/ATP13A2/PMID_22388936_II_1.json
+PMID_15656819_Patient_2	SPINK5	OMIM:256500	Netherton syndrome	ar_hom	1	11	chr5:148119005A>T	0.1.27/SPINK5/PMID_15656819_Patient_2.json
+PMID_37973953_Individual_13b	ZNF808	OMIM:620991	Pancreatic agenesis 3	ar_hom	1	4	chr19:52555223CA>C	0.1.27/ZNF808/PMID_37973953_Individual_13b.json
+PMID_27439707_Individual_1	CNTNAP2	OMIM:610042	Pitt-Hopkins like syndrome 1	ar_hom	1	10	chr7:147300272G>T	0.1.27/CNTNAP2/PMID_27439707_Individual_1.json
+PMID_29597274_patient_2	HMGCS2	OMIM:605911	HMG-CoA synthase-2 deficiency	ar_hom	1	8	chr1:119764301C>A	0.1.27/HMGCS2/PMID_29597274_patient_2.json
+PMID_26002053_proband	SV2A	OMIM:620772	Developmental and epileptic encephalopathy 113	ar_hom	1	15	chr1:149909832C>T	0.1.27/SV2A/PMID_26002053_proband.json
+PMID_25868664_Family_24_Case_11	FBXL4	OMIM:615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	ar_hom	1	4	chr6:98875562G>A	0.1.27/FBXL4/PMID_25868664_Family_24_Case_11.json
+PMID_20089953_Patient_III_1	PPIB	OMIM:259440	Osteogenesis imperfecta, type IX	ar_hom	1	8	chr15:64162961A>C	0.1.27/PPIB/PMID_20089953_Patient_III_1.json
+PMID_9012405_index_case_TTD6VI	ERCC3	OMIM:616390	Trichothiodystrophy 2, photosensitive	ar_hom	1	7	chr2:127292726T>G	0.1.27/ERCC3/PMID_9012405_index_case_TTD6VI.json
+PMID_31629014_Patient_P2	POLD1	OMIM:620836	Immunodeficiency 120	ar_hom	1	7	chr19:50417229C>T	0.1.27/POLD1/PMID_31629014_Patient_P2.json
+PMID_18513678_individual_5030	FBXO7	OMIM:260300	Parkinson disease 15, autosomal recessive	ar_hom	1	4	chr22:32493269C>G	0.1.27/FBXO7/PMID_18513678_individual_5030.json
+PMID_28403827_IV_3	HOXC13	OMIM:614931	Ectodermal dysplasia 9, hair/nail type	ar_hom	1	3	chr12:53945192A>C	0.1.27/HOXC13/PMID_28403827_IV_3.json
+PMID_36410285_patient_5	EPG5	OMIM:621506	Neurodevelopmental disorder with parkinsonism or other movement abnormalities	ar_hom	1	13	chr18:45889888C>T	0.1.27/EPG5/PMID_36410285_patient_5.json
+PMID_37584719_Patient_P4	RFXANK	OMIM:620815	MHC class II deficiency 2	ar_hom	1	3	chr19:19194107CG>C	0.1.27/RFXANK/PMID_37584719_Patient_P4.json
+PMID_40930097_Family_D_II_2	SNAPIN	OMIM:621393	Neurodevelopmental disorder with structural brain abnormalities and craniofacial abnormalities	ar_hom	1	12	chr1:153659141G>C	0.1.27/SNAPIN/PMID_40930097_Family_D_II_2.json
+PMID_29388673_Fam_2_II_1	NKX6-2	OMIM:617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	ar_hom	1	10	chr10:132785752CG>C	0.1.27/NKX6-2/PMID_29388673_Fam_2_II_1.json
+PMID_34183838_patient	PDCD1	OMIM:621004	Autoimmune disease with susceptibility to mycobacterium tuberculosis	ar_hom	1	18	chr2:241852951T>TG	0.1.27/PDCD1/PMID_34183838_patient.json
+PMID_39306721_Family_22_Individual_29	FLVCR1	OMIM:621060	Neurodevelopmental disorder with microcephaly, absent speech, and hypotonia	ar_hom	1	3	chr1:212863732C>G	0.1.27/FLVCR1/PMID_39306721_Family_22_Individual_29.json
+PMID_39753129_Family_9_II_1	CIROZ	OMIM:621080	Heterotaxy, visceral, 14	ar_hom	1	6	chr1:10949703TG>T	0.1.27/CIROZ/PMID_39753129_Family_9_II_1.json
+PMID_41125872_Pathogenic_04	UNC13A	OMIM:621455	Neurodevelopmental disorder with hypotonia, epilepsy, and absent speech	ar_hom	1	14	chr19:17658225G>A	0.1.27/UNC13A/PMID_41125872_Pathogenic_04.json
+PMID_15781812_individual_104	NHLRC1	OMIM:620681	Myoclonic epilepsy of Lafora 2	ar_hom	1	6	chr6:18121816G>C	0.1.27/NHLRC1/PMID_15781812_individual_104.json
+PMID_19474805_affected_girl	KRT10	OMIM:620707	Epidermolytic hyperkeratosis 2B, autosomal recessive	ar_hom	1	4	chr17:40819575T>TG	0.1.27/KRT10/PMID_19474805_affected_girl.json
+PMID_37963460_Family_3_individual_II_2	WBP4	OMIM:620852	Neurodevelopemental disorder with hypotonia, feeding difficulties, facial dysmorphism, and brain abnormalities	ar_hom	1	4	chr13:41072793GA>G	0.1.27/WBP4/PMID_37963460_Family_3_individual_II_2.json
+PMID_40267907_Family_6_2	UGGT1	OMIM:621381	Congenital disorder of glycosylation, type IICC	ar_hom	1	16	chr2:128187608C>T	0.1.27/UGGT1/PMID_40267907_Family_6_2.json
+PMID_40215970_F5_II_1	FBXO22	OMIM:621184	Tayoun-Maawali syndrome	ar_hom	1	26	chr15:75904504TGGAG>T	0.1.27/FBXO22/PMID_40215970_F5_II_1.json
+PMID_37913506_II_6	CORIN	OMIM:620734	Cardiomyopathy, familial hypertrophic, 30, atrial	ar_hom	1	6	chr4:47744516T>TC	0.1.27/CORIN/PMID_37913506_II_6.json
+PMID_24498630_ISR2	INSR	OMIM:246200	Donohue syndrome	ar_hom	1	17	chr19:7267830A>G	0.1.27/INSR/PMID_24498630_ISR2.json
+PMID_31761904_Individual_NBAS_11	NBAS	OMIM:614800	Short stature, optic nerve atrophy, and Pelger-Huet anomaly	ar_hom	1	8	chr2:15178988C>A	0.1.27/NBAS/PMID_31761904_Individual_NBAS_11.json
+PMID_38118446_F11_I_15	GTPBP2	OMIM:617988	Jaberi-Elahi syndrome	ar_hom	1	11	chr6:43624655C>T	0.1.27/GTPBP2/PMID_38118446_F11_I_15.json
+PMID_37582359_F4_III_1	AXIN1	OMIM:620558	Craniometadiaphyseal osteosclerosis with hip dysplasia	ar_hom	1	10	chr16:293507G>A	0.1.27/AXIN1/PMID_37582359_F4_III_1.json
+PMID_32480058_Case_F6P1_original_pedigree_II_1	ALPK3	OMIM:618052	Cardiomyopathy, familial hypertrophic 27	ar_hom	1	16	chr15:84840203CAA>C	0.1.27/ALPK3/PMID_32480058_Case_F6P1_original_pedigree_II_1.json
+PMID_32006683_patients_IV_3	EFEMP1	OMIM:620780	Cutis laxa, autosomal recessive, type ID	ar_hom	1	26	chr2:55918019A>G	0.1.27/EFEMP1/PMID_32006683_patients_IV_3.json
+PMID_19836009_Family_B_II_2	ADAMTS10	OMIM:277600	Weill-Marchesani syndrome 1, recessive	ar_hom	1	6	chr19:8592797C>T	0.1.27/ADAMTS10/PMID_19836009_Family_B_II_2.json
+PMID_40081376_Individual_10	MED16	OMIM:621220	Guillouet-Gordon syndrome	ar_hom	1	18	chr19:890961A>G	0.1.27/MED16/PMID_40081376_Individual_10.json
+PMID_30398675_Proband_III_2	PTRHD1	OMIM:620747	Neurodevelopmental disorder with early-onset parkinsonism and behavioral abnormalities	ar_hom	1	8	chr2:24793181GGGTGGTCGCGGTGAGTGTGCAAGGCCGC>G	0.1.27/PTRHD1/PMID_30398675_Proband_III_2.json
+PMID_29883675_second_family_patient_3	RTTN	OMIM:614833	Microcephaly, short stature, and polymicrogyria with seizures	ar_hom	1	8	chr18:70166967T>C	0.1.27/RTTN/PMID_29883675_second_family_patient_3.json
+PMID_24219130_boy	FOXE1	OMIM:241850	Bamforth-Lazarus syndrome	ar_hom	1	6	chr9:97854131C>A	0.1.27/FOXE1/PMID_24219130_boy.json
+PMID_39471804_Family_4_Ethiopian_Proband_1	WDR83OS	OMIM:621016	Neurodevelopmental disorder with variable familial hypercholanemia	ar_hom	1	22	chr19:12669127C>A	0.1.27/WDR83OS/PMID_39471804_Family_4_Ethiopian_Proband_1.json
+PMID_19949040_Patient_3	MUSK	OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency	ar_hom	1	7	chr9:110767930C>G	0.1.27/MUSK/PMID_19949040_Patient_3.json
+PMID_18264100_Family_3_patient_II6	TBXAS1	OMIM:231095	Ghosal hematodiaphyseal syndrome	ar_hom	1	6	chr7:140017747G>T	0.1.27/TBXAS1/PMID_18264100_Family_3_patient_II6.json
+PMID_17160903_younger_sister	CFL2	OMIM:610687	Nemaline myopathy 7, autosomal recessive	ar_hom	1	6	chr14:34713462C>T	0.1.27/CFL2/PMID_17160903_younger_sister.json
+PMID_28081210_FAMILY_1_XII_5	HYAL2	OMIM:621063	Muggenthaler-Chowdhury-Chioza syndrome	ar_hom	1	8	chr3:50320047T>C	0.1.27/HYAL2/PMID_28081210_FAMILY_1_XII_5.json
+PMID_35112411_Patient_5_Index_II_1	SCO2	OMIM:604377	Mitochondrial complex IV deficiency, nuclear type 2	ar_hom	1	9	chr22:50524051C>G	0.1.27/SCO2/PMID_35112411_Patient_5_Index_II_1.json
+PMID_35603789_Patient_4_D24N_D24N	GINS3	OMIM:621512	Meier-Gorlin syndrome 9	ar_hom	1	6	chr16:58392671G>A	0.1.27/GINS3/PMID_35603789_Patient_4_D24N_D24N.json
+PMID_24951643_Kinship_1_Patient_2	AGRN	OMIM:615120	Myasthenic syndrome, congenital, 8, with pre- and postsynaptic defects	ar_hom	1	5	chr1:1022225G>A	0.1.27/AGRN/PMID_24951643_Kinship_1_Patient_2.json
+PMID_20507343_III_1	DCAF17	OMIM:241080	Woodhouse-Sakati syndrome	ar_hom	1	5	chr2:171448746G>A	0.1.27/DCAF17/PMID_20507343_III_1.json
+PMID_28285769_Individual_4_II_4	CWC27	OMIM:250410	Retinitis pigmentosa with or without skeletal anomalies	ar_hom	1	18	chr5:64786628G>A	0.1.27/CWC27/PMID_28285769_Individual_4_II_4.json
+PMID_39962046_Q_II_1	SPOUT1	OMIM:621154	Neurodevelopmental disorder with poor growth, seizures, and brain abnormalities	ar_hom	1	10	chr9:128827144T>C	0.1.27/SPOUT1/PMID_39962046_Q_II_1.json
+PMID_36299998_affected_individual	TOMM7	OMIM:620601	Garg-Mishra progeroid syndrome	ar_hom	1	16	chr7:22822707A>G	0.1.27/TOMM7/PMID_36299998_affected_individual.json
+PMID_23559858_Family_A_IV_5	BBS1	OMIM:209900	Bardet-Biedl syndrome 1	ar_hom	1	8	chr11:66510707G>T	0.1.27/BBS1/PMID_23559858_Family_A_IV_5.json
+PMID_38441205_P4	RFX5	OMIM:620816	MHC class II deficiency 3	ar_hom	1	3	chr1:151342796TTC>T	0.1.27/RFX5/PMID_38441205_P4.json
+PMID_27843126_B_III_1	PIEZO2	OMIM:617146	Arthrogryposis, distal, with impaired proprioception and touch	ar_hom	1	13	chr18:10763015GACACTTGAAGC>G	0.1.27/PIEZO2/PMID_27843126_B_III_1.json
+PMID_15911822_Patient_9	PANK2	OMIM:234200	Neurodegeneration with brain iron accumulation 1	ar_hom	1	6	chr20:3908153C>T	0.1.27/PANK2/PMID_15911822_Patient_9.json
+PMID_28007989_F1_II_3	CAD	OMIM:616457	Developmental and epileptic encephalopathy 50	ar_hom	1	6	chr2:27217892T>G	0.1.27/CAD/PMID_28007989_F1_II_3.json
+PMID_29122497_29122497_P6	ISCA2	OMIM:616370	Multiple mitochondrial dysfunctions syndrome 4	ar_hom	1	8	chr14:74494329G>A	0.1.27/ISCA2/PMID_29122497_29122497_P6.json
+PMID_16865293_Family_1_individual_3Y8M	ERCC8	OMIM:216400	Cockayne syndrome, type A	ar_hom	1	12	chr5:60918351CAG>C	0.1.27/ERCC8/PMID_16865293_Family_1_individual_3Y8M.json
+PMID_29784638_Patient_VI_4	RBSN	OMIM:620939	Myelofibrosis, congenital, with anemia, neutropenia, developmental delay, and ocular abnormalities	ar_hom	1	28	chr3:15090399C>G	0.1.27/RBSN/PMID_29784638_Patient_VI_4.json
+PMID_36100156_Patient_2	LSM1	OMIM:621193	FICUS syndrome	ar_hom	1	27	chr8:38169915T>A	0.1.27/LSM1/PMID_36100156_Patient_2.json
+PMID_36553465_P3	SLC45A2	OMIM:606574	Albinism, oculocutaneous, type IV	ar_hom	1	10	chr5:33954363GGC>G	0.1.27/SLC45A2/PMID_36553465_P3.json
+PMID_27247962_USB1_patient	USB1	OMIM:604173	Poikiloderma with neutropenia	ar_hom	1	6	chr16:58009992T>TC	0.1.27/USB1/PMID_27247962_USB1_patient.json
+PMID_41130203_F7_II_3	RPS6KC1	OMIM:621460	Neurodevelopmental disorder with spasticity, thin corpus callosum, and decreased brain white matter	ar_hom	1	10	chr1:213242652GC>G	0.1.27/RPS6KC1/PMID_41130203_F7_II_3.json
+PMID_39198650_P1	TNF	OMIM:620977	Immunodeficiency 127 	ar_hom	1	3	chr6:31576537C>CCTCTCTAATCAGCCCTCTGG	0.1.27/TNF/PMID_39198650_P1.json
+PMID_30658709_patient	TJP2	OMIM:615878	Cholestasis, progressive familial intrahepatic 4	ar_hom	1	11	chr9:69238790G>C	0.1.27/TJP2/PMID_30658709_patient.json
+PMID_23505306_Patient_6	RPGRIP1	OMIM:613826	Leber congenital amaurosis 6	ar_hom	1	6	chr14:21312457GA>G	0.1.27/RPGRIP1/PMID_23505306_Patient_6.json
+PMID_30327448_Patient_4_Family_2	EXOC3L2	OMIM:620943	Brain malformation renal syndrome	ar_hom	1	10	chr19:45228053G>A	0.1.27/EXOC3L2/PMID_30327448_Patient_4_Family_2.json
+PMID_30564627_Subject_II_8	PI4K2A	OMIM:620732	Neurodevelopmental disorder with hyperkinetic movements, seizures and structural brain abnormalities	ar_hom	1	27	chr10:97640807C>A	0.1.27/PI4K2A/PMID_30564627_Subject_II_8.json
+PMID_38230350_Proband_P1_family_II_1	CAPNS1	OMIM:620777	Pulmonary hypertension, primary, 6	ar_hom	1	7	chr19:36146313G>A	0.1.27/CAPNS1/PMID_38230350_Proband_P1_family_II_1.json
+PMID_37833060_Family_F_II_1	SGSM3	OMIM:620401	Intellectual developmental disorder, autosomal recessive 84	ar_hom	1	17	chr22:40406457C>CA	0.1.27/SGSM3/PMID_37833060_Family_F_II_1.json
+PMID_35047834_Individual_7_2_Najmabadi_et_al_2011	ASCC3	OMIM:620700	Intellectual developmental disorder, autosomal recessive 81	ar_hom	1	7	chr6:100625287A>G	0.1.27/ASCC3/PMID_35047834_Individual_7_2_Najmabadi_et_al_2011.json
+PMID_37951597_Family_10_Subject_2	ACBD6	OMIM:620785	Neurodevelopmental disorder with progressive movement abnormalities	ar_hom	1	22	chr1:180397577T>C	0.1.27/ACBD6/PMID_37951597_Family_10_Subject_2.json
+PMID_28132690_Family_D_IV_1	EXTL3	OMIM:617425	Immunoskeletal dysplasia with neurodevelopmental abnormalitie	ar_hom	1	8	chr8:28717441C>T	0.1.27/EXTL3/PMID_28132690_Family_D_IV_1.json
+PMID_30968594_individual_20	CYP21A2	OMIM:201910	Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency	ar_hom	1	5	chr6:32039081C>G	0.1.27/CYP21A2/PMID_30968594_individual_20.json
+PMID_22178368_Patient_1	ROR2	OMIM:268310	Robinow syndrome, autosomal recessive 1	ar_hom	1	15	chr9:91733245G>A	0.1.27/ROR2/PMID_22178368_Patient_1.json
+PMID_27153400_Family_B_IV_5	CAPN1	OMIM:616907	Spastic paraplegia 76, autosomal recessive	ar_hom	1	5	chr11:65206793C>T	0.1.27/CAPN1/PMID_27153400_Family_B_IV_5.json
+PMID_16439204_P3	NHEJ1	OMIM:611291	Immunodeficiency 124, severe combined	ar_hom	1	9	chr2:219158183TAC>AA	0.1.27/NHEJ1/PMID_16439204_P3.json
+PMID_36752199_Family_3_P7	CFAP57	OMIM:620917	Spermatogenic failure 95	ar_hom	1	5	chr1:43224076C>T	0.1.27/CFAP57/PMID_36752199_Family_3_P7.json
+PMID_11992252_Patient_1	COL6A3	OMIM:620728	Ullrich congenital muscular dystrophy 1C	ar_hom	1	11	chr2:237348608C>T	0.1.27/COL6A3/PMID_11992252_Patient_1.json
+PMID_37919452_Family_4_patient_6	PLAAT3	OMIM:620683	Lipodystrophy, familial partial, type 9	ar_hom	1	25	chr11:63590148G>T	0.1.27/PLAAT3/PMID_37919452_Family_4_patient_6.json
+PMID_35026854_Patient_2	NOTCH3	OMIM:621295	Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 1	ar_hom	1	18	chr19:15200852TGGCGGCGACATCGGGCGACGGCGGC>T	0.1.27/NOTCH3/PMID_35026854_Patient_2.json
+PMID_39636576_F1_Germany_P2	GTF3C3	OMIM:621201	Neurodevelopmental disorder with dysmorphic facies, brain anomalies, and seizures	ar_hom	1	8	chr2:196776584T>C	0.1.27/GTF3C3/PMID_39636576_F1_Germany_P2.json
+PMID_21487076_Patient_II_4	KIF1A	OMIM:620607	Spastic paraplegia 30, autosomal recessive	ar_hom	1	7	chr2:240783773G>A	0.1.27/KIF1A/PMID_21487076_Patient_II_4.json
+PMID_29175559_Patient_4_Zolotushko_2011_V4	DHCR24	OMIM:602398	Desmosterolosis	ar_hom	1	10	chr1:54883698G>A	0.1.27/DHCR24/PMID_29175559_Patient_4_Zolotushko_2011_V4.json
+PMID_36745799_Individual_V_12	HMGCR	OMIM:620375	Muscular dystrophy, limb-girdle, autosomal recessive 28	ar_hom	1	13	chr5:75359992G>A	0.1.27/HMGCR/PMID_36745799_Individual_V_12.json
+PMID_36996813_Individual_4	ESAM	OMIM:620371	Neurodevelopmental disorder with intracranial hemorrhage, seizures, and spasticity	ar_hom	1	35	chr11:124756704AG>A	0.1.27/ESAM/PMID_36996813_Individual_4.json
+PMID_39132680_Family_2_21DG0844	PSKH1	OMIM:620962	Cholestasis, progressive familial intrahepatic, 13	ar_hom	1	13	chr16:67909110C>T	0.1.27/PSKH1/PMID_39132680_Family_2_21DG0844.json
+PMID_26437932_na	MPV17	OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	ar_hom	1	8	chr2:27313058C>T	0.1.27/MPV17/PMID_26437932_na.json
+PMID_32303603_family_P0005_IV_2	SYCP2L	OMIM:620840	Premature ovarian failure 24	ar_hom	1	4	chr6:10912753A>G	0.1.27/SYCP2L/PMID_32303603_family_P0005_IV_2.json
+PMID_40146200_P10	DNAH12	OMIM:621209	Spermatogenic failure 100	ar_hom	1	7	chr3:57459641A>G	0.1.27/DNAH12/PMID_40146200_P10.json
+PMID_29606302_B_II_1	AEBP1	OMIM:618000	Ehlers-Danlos syndrome, classic-like, 2	ar_hom	1	20	chr7:44110261GCCAGGAC>G	0.1.27/AEBP1/PMID_29606302_B_II_1.json
+PMID_40931063_Patient_4	PLD4	OMIM:621369	Systemic lupus erythematosus 18	ar_hom	1	14	chr14:104929990G>A	0.1.27/PLD4/PMID_40931063_Patient_4.json
+PMID_35188035_Proband	AHR	OMIM:620958	Foveal hypoplasia 3	ar_hom	1	6	chr7:17334102GTTGTGATGCCAAGTAAGTGAGACTT>G	0.1.27/AHR/PMID_35188035_Proband.json
+PMID_40244696_Subject_B	FAAP100	OMIM:621258	Fanconi anemia, complementation group X	ar_hom	1	29	chr17:81550332CCGGGCCTTCTT>C	0.1.27/FAAP100/PMID_40244696_Subject_B.json
+PMID_40374945_Patient_1	WSB2	OMIM:621552	Luo-Agrawal neurodevelopmental syndrome	ar_hom	1	29	chr12:118052364C>T	0.1.27/WSB2/PMID_40374945_Patient_1.json
+PMID_35285020_proband_IV_3	SPATA22	OMIM:621001	Spermatogenic failure 96	ar_hom	1	3	chr17:3449079G>A	0.1.27/SPATA22/PMID_35285020_proband_IV_3.json
+PMID_39824192_F_F_II_1	KICS2	OMIM:621100	Intellectual developmental disorder, autosomal recessive 83	ar_hom	1	6	chr12:64194292G>T	0.1.27/KICS2/PMID_39824192_F_F_II_1.json
+PMID_27007857_proband	PLCB4	OMIM:620458	Auriculocondylar syndrome 2B	ar_hom	1	16	chr20:9372340AG>A	0.1.27/PLCB4/PMID_27007857_proband.json
+PMID_40576023_Family_2_IV_2	ELFN1	OMIM:621344	Dursun-Ozgul neurodevelopmental syndrome	ar_hom	1	18	chr7:1746359CG>C	0.1.27/ELFN1/PMID_40576023_Family_2_IV_2.json
+PMID_27250695_Family_5_patient_6	ASPM	OMIM:608716	Microcephaly 5, primary, autosomal recessive	ar_hom	1	3	chr1:197139831TTTG>T	0.1.27/ASPM/PMID_27250695_Family_5_patient_6.json
+PMID_38637313_Family_2_Patient_2A	PACSIN3	OMIM:621343	Congenital myopathy 27	ar_hom	1	3	chr11:47180197C>A	0.1.27/PACSIN3/PMID_38637313_Family_2_Patient_2A.json
+PMID_36006710_Patient_3	CBLB	OMIM:620430	Autoimmune disease, multisystem, infantile-onset, 3	ar_hom	1	5	chr3:105745992T>A	0.1.27/CBLB/PMID_36006710_Patient_3.json
+PMID_36253531_Family_2_probed	LDB3	OMIM:621237	Cardiomyopathy, dilated, 2L	ar_hom	1	10	chr10:86716716C>T	0.1.27/LDB3/PMID_36253531_Family_2_probed.json
+PMID_9854053_Sister_II_3	SLC4A1	OMIM:611590	Distal renal tubular acidosis 4 with hemolytic anemia	ar_hom	1	12	chr17:44253327C>T	0.1.27/SLC4A1/PMID_9854053_Sister_II_3.json
+PMID_22701786_proband	FANCC	OMIM:227645	Fanconi anemia, complementation group C	ar_hom	1	7	chr9:95249224TC>T	0.1.27/FANCC/PMID_22701786_proband.json
+PMID_19776401_Patient_8_2	DOCK8	OMIM:243700	Hyper-IgE syndrome 2, autosomal recessive, with recurrent infections	ar_hom	1	13	chr9:336714A>G	0.1.27/DOCK8/PMID_19776401_Patient_8_2.json
+PMID_27040692_D_II_1	TBCK	OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3	ar_hom	1	16	chr4:106262103G>A	0.1.27/TBCK/PMID_27040692_D_II_1.json
+PMID_17968484_Patient_4	MCCC1	OMIM:210200	3-Methylcrotonyl-CoA carboxylase 1 deficiency	ar_hom	1	29	chr3:183037432A>C	0.1.27/MCCC1/PMID_17968484_Patient_4.json
+PMID_16276422_P4	RAG1	OMIM:609889	Alpha/beta T-cell lymphopenia with gamma/delta T-cell expansion, severe cytomegalovirus infection, and autoimmunity	ar_hom	1	3	chr11:36573559TAA>T	0.1.27/RAG1/PMID_16276422_P4.json
+PMID_21487760_Patient_6	PYCR1	OMIM:612940	Cutis laxa, autosomal recessive, type IIB	ar_hom	1	13	chr17:81934714C>T	0.1.27/PYCR1/PMID_21487760_Patient_6.json
+PMID_27023906_10DG0257_Individual_1	ATP6V1E1	OMIM:617402	Cutis laxa, autosomal recessive, type IIC	ar_hom	1	18	chr22:17592721G>A	0.1.27/ATP6V1E1/PMID_27023906_10DG0257_Individual_1.json
+PMID_41059649_Case_C_II_2	RRP12	OMIM:621452	Basal ganglia calcification, idiopathic, 11, autosomal recessive	ar_hom	1	14	chr10:97380903C>T	0.1.27/RRP12/PMID_41059649_Case_C_II_2.json
+PMID_25704603_Family_W10_3099_individual_II_4	SLC6A17	OMIM:616269	Intellectual developmental disorder, autosomal recessive 48	ar_hom	1	15	chr1:110174012G>A	0.1.27/SLC6A17/PMID_25704603_Family_W10_3099_individual_II_4.json
+PMID_27495153_Patient_1	WWOX	OMIM:616211	Developmental and epileptic encephalopathy 28	ar_hom	1	17	chr16:78108446G>A	0.1.27/WWOX/PMID_27495153_Patient_1.json
+PMID_36546111_brother_F1_1	CCIN	OMIM:620838	Spermatogenic failure 91	ar_hom	1	4	chr9:36169627A>T	0.1.27/CCIN/PMID_36546111_brother_F1_1.json
+PMID_30850397_proband_II_2	BBS5	OMIM:615983	Bardet-Biedl syndrome 5	ar_hom	1	10	chr2:169487136T>C	0.1.27/BBS5/PMID_30850397_proband_II_2.json
+PMID_31213928_patient	ASAH1	OMIM:159950	Spinal muscular atrophy with progressive myoclonic epilepsy	ar_hom	1	10	chr8:18075541G>A	0.1.27/ASAH1/PMID_31213928_patient.json
+PMID_23972372_family_1_V_13	DDX59	OMIM:174300	Orofaciodigital syndrome V	ar_hom	1	7	chr1:200650639A>C	0.1.27/DDX59/PMID_23972372_family_1_V_13.json
+PMID_40043708_F2	MRPL49	OMIM:621195	Combined oxidative phosphorylation deficiency 60	ar_hom	1	4	chr11:65125533A>C	0.1.27/MRPL49/PMID_40043708_F2.json
+PMID_30787422_E11_205	EEF1D	OMIM:621150	Neurodevelopmental disorder with thin corpus callosum, hypotonia, and absent language	ar_hom	1	10	chr8:143589134C>T	0.1.27/EEF1D/PMID_30787422_E11_205.json
+PMID_39315527_Family_3_IV_4	INPP4A	OMIM:621354	Neurodevelopmental disorder with growth impairment, quadriparesis, and poor or absent speech	ar_hom	1	15	chr2:98520717T>G	0.1.27/INPP4A/PMID_39315527_Family_3_IV_4.json
+PMID_31636267_patient	RC3H1	OMIM:618998	Immune dysregulation and systemic hyperinflammation syndrome 	ar_hom	1	26	chr1:173961865G>A	0.1.27/RC3H1/PMID_31636267_patient.json
+PMID_12189163_Sib_1	FBLN5	OMIM:219100	Cutis laxa, autosomal recessive, type IA	ar_hom	1	7	chr14:91887253A>G	0.1.27/FBLN5/PMID_12189163_Sib_1.json
+PMID_26423925_Patient_IV_1	KLC4	OMIM:621129	Neurodegeneration, early-childhood-onset, with retinitis pigmentosa, sensorineural hearing loss, and demyelinating peripheral neuropathy 	ar_hom	1	13	chr6:43067001AGAATAAGTATAAGGAAGCT>A	0.1.27/KLC4/PMID_26423925_Patient_IV_1.json
+PMID_26805781_Family_3_Subject_3_II_1	TANGO2	OMIM:616878	Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration	ar_hom	1	12	chr22:20061538G>A	0.1.27/TANGO2/PMID_26805781_Family_3_Subject_3_II_1.json
+PMID_19185281_Family_1_individual_209	SPINT2	OMIM:270420	Diarrhea 3, secretory sodium, congenital, syndromic	ar_hom	1	8	chr19:38291839G>A	0.1.27/SPINT2/PMID_19185281_Family_1_individual_209.json
+PMID_36965478_Individual_8	SNAPC4	OMIM:620515	Neurodevelopmental disorder with motor regression, progressive spastic paraplegia, and oromotor dysfunction	ar_hom	1	10	chr9:136379836C>T	0.1.27/SNAPC4/PMID_36965478_Individual_8.json
+PMID_38054405_Family_5_individual_P10	SLC4A10	OMIM:620746	Neurodevelopmental disorder with hypotonia and characteristic brain abnormalities	ar_hom	1	6	chr2:161708831T>C	0.1.27/SLC4A10/PMID_38054405_Family_5_individual_P10.json
+PMID_40830826_Family_2_II_4	COX18	OMIM:621488	Charcot-Marie-Tooth disease, axonal, type 2MM	ar_hom	1	12	chr4:73069435A>C	0.1.27/COX18/PMID_40830826_Family_2_II_4.json
+PMID_40615527_Patient_4	CILK1	OMIM:621337	Cranioectodermal dysplasia 6	ar_hom	1	24	chr6:53006393CAT>C	0.1.27/CILK1/PMID_40615527_Patient_4.json
+PMID_38158856_Patient_4_Family_III	CACHD1	OMIM:621566	Davis-Wells syndrome	ar_hom	1	16	chr1:64582161C>CA	0.1.27/CACHD1/PMID_38158856_Patient_4_Family_III.json
+PMID_33258289_Case_1	CUL7	OMIM:273750	3-M syndrome 1	ar_hom	1	22	chr6:43052216ATG>A	0.1.27/CUL7/PMID_33258289_Case_1.json
+PMID_11917274_Individual_II_3	LIM2	OMIM:615277	Cataract 19, multiple types	ar_hom	1	3	chr19:51382430A>C	0.1.27/LIM2/PMID_11917274_Individual_II_3.json
+PMID_39642330_Patient_3	COPZ1	OMIM:621439	Neutropenia, severe congenital, 12, autosomal recessive	ar_hom	1	10	chr12:54347843G>C	0.1.27/COPZ1/PMID_39642330_Patient_3.json
+PMID_21236492_Individual_P1	LAMB2	OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities	ar_hom	1	5	chr3:49132135T>C	0.1.27/LAMB2/PMID_21236492_Individual_P1.json
+PMID_34255152_Patient	CFAP206	OMIM:621387	Spermatogenic failure 102 	ar_hom	1	7	chr6:87434981C>CA	0.1.27/CFAP206/PMID_34255152_Patient.json
+PMID_41533792_Family_1_subject_1	PGBD5	OMIM:621482	Neurodevelopmental disorder with seizures, hypotonia, and variable spasticity	ar_hom	1	17	chr1:230425880C>A	0.1.27/PGBD5/PMID_41533792_Family_1_subject_1.json
+PMID_32631816_Patient_IV_2_1	DLG5	OMIM:620703	Yuksel-Vogel-Bauser syndrome	ar_hom	1	10	chr10:77822023G>A	0.1.27/DLG5/PMID_32631816_Patient_IV_2_1.json
+PMID_38413582_Family_6_individual_II_3	SNUPN	OMIM:620793	Muscular dystrophy, limb-girdle, autosomal recessive 29	ar_hom	1	12	chr15:75598540AGT>A	0.1.27/SNUPN/PMID_38413582_Family_6_individual_II_3.json
+PMID_28823388_3_month_old_girl	ADA	OMIM:102700	Severe combined immunodeficiency due to ADA deficiency	ar_hom	1	11	chr20:44625566C>G	0.1.27/ADA/PMID_28823388_3_month_old_girl.json
+PMID_28258187_Patient_1	COL3A1	OMIM:618343	Polymicrogyria with or without vascular-type EDS	ar_hom	1	10	chr2:188984825C>G	0.1.27/COL3A1/PMID_28258187_Patient_1.json
+PMID_16900296_IV_5	CPAP	OMIM:608393	Microcephaly 6, primary, autosomal recessive	ar_hom	1	3	chr13:24889370TCTGA>T	0.1.27/CPAP/PMID_16900296_IV_5.json
+PMID_36256512_F1_II_2	NFU1	OMIM:620938	Spastic paraplegia 93, autosomal recessive	ar_hom	1	8	chr2:69396290C>G	0.1.27/NFU1/PMID_36256512_F1_II_2.json
+PMID_36136088_Family_3_II_1	FICD	OMIM:620911	Spastic paraplegia 92, autosomal recessive	ar_hom	1	12	chr12:108519219G>A	0.1.27/FICD/PMID_36136088_Family_3_II_1.json
+PMID_38177974_IV_2	PABPC1L	OMIM:621093	Oocyte/zygote/embryo maturation arrest 22	ar_hom	1	3	chr20:44930524C>T	0.1.27/PABPC1L/PMID_38177974_IV_2.json
+PMID_28652255_V_3	APTX	OMIM:208920	Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia	ar_hom	1	5	chr9:32984704T>A	0.1.27/APTX/PMID_28652255_V_3.json
+PMID_34363755_Family_3_individual_P4	TBK1	OMIM:620880	Autoinflammation with arthritis and vasculitis	ar_hom	1	6	chr12:64485995C>T	0.1.27/TBK1/PMID_34363755_Family_3_individual_P4.json
+PMID_21217109_patient_32666	NRL	OMIM:621371	Enhanced S-cone syndrome 2	ar_hom	1	7	chr14:24081442G>T	0.1.27/NRL/PMID_21217109_patient_32666.json
+PMID_38118446_F2_I_2	GTPBP1	OMIM:620888	Neurodevelopmental disorder with characteristic facial and ectodermal features and tetraparesis 1	ar_hom	1	19	chr22:38728108C>T	0.1.27/GTPBP1/PMID_38118446_F2_I_2.json
+PMID_38272031_Individual_5_1	SAMD7	OMIM:620762	Macular dystrophy with or without cone dysfunction	ar_hom	1	3	chr3:169938318G>A	0.1.27/SAMD7/PMID_38272031_Individual_5_1.json
+PMID_25533820_proband	BBS4	OMIM:615982	Bardet-Biedl syndrome 4	ar_hom	1	11	chr15:72695222A>T	0.1.27/BBS4/PMID_25533820_proband.json
+PMID_28620732_6_y_old_boy	MCOLN1	OMIM:252650	Mucolipidosis IV	ar_hom	1	10	chr19:7527953G>GC	0.1.27/MCOLN1/PMID_28620732_6_y_old_boy.json
+PMID_31325447_Case_1	COQ4	OMIM:616276	Coenzyme Q10 deficiency, primary, 7	ar_hom	1	13	chr9:128325849G>A	0.1.27/COQ4/PMID_31325447_Case_1.json
+PMID_40455867_P2	LGI1	OMIM:621475	Developmental and epileptic encephalopathy 121	ar_hom	1	18	chr10:93797060C>T	0.1.27/LGI1/PMID_40455867_P2.json
+PMID_28886341_Individual_F4_II_2	CDK10	OMIM:617694	Al Kaissi syndrome	ar_hom	1	24	chr16:89693468G>A	0.1.27/CDK10/PMID_28886341_Individual_F4_II_2.json
+PMID_34155512_III_1	STK33	OMIM:620849	Spermatogenic failure 93	ar_hom	1	9	chr11:8413603TG>T	0.1.27/STK33/PMID_34155512_III_1.json
+PMID_37077559_Sibling_2	COQ7	OMIM:620402	Neuronopathy, distal hereditary motor, autosomal recessive 9	ar_hom	1	4	chr16:19067665A>G	0.1.27/COQ7/PMID_37077559_Sibling_2.json
+PMID_26833330_F1_II3	VMA12	OMIM:616829	Congenital disorder of glycosylation, type Iip	ar_hom	1	9	chr17:28357690C>A	0.1.27/VMA12/PMID_26833330_F1_II3.json
+PMID_32591345_NAD_07_individual_IV_6	GNPNAT1	OMIM:619598	Rhizomelic dysplasia, Ain-Naz type	ar_hom	1	7	chr14:52781903C>T	0.1.27/GNPNAT1/PMID_32591345_NAD_07_individual_IV_6.json
+PMID_36190515_Patient_4	GCSH	OMIM:620423	Multiple mitochondrial dysfunctions syndrome 7	ar_hom	1	6	chr16:81082946T>G	0.1.27/GCSH/PMID_36190515_Patient_4.json
+PMID_37943610_Patient_3	SEL1L	OMIM:621067	Neurodevelopmental disorder with poor growth, absent speech, progressive ataxia, and dysmorphic facies	ar_hom	1	13	chr14:81487439A>C	0.1.27/SEL1L/PMID_37943610_Patient_3.json
+PMID_40890458_Family_1_IV_2	SKOR2	OMIM:621386	Valence-Farazi cerebellar ataxia syndrome	ar_hom	1	7	chr18:47248810C>G	0.1.27/SKOR2/PMID_40890458_Family_1_IV_2.json
+PMID_29707406_B_III_2	ADGRG1	OMIM:606854	Cortical dysplasia, complex, with other brain malformations 14A, (bilateral frontoparietal)	ar_hom	1	5	chr16:57659534C>T	0.1.27/ADGRG1/PMID_29707406_B_III_2.json
+PMID_27672653_Individual_5	GCDH	OMIM:231670	Glutaricaciduria, type I	ar_hom	1	7	chr19:12891930A>C	0.1.27/GCDH/PMID_27672653_Individual_5.json
+PMID_31775018_patient	MAN2B2	OMIM:621140	Congenital disorder of glycosylation type 1EE with or without immunodeficiency	ar_hom	1	28	chr4:6575322G>A	0.1.27/MAN2B2/PMID_31775018_patient.json
+PMID_37163662_Family_A_Patient_1	FILIP1	OMIM:620775	Neuromuscular disorder, congenital, with dysmorphic facies	ar_hom	1	17	chr6:75414804G>A	0.1.27/FILIP1/PMID_37163662_Family_A_Patient_1.json
+PMID_37713809_F013_II_1	AK9	OMIM:620705	Spermatogenic failure 89	ar_hom	1	6	chr6:109499214A>ATAAC	0.1.27/AK9/PMID_37713809_F013_II_1.json
+PMID_39209701_Patient_2	TUBA1C	OMIM:621232	Oocyte/zygote/embryo maturation arrest 24	ar_hom	1	3	chr12:49273205AG>A	0.1.27/TUBA1C/PMID_39209701_Patient_2.json
+PMID_29169895_proband	ITPR1	OMIM:206700	Gillespie syndrome	ar_hom	1	13	chr3:4680564T>TTATA	0.1.27/ITPR1/PMID_29169895_proband.json
+PMID_38977784_PK1_II_2	NAV3	OMIM:621182	Neurodevelopmental disorder with poor or absent speech, dysmorphic facies, and behavioral abnormalities	ar_hom	1	7	chr12:78006534G>A	0.1.27/NAV3/PMID_38977784_PK1_II_2.json
+PMID_39531736_Family_SPA1_individual_P1	HMGCS1	OMIM:621433	Congenital myopathy 28 with rigid spine	ar_hom	1	7	chr5:43292608A>G	0.1.27/HMGCS1/PMID_39531736_Family_SPA1_individual_P1.json
+PMID_25406581_P2	MAP3K14	OMIM:620449	Immunodeficiency 112	ar_hom	1	10	chr17:45271185G>C	0.1.27/MAP3K14/PMID_25406581_P2.json
+PMID_17646629_brother_II_4	SPG7	OMIM:607259	Spastic paraplegia 7, autosomal recessive	ar_hom	1	11	chr16:89553932G>C	0.1.27/SPG7/PMID_17646629_brother_II_4.json
+PMID_28318500_1_II_1	TMEM260	OMIM:617478	Structural heart defects and renal anomalies syndrome	ar_hom	1	9	chr14:56621697C>T	0.1.27/TMEM260/PMID_28318500_1_II_1.json
+PMID_11555793_sister_BA	GATM	OMIM:612718	Cerebral creatine deficiency syndrome 3	ar_hom	1	5	chr15:45369364C>T	0.1.27/GATM/PMID_11555793_sister_BA.json
+PMID_9817917_Family_1_individual_5519	WFS1	OMIM:222300	Wolfram syndrome 1	ar_hom	1	7	chr4:6301174CCACCGAGGT>C	0.1.27/WFS1/PMID_9817917_Family_1_individual_5519.json
+PMID_29469822_Family_8_II_11	LZTR1	OMIM:605275	Noonan syndrome 2	ar_hom	1	14	chr22:20988117C>T	0.1.27/LZTR1/PMID_29469822_Family_8_II_11.json
+PMID_38441556_Patient_08IF039	CCDC146	OMIM:620850	Spermatogenic failure 94	ar_hom	1	7	chr7:77262218C>T	0.1.27/CCDC146/PMID_38441556_Patient_08IF039.json
+PMID_22541559_individual_Khan_II_3	NSUN2	OMIM:611091	Intellectual developmental disorder, autosomal recessive 5	ar_hom	1	5	chr5:6600195C>T	0.1.27/NSUN2/PMID_22541559_individual_Khan_II_3.json
+PMID_25516138_IV_5	FYB1	OMIM:273900	Thrombocytopenia 3	ar_hom	1	3	chr5:39138664CAT>C	0.1.27/FYB1/PMID_25516138_IV_5.json
+PMID_31784481_P1	DONSON	OMIM:621528	Meier-Gorlin syndrome 10	ar_hom	1	7	chr21:33584744G>A	0.1.27/DONSON/PMID_31784481_P1.json
+PMID_33875846_patient_23	RAP1GDS1	OMIM:620655	Alfadhel syndrome	ar_hom	1	8	chr4:98293481CT>C	0.1.27/RAP1GDS1/PMID_33875846_patient_23.json
+PMID_41570816_Family_5_patient_P5A	MDGA2	OMIM:621608	Developmental and epileptic encephalopathy 122	ar_hom	1	32	chr14:46855148A>C	0.1.27/MDGA2/PMID_41570816_Family_5_patient_P5A.json
+PMID_38386308_F5a_II_3	ZSCAN10	OMIM:620910	Otofacial neurodevelopmental syndrome	ar_hom	1	8	chr16:3089978G>A	0.1.27/ZSCAN10/PMID_38386308_F5a_II_3.json
+PMID_33507216_Family_F976_Patient_CIC02713	CLN3	OMIM:621548	Retinitis pigmentosa 101	ar_hom	1	8	chr16:28477608T>C	0.1.27/CLN3/PMID_33507216_Family_F976_Patient_CIC02713.json
+PMID_37054711_Family_10_Subject_13	INTS11	OMIM:620428	Neurodevelopmental disorder with motor and language delay, ocular defects, and brain abnormalities	ar_hom	1	10	chr1:1321072C>A	0.1.27/INTS11/PMID_37054711_Family_10_Subject_13.json
+PMID_2022752_proband_EK	BCKDHB	OMIM:620698	Maple syrup urine disease, type Ib	ar_hom	1	3	chr6:80106772CCTGGCGCGGGG>C	0.1.27/BCKDHB/PMID_2022752_proband_EK.json
+PMID_14702087_Guatemalan_patient	RGS9BP	OMIM:620344	Prolonged electroretinal response suppression 2	ar_hom	1	4	chr19:32676454A>AC	0.1.27/RGS9BP/PMID_14702087_Guatemalan_patient.json
+PMID_37030525_proband_IV_6	POLD3	OMIM:620869	Immunodeficiency 122	ar_hom	1	13	chr11:74592687T>C	0.1.27/POLD3/PMID_37030525_proband_IV_6.json
+PMID_7803799_proband	EPB42	OMIM:612690	Spherocytosis, type 5	ar_hom	1	6	chr15:43216378CG>C	0.1.27/EPB42/PMID_7803799_proband.json
+PMID_23099195_Patient_5	ASS1	OMIM:215700	Citrullinemia	ar_hom	1	7	chr9:130466723A>G	0.1.27/ASS1/PMID_23099195_Patient_5.json
+PMID_10560675_P3	TAP2	OMIM:620813	MHC class I deficiency 2	ar_hom	1	4	chr6:32832790CT>C	0.1.27/TAP2/PMID_10560675_P3.json
+PMID_12812989_atypical_SLOS_patient	SC5D	OMIM:607330	Lathosterolosis	ar_hom	1	9	chr11:121303512A>C	0.1.27/SC5D/PMID_12812989_atypical_SLOS_patient.json
+PMID_12445216_affected_13_y_old_patient	CDH3	OMIM:601553	Hypotrichosis, congenital, with juvenile macular dystrophy	ar_hom	1	4	chr16:68685288G>A	0.1.27/CDH3/PMID_12445216_affected_13_y_old_patient.json
+PMID_10498624_Case_2_MD	NCF2	OMIM:233710	Chronic granulomatous disease 2, autosomal recessive	ar_hom	1	3	chr1:183563436CAGCTT>C	0.1.27/NCF2/PMID_10498624_Case_2_MD.json
+PMID_37880421_Family_1_II_3	CASP2	OMIM:620653	Intellectual developmental disorder, autosomal recessive 80, with variant lissencephaly	ar_hom	1	13	chr7:143304711GT>G	0.1.27/CASP2/PMID_37880421_Family_1_II_3.json
+PMID_38527963_F2_Case_4	RTN2	OMIM:620854	Neuronopathy, distal hereditary motor, autosomal recessive 11, with spasticity	ar_hom	1	16	chr19:45494277A>ATG	0.1.27/RTN2/PMID_38527963_F2_Case_4.json
+PMID_39526957_Patient_2	ITGAV	OMIM:621375	Immune dysregulation, neurodevelopmental defects, and colitis	ar_hom	1	14	chr2:186641565A>T	0.1.27/ITGAV/PMID_39526957_Patient_2.json
+PMID_29620724_15DG2222	PAN2	OMIM:621384	Developmental delay with variable cardiac and renal congenital anomalies and dysmorphic facies	ar_hom	1	29	chr12:56319424AG>A	0.1.27/PAN2/PMID_29620724_15DG2222.json
+PMID_36067010_Family_4_Patient_7	DEPDC5	OMIM:620504	Developmental and epileptic encephalopathy 111	ar_hom	1	4	chr22:31838746C>T	0.1.27/DEPDC5/PMID_36067010_Family_4_Patient_7.json
+PMID_38609546_patient_P1	SHARPIN	OMIM:620795	Autoinflammation with episodic fever and immune dysregulation	ar_hom	1	10	chr8:144103206A>AG	0.1.27/SHARPIN/PMID_38609546_patient_P1.json
+PMID_35670808_Family_3_A4	BUD13	OMIM:621123	Achalasia-progeroid syndrome	ar_hom	1	15	chr11:116762901G>A	0.1.27/BUD13/PMID_35670808_Family_3_A4.json
+PMID_22510444_Patient_1	LZTFL1	OMIM:615994	Bardet-Biedl syndrome 17	ar_hom	1	36	chr3:45833099GGCTTT>G	0.1.27/LZTFL1/PMID_22510444_Patient_1.json
+PMID_36727596_OP_4161_II1	CLXN	OMIM:620642	Ciliary dyskinesia, primary, 53	ar_hom	1	8	chr8:48731432GACCTTGCCTCTCT>G	0.1.27/CLXN/PMID_36727596_OP_4161_II1.json
+PMID_33539324_C_II_3	TSPOAP1	OMIM:620456	Dystonia 22, adult-onset	ar_hom	1	3	chr17:58305398C>T	0.1.27/TSPOAP1/PMID_33539324_C_II_3.json
+PMID_33912663_son	COL4A2	OMIM:621414	Brain small vessel disease 2B, autosomal recessive	ar_hom	1	12	chr13:110492087G>C	0.1.27/COL4A2/PMID_33912663_son.json
+PMID_27132592_Subject_2	TRMT10C	OMIM:616974	Combined oxidative phosphorylation deficiency 30	ar_hom	1	16	chr3:101565323G>T	0.1.27/TRMT10C/PMID_27132592_Subject_2.json
+PMID_33350388_Patient_KD_5_3	KDM5A	OMIM:620820	El Hayek-Chahrour neurodevelopmental syndrome	ar_hom	1	18	chr12:334302A>C	0.1.27/KDM5A/PMID_33350388_Patient_KD_5_3.json
+PMID_36826837_Proband_6	TBC1D32	OMIM:621307	Alsahan-Harris syndrome	ar_hom	1	10	chr6:121106161ACT>A	0.1.27/TBC1D32/PMID_36826837_Proband_6.json
+PMID_35166435_third_pregnancy_IV_7	NEXN	OMIM:621261	Cardiomyopathy, dilated, 2M, autosomal recessive	ar_hom	1	9	chr1:77935872TG>T	0.1.27/NEXN/PMID_35166435_third_pregnancy_IV_7.json
+PMID_25801283_proband_III_4	TRIM63	OMIM:621270	Cardiomyopathy, familial hypertrophic, 31	ar_hom	1	21	chr1:26058482G>A	0.1.27/TRIM63/PMID_25801283_proband_III_4.json
+PMID_37179472_Family_1_II_1	DRG1	OMIM:620641	Tan-Almurshedi syndrome	ar_hom	1	21	chr22:31400737G>T	0.1.27/DRG1/PMID_37179472_Family_1_II_1.json
+PMID_36351433_F2_IV_3	EMILIN1	OMIM:620908	Arterial tortuosity-bone fragility syndrome	ar_hom	1	23	chr2:27079210GC>G	0.1.27/EMILIN1/PMID_36351433_F2_IV_3.json
+PMID_35991565_Family_I_3	MEIOB	OMIM:620686	Premature ovarian failure 23	ar_hom	1	5	chr16:1839399CAT>C	0.1.27/MEIOB/PMID_35991565_Family_I_3.json
+PMID_28065471_PV_1	ATP6V1A	OMIM:617403	Cutis laxa, autosomal recessive, type IID	ar_hom	1	12	chr3:113784227G>A	0.1.27/ATP6V1A/PMID_28065471_PV_1.json
+PMID_17110937_Patient_1	GGCX	OMIM:610842	Pseudoxanthoma elasticum-like disorder with multiple coagulation factor deficiency	ar_hom	1	9	chr2:85551943C>G	0.1.27/GGCX/PMID_17110937_Patient_1.json
+PMID_38422122_Patient_9_Kindred_F	PTCRA	OMIM:620931	Immunodeficiency 126	ar_hom	1	5	chr6:42916111T>A	0.1.27/PTCRA/PMID_38422122_Patient_9_Kindred_F.json
+PMID_37433783_P13	EZH1	OMIM:601674	EZH1-related neurodevelopmental disorder	ar_hom	1	6	chr17:42709886C>A	0.1.27/EZH1/PMID_37433783_P13.json
+PMID_16855267_Patient1	NEUROG3	OMIM:610370	Diarrhea 4, malabsorptive, congenital	ar_hom	1	6	chr10:69572725G>T	0.1.27/NEUROG3/PMID_16855267_Patient1.json
+PMID_39279645_Family_2_S2	PTPMT1	OMIM:621199	Neurodevelopmental disorder with ataxia and brain abnormalities	ar_hom	1	19	chr11:47565986G>C	0.1.27/PTPMT1/PMID_39279645_Family_2_S2.json
+PMID_20887961_Patient_2	SCARF2	OMIM:600920	Van den Ende-Gupta syndrome	ar_hom	1	14	chr22:20431099C>T	0.1.27/SCARF2/PMID_20887961_Patient_2.json
+PMID_38423010_individual_C2	SNF8	OMIM:620783	Developmental and epileptic encephalopathy 115	ar_hom	1	7	chr17:48931659C>A	0.1.27/SNF8/PMID_38423010_individual_C2.json
+PMID_36074124_2_IV_1	DAW1	OMIM:620570	Ciliary dyskinesia, primary, 52	ar_hom	1	7	chr2:227893834G>A	0.1.27/DAW1/PMID_36074124_2_IV_1.json
+PMID_24355708_IHG25190_individual_4	PNPLA6	OMIM:215470	Boucher-Neuhauser syndrome	ar_hom	1	10	chr19:7556502C>T	0.1.27/PNPLA6/PMID_24355708_IHG25190_individual_4.json
+PMID_35617047_Proband_1a	RRM1	OMIM:620647	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 6	ar_hom	1	19	chr11:4123206G>A	0.1.27/RRM1/PMID_35617047_Proband_1a.json
+PMID_15945070_7_month_old_girl	ALG9	OMIM:608776	Congenital disorder of glycosylation, type Il	ar_hom	1	11	chr11:111853415T>C	0.1.27/ALG9/PMID_15945070_7_month_old_girl.json
+PMID_36941667_Proband_M084	NOS3	OMIM:621469	Moyamoya disease 8	ar_hom	1	11	chr7:151001618G>C	0.1.27/NOS3/PMID_36941667_Proband_M084.json
+PMID_39106866_Individual_7	RFC4	OMIM:621010	Morimoto-Ryu-Malicdan neuromuscular syndrome	ar_hom	1	15	chr3:186790381CCAT>C	0.1.27/RFC4/PMID_39106866_Individual_7.json
+PMID_38430071_F2_II_1	NIT1	OMIM:621313	Brain small vessel disease 4	ar_hom	1	8	chr1:161120508C>T	0.1.27/NIT1/PMID_38430071_F2_II_1.json
+PMID_27861123_Patient_1	TECRL	OMIM:614021	Ventricular tachycardia, catecholaminergic polymorphic, 3	ar_hom	1	5	chr4:64309896C>T	0.1.27/TECRL/PMID_27861123_Patient_1.json
+PMID_33500254_Case_2	MANF	OMIM:620651	Diabetes, deafness, developmental delay, and short stature syndrome	ar_hom	1	10	chr3:51385437G>T	0.1.27/MANF/PMID_33500254_Case_2.json
+PMID_17273967_III_8	ST14	OMIM:602400	Ichthyosis, congenital, autosomal recessive 11	ar_hom	1	11	chr11:130209734G>A	0.1.27/ST14/PMID_17273967_III_8.json
+PMID_35266227_Patient_1	BNIP1	OMIM:621345	Spondylopeiphyseal dysplasia, Holling type	ar_hom	1	15	chr5:173144632A>T	0.1.27/BNIP1/PMID_35266227_Patient_1.json
+PMID_26908613_SRF1105	POMGNT1	OMIM:617123	Retinitis pigmentosa 76	ar_hom	1	9	chr1:46195879C>T	0.1.27/POMGNT1/PMID_26908613_SRF1105.json
+PMID_18385497_Patient_7	MMADHC	OMIM:277410	Methylmalonic aciduria and homocystinuria, cblD type	ar_hom	1	6	chr2:149571078TACTC>T	0.1.27/MMADHC/PMID_18385497_Patient_7.json
+PMID_30473892_index_patient_IV_1	SNX14	OMIM:616354	Spinocerebellar ataxia, autosomal recessive 20	ar_hom	1	10	chr6:85514575TTCTC>T	0.1.27/SNX14/PMID_30473892_index_patient_IV_1.json
+PMID_37384395_F2_1	RAB34	OMIM:620718	Orofaciodigital syndrome XX	ar_hom	1	9	chr17:28714900C>A	0.1.27/RAB34/PMID_37384395_F2_1.json
+PMID_17928598_Patient_1	GYS1	OMIM:611556	Glycogen storage disease 0, muscle	ar_hom	1	8	chr19:48974658G>A	0.1.27/GYS1/PMID_17928598_Patient_1.json
+PMID_27807076_Patient_II_1	POGLUT1	OMIM:617232	Muscular dystrophy, limb-girdle, autosomal recessive 21	ar_hom	1	5	chr3:119486893T>G	0.1.27/POGLUT1/PMID_27807076_Patient_II_1.json
+PMID_37584719_P14	RFXAP	OMIM:620817	MHC class II deficiency 4	ar_hom	1	11	chr13:36819520C>T	0.1.27/RFXAP/PMID_37584719_P14.json
+PMID_24603435_Family_1_affected_individual	POLR1D	OMIM:613717	Treacher Collins syndrome 2	ar_hom	1	5	chr13:27623011C>G	0.1.27/POLR1D/PMID_24603435_Family_1_affected_individual.json
+PMID_35840178_brother_of_proband_II_2	MYZAP	OMIM:620894	Cardiomyopathy, dilated, 2K	ar_hom	1	5	chr15:57618106C>A	0.1.27/MYZAP/PMID_35840178_brother_of_proband_II_2.json
+PMID_38626355_OP_1837_II1	WFDC2	OMIM:620984	Bronchiectasis and nasal polyposis	ar_hom	1	4	chr20:45470454T>C	0.1.27/WFDC2/PMID_38626355_OP_1837_II1.json
+PMID_28413018_A_IV_8	PLAA	OMIM:617527	Neurodevelopmental disorder with progressive microcephaly, spasticity, and brain anomalies	ar_hom	1	15	chr9:26946978C>A	0.1.27/PLAA/PMID_28413018_A_IV_8.json
+PMID_40259859_Family_2_II_1	FGF4	OMIM:621260	Short-rib thoracic dysplasia 22 without polydactyly	ar_hom	1	9	chr11:69773319G>T	0.1.27/FGF4/PMID_40259859_Family_2_II_1.json
+PMID_15534187_proband	HMBS	OMIM:620704	Encephalopathy, porphyria-related	ar_hom	1	18	chr11:119091413C>T	0.1.27/HMBS/PMID_15534187_proband.json
+PMID_31068971_proband	FERMT3	OMIM:612840	Leukocyte adhesion deficiency, type III	ar_hom	1	12	chr11:64210736C>T	0.1.27/FERMT3/PMID_31068971_proband.json
+PMID_25808063_Patient_6	LONP1	OMIM:600373	CODAS syndrome	ar_hom	1	11	chr19:5696058G>A	0.1.27/LONP1/PMID_25808063_Patient_6.json
+PMID_22956686_1435_IV_6	BCKDK	OMIM:614923	Branched-chain keto acid dehydrogenase kinase deficiency	ar_hom	1	8	chr16:31110716G>C	0.1.27/BCKDK/PMID_22956686_1435_IV_6.json
+PMID_20618352_Patient_1	BBS2	OMIM:615981	Bardet-Biedl syndrome 2	ar_hom	1	27	chr16:56510923T>C	0.1.27/BBS2/PMID_20618352_Patient_1.json
+PMID_39209426_F1_II_1	JPH1	OMIM:620964	Congenital myopathy 25	ar_hom	1	21	chr8:74320914TC>T	0.1.27/JPH1/PMID_39209426_F1_II_1.json
+PMID_15976030_kindred_A_patient_6	MFRP	OMIM:609549	Nanophthalmos 2	ar_hom	1	3	chr11:119342977T>TG	0.1.27/MFRP/PMID_15976030_kindred_A_patient_6.json
+PMID_31837156_Patient_2	VRK1	OMIM:620542	Neuronopathy, distal hereditary motor, autosomal recessive 10	ar_hom	1	5	chr14:96881177G>A	0.1.27/VRK1/PMID_31837156_Patient_2.json
+PMID_38701783_P1	FLT3LG	OMIM:620926	Immunodeficiency 125 	ar_hom	1	16	chr19:49478908GC>G	0.1.27/FLT3LG/PMID_38701783_P1.json
+PMID_26911354_Family_2_Patient_3	TMEM38B	OMIM:615066	Osteogenesis imperfecta, type XIV	ar_hom	1	5	chr9:105722586G>A	0.1.27/TMEM38B/PMID_26911354_Family_2_Patient_3.json
+PMID_37947183_Family_F13_individual_P17	CRELD1	OMIM:620771	Jeffries-Lakhani neurodevelopmental syndrome	ar_hom	1	16	chr3:9940964G>A	0.1.27/CRELD1/PMID_37947183_Family_F13_individual_P17.json
+PMID_16636245_Case_report	WNK1	OMIM:201300	Neuropathy, hereditary sensory and autonomic, type II	ar_hom	1	9	chr12:827242C>CT	0.1.27/WNK1/PMID_16636245_Case_report.json
+PMID_11412303_Patient	ZAP70	OMIM:269840	Immunodeficiency 48	ar_hom	1	5	chr2:97737577G>A	0.1.27/ZAP70/PMID_11412303_Patient.json
+PMID_23273567_individual_GII_2	INPPL1	OMIM:258480	Opsismodysplasia	ar_hom	1	12	chr11:72233471C>T	0.1.27/INPPL1/PMID_23273567_individual_GII_2.json
+PMID_36917474_Patient_1	POLR1A	OMIM:620675	Leukodystrophy, hypomyelinating, 27	ar_hom	1	20	chr2:86065407G>T	0.1.27/POLR1A/PMID_36917474_Patient_1.json
+PMID_38767059_Alazami_et_al_indiv_2	FAM177A1	OMIM:621152	Neurodevelopmental disorder with white matter abnormalities and gait disturbance	ar_hom	1	9	chr14:35077174T>TTA	0.1.27/FAM177A1/PMID_38767059_Alazami_et_al_indiv_2.json
+PMID_37711075_Family_2_R176_01	COG3	OMIM:620546	Congenital disorder of glycosylation, type IIbb	ar_hom	1	11	chr13:45465145G>C	0.1.27/COG3/PMID_37711075_Family_2_R176_01.json
+PMID_39500882_Patient_1	GON4L	OMIM:621212	Li-Takada-Miyake syndrome	ar_hom	1	26	chr1:155853717CTT>C	0.1.27/GON4L/PMID_39500882_Patient_1.json
+PMID_28569194_Case_presentation	GRHPR	OMIM:260000	Hyperoxaluria, primary, type II	ar_hom	1	3	chr9:37428532C>CA	0.1.27/GRHPR/PMID_28569194_Case_presentation.json
+PMID_30847200_patient_IV_8	MED23	OMIM:614249	Intellectual developmental disorder, autosomal recessive 18, with or without epilepsy	ar_hom	1	6	chr6:131618517G>C	0.1.27/MED23/PMID_30847200_patient_IV_8.json
+PMID_26008899_patient	RNF31	OMIM:620632	Immunodeficiency 115 with autoinflammation	ar_hom	1	24	chr14:24147998T>C	0.1.27/RNF31/PMID_26008899_patient.json
+PMID_37656279_Pedigree_C_II_4	DBR1	OMIM:620510	Xerosis and growth failure with immune and pulmonary dysfunction syndrome	ar_hom	1	11	chr3:138173624T>C	0.1.27/DBR1/PMID_37656279_Pedigree_C_II_4.json
+PMID_35883096_Case_presentation	SMPD1	OMIM:257200	Niemann-Pick disease, type A	ar_hom	1	19	chr11:6391747T>G	0.1.27/SMPD1/PMID_35883096_Case_presentation.json
+PMID_29801479_proband	FKBP10	OMIM:610968	Osteogenesis imperfecta, type XI	ar_hom	1	5	chr17:41820945A>G	0.1.27/FKBP10/PMID_29801479_proband.json
+PMID_30643655_F1_IV_1	RETREG1	OMIM:613115	Neuropathy, hereditary sensory and autonomic, type IIB	ar_hom	1	9	chr5:16477736G>C	0.1.27/RETREG1/PMID_30643655_F1_IV_1.json
+PMID_37349293_Patient_2	ARPC5	OMIM:620565	Immunodeficiency 133 with autoimmunity and autoinflammation	ar_hom	1	18	chr1:183635648G>GCA	0.1.27/ARPC5/PMID_37349293_Patient_2.json
+PMID_37628710_proposita_II_2	RDH8	OMIM:621259	Stargardt disease 5	ar_hom	1	8	chr19:10017216G>A	0.1.27/RDH8/PMID_37628710_proposita_II_2.json
+PMID_36135717_Patient_1	SEPTIN4	OMIM:621194	Spermatogenic failure 99	ar_hom	1	4	chr17:58543466T>A	0.1.27/SEPTIN4/PMID_36135717_Patient_1.json
+PMID_36736301_P1	IRF1	OMIM:620668	Immunodeficiency 117, mycobacteriosis, autosomal recessive	ar_hom	1	28	chr5:132486824G>A	0.1.27/IRF1/PMID_36736301_P1.json
+PMID_34826259_index_patient	IKZF2	OMIM:621233	Immunodysregulation with variable immunodeficiency and autoimmunity	ar_hom	1	16	chr2:213007968T>C	0.1.27/IKZF2/PMID_34826259_index_patient.json
+PMID_20961246_fetus_2	CHUK	OMIM:613630	Fetal encasement syndrome	ar_hom	1	13	chr10:100205167G>A	0.1.27/CHUK/PMID_20961246_fetus_2.json
+PMID_40409267_Family_A_individual_II_3	POPDC2	OMIM:621367	Cardiac conduction disease with or without cardiomyopathy 2	ar_hom	1	9	chr3:119654577GTAGTGCAGAAAC>G	0.1.27/POPDC2/PMID_40409267_Family_A_individual_II_3.json
+PMID_28468610_8_year_old_boy	PRF1	OMIM:603553	Hemophagocytic lymphohistiocytosis, familial, 2	ar_hom	1	8	chr10:70598601A>C	0.1.27/PRF1/PMID_28468610_8_year_old_boy.json
+PMID_16075202_propositus	COL6A2	OMIM:620727	Ullrich congenital muscular dystrophy 1B	ar_hom	1	11	chr21:46118604A>G	0.1.27/COL6A2/PMID_16075202_propositus.json
+PMID_35962790_Family_D_Individual_5_II_2	ADAMTS15	OMIM:620545	Arthrogryposis, distal, type 12	ar_hom	1	14	chr11:130473683C>G	0.1.27/ADAMTS15/PMID_35962790_Family_D_Individual_5_II_2.json
+PMID_30690882_case_report	COG8	OMIM:611182	Congenital disorder of glycosylation, type IIh	ar_hom	1	21	chr16:69331096C>T	0.1.27/COG8/PMID_30690882_case_report.json
+PMID_29037160_Case_3_family_III	KCNQ1	OMIM:220400	Jervell and Lange-Nielsen syndrome	ar_hom	1	3	chr11:2585276G>A	0.1.27/KCNQ1/PMID_29037160_Case_3_family_III.json
+PMID_35217805_IV5	MAL	OMIM:620978	Leukodystrophy, hypomyelinating, 28 	ar_hom	1	9	chr2:95049645C>A	0.1.27/MAL/PMID_35217805_IV5.json
+PMID_14702087_the_fourth_Dutch_index_patient	RGS9	OMIM:608415	Prolonged electroretinal response suppression 1	ar_hom	1	4	chr17:65197160T>C	0.1.27/RGS9/PMID_14702087_the_fourth_Dutch_index_patient.json
+PMID_23602711_III_1_from_SRI1	ANTXR1	OMIM:230740	GAPO syndrome	ar_hom	1	21	chr2:69245213A>G	0.1.27/ANTXR1/PMID_23602711_III_1_from_SRI1.json
+PMID_33332558_P1	NUP210L	OMIM:621057	Spermatogenic failure 97	ar_hom	1	5	chr1:154138239C>T	0.1.27/NUP210L/PMID_33332558_P1.json
+PMID_24300288_first_patient	DYM	OMIM:223800	Dyggve-Melchior-Clausen disease	ar_hom	1	21	chr18:49282065ACAAGAGGAGAGTTGCTTGATCAGATGTCT>A	0.1.27/DYM/PMID_24300288_first_patient.json
+PMID_37734847_Patient_1	MECR	OMIM:620629	Optic atrophy 16	ar_hom	1	8	chr1:29200574G>A	0.1.27/MECR/PMID_37734847_Patient_1.json
+PMID_30050362_individual_II_3	ANTXR2	OMIM:228600	Hyaline fibromatosis syndrome	ar_hom	1	10	chr4:79983928CCA>C	0.1.27/ANTXR2/PMID_30050362_individual_II_3.json
+PMID_38634869_index_case	CD274	OMIM:621235	Autoimmune disease, multisystem, infantile-onset, 5 	ar_hom	1	11	chr9:5463122G>A	0.1.27/CD274/PMID_38634869_index_case.json
+PMID_28132693_individual_3_GC17880	ARHGEF18	OMIM:617433	Retinitis pigmentosa 78	ar_hom	1	7	chr19:7456408G>A	0.1.27/ARHGEF18/PMID_28132693_individual_3_GC17880.json
+PMID_28327087_Patient_II_3	NT5C2	OMIM:613162	Spastic paraplegia 45, autosomal recessive	ar_hom	1	11	chr10:103093138C>A	0.1.27/NT5C2/PMID_28327087_Patient_II_3.json
+PMID_29408330_case_report	IRF4	OMIM:621097	Immunodeficiency 131	ar_hom	1	19	chr6:407453A>G	0.1.27/IRF4/PMID_29408330_case_report.json
+PMID_29382611_proband_II_5	SP7	OMIM:613849	Osteogenesis imperfecta, type XII	ar_hom	1	17	chr12:53328496G>A	0.1.27/SP7/PMID_29382611_proband_II_5.json
+PMID_30891318_case	WRN	OMIM:277700	Werner syndrome	ar_hom	1	14	chr8:31120375C>T	0.1.27/WRN/PMID_30891318_case.json
+PMID_36443312_Family_1_II_3	CMPK2	OMIM:621018	Basal ganglia calcification, idiopathic, 10, autosomal recessive	ar_hom	1	3	chr2:6865695A>G	0.1.27/CMPK2/PMID_36443312_Family_1_II_3.json
+PMID_33529166_P4	COPG1	OMIM:620983	Immunodeficiency 128 	ar_hom	1	6	chr3:129271877A>G	0.1.27/COPG1/PMID_33529166_P4.json
+PMID_40449487_Individual_3	TM2D3	OMIM:621379	Neurocardiorenal malformation syndrome	ar_hom	1	25	chr15:101645162C>T	0.1.27/TM2D3/PMID_40449487_Individual_3.json
+PMID_30113454_index	ERCC6	OMIM:133540	Cockayne syndrome, type B	ar_hom	1	19	chr10:49472385ATCTT>TGCACACCA	0.1.27/ERCC6/PMID_30113454_index.json
+PMID_1907800_KT	GLB1	OMIM:230650	GM1-gangliosidosis, type III	ar_hom	1	5	chr3:33072637A>G	0.1.27/GLB1/PMID_1907800_KT.json
+PMID_37133451_Individual_P3	MRPL39	OMIM:620646	Combined oxidative phosphorylation deficiency 59	ar_hom	1	13	chr21:25592837C>A	0.1.27/MRPL39/PMID_37133451_Individual_P3.json
+PMID_28544736_PID_0577877	MOCS3	OMIM:621373	Molybdenum cofactor deficiency, type B2	ar_hom	1	26	chr20:50959611G>A	0.1.27/MOCS3/PMID_28544736_PID_0577877.json
+PMID_27180139_case_1	GPSM2	OMIM:604213	Chudley-McCullough syndrome	ar_hom	1	12	chr1:108903227C>A	0.1.27/GPSM2/PMID_27180139_case_1.json
+PMID_37804054_proband_AC027	LRRC23	OMIM:620848	Spermatogenic failure 92	ar_hom	1	5	chr12:6906548C>T	0.1.27/LRRC23/PMID_37804054_proband_AC027.json
+PMID_27460976_proband	PARK7	OMIM:606324	Parkinson disease 7, autosomal recessive early-onset	ar_hom	1	14	chr1:7984945C>A	0.1.27/PARK7/PMID_27460976_proband.json
+PMID_37226891_Individual_3	NSUN6	OMIM:620779	Intellectual developmental disorder, autosomal recessive 82	ar_hom	1	5	chr10:18546019CCTCT>C	0.1.27/NSUN6/PMID_37226891_Individual_3.json
+PMID_31997314_proband	OTUD7A	OMIM:620790	Neurodevelopmental disorder with hypotonia and seizures	ar_hom	1	11	chr15:31527264G>A	0.1.27/OTUD7A/PMID_31997314_proband.json
+PMID_25959430_individual_IV_2_family_A	NPR2	OMIM:602875	Acromesomelic dysplasia 1, Maroteaux type	ar_hom	1	9	chr9:35802593C>A	0.1.27/NPR2/PMID_25959430_individual_IV_2_family_A.json
+PMID_30012084_older_sister	WNT1	OMIM:615220	Osteogenesis imperfecta, type XV	ar_hom	1	8	chr12:48978652TG>T	0.1.27/WNT1/PMID_30012084_older_sister.json
+PMID_28625504_UW348_3	ARMC9	OMIM:617622	Joubert syndrome 30	ar_hom	1	4	chr2:231206294G>T	0.1.27/ARMC9/PMID_28625504_UW348_3.json
+PMID_35583550_P1	LEF1	OMIM:621224	Ectodermal dysplasia 17 with or without limb malformations	ar_hom	1	10	chr4:108167696G>GATC	0.1.27/LEF1/PMID_35583550_P1.json
+PMID_28292286_index_patient	SKIC3	OMIM:222470	Trichohepatoenteric syndrome 1	ar_hom	1	13	chr5:95467979G>A	0.1.27/SKIC3/PMID_28292286_index_patient.json
+PMID_7726174_propositus	PAX3	OMIM:148820	Waardenburg syndrome, type 3	ar_hom	1	11	chr2:222297048G>A	0.1.27/PAX3/PMID_7726174_propositus.json
+PMID_30498080_patient_1	ICOSLG	OMIM:620825	Immunodeficiency 119	ar_hom	1	15	chr21:44235312G>C	0.1.27/ICOSLG/PMID_30498080_patient_1.json
+PMID_26044242_24_year_old_Caucasian_male	CARD9	OMIM:212050	Immunodeficiency 103, susceptibility to fungal infection	ar_hom	1	9	chr9:136371344C>A	0.1.27/CARD9/PMID_26044242_24_year_old_Caucasian_male.json
+PMID_23664117_family_F8_subject_P9	B3GALT6	OMIM:615349	Ehlers-Danlos syndrome, spondylodysplastic type, 2	ar_hom	1	21	chr1:1232630GA>G	0.1.27/B3GALT6/PMID_23664117_family_F8_subject_P9.json
+PMID_34805998_Proband_1_2	NAA80	OMIM:620830	Auroneurodental syndrome	ar_hom	1	26	chr3:50297141A>G	0.1.27/NAA80/PMID_34805998_Proband_1_2.json
+PMID_29681102_proband	DMRT2	OMIM:621523	Spondylocostal dysostosis 7, autosomal recessive	ar_hom	1	24	chr9:1051614A>T	0.1.27/DMRT2/PMID_29681102_proband.json
+PMID_30249733_Case_presentation	CHST14	OMIM:601776	Ehlers-Danlos syndrome, musculocontractural type 1	ar_hom	1	15	chr15:40472009T>TA	0.1.27/CHST14/PMID_30249733_Case_presentation.json
+PMID_34215651_Proband_16	DAND5	OMIM:621079	Heterotaxy, visceral, 13, autosomal	ar_hom	1	8	chr19:12973453C>CCT	0.1.27/DAND5/PMID_34215651_Proband_16.json
+PMID_26942284_V_2_from_Family_A	VPS13C	OMIM:616840	Parkinson disease 23, autosomal recessive, early onset	ar_hom	1	19	chr15:61915631A>C	0.1.27/VPS13C/PMID_26942284_V_2_from_Family_A.json
+PMID_28984260_child	PYGL	OMIM:232700	Glycogen storage disease VI	ar_hom	1	11	chr14:50915442C>A	0.1.27/PYGL/PMID_28984260_child.json
+PMID_36333996_Patient_of_family_A	NUP54	OMIM:620427	Dystonia 37, early-onset, with striatal lesions	ar_hom	1	9	chr4:76124740A>C	0.1.27/NUP54/PMID_36333996_Patient_of_family_A.json
+PMID_28449119_patient	THAP11	OMIM:620940	Methylmalonic aciduria and homocystinuria, cblL type 	ar_hom	1	8	chr16:67842794C>G	0.1.27/THAP11/PMID_28449119_patient.json
+PMID_39701103_Proband_F3	DAP3	OMIM:621101	Perrault syndrome 7	ar_hom	1	5	chr1:155738219G>A	0.1.27/DAP3/PMID_39701103_Proband_F3.json
+PMID_36718090_Patient_3	SPTSSA	OMIM:620417	Spastic paraplegia 90B, autosomal recessive	ar_hom	1	12	chr14:34435244TGG>T	0.1.27/SPTSSA/PMID_36718090_Patient_3.json
+PMID_38509369_P1_2	IL27RA	OMIM:621405	Immunodeficiency 134 (Epstein-Barr virus-specific)	ar_hom	1	14	chr19:14039575C>T	0.1.27/IL27RA/PMID_38509369_P1_2.json
+PMID_35047835_first_affected_individual	LSM7	OMIM:621191	Leukodystrophy and cerebellar atrophy	ar_hom	1	8	chr19:2324173C>T	0.1.27/LSM7/PMID_35047835_first_affected_individual.json
+PMID_34707299_Patient7	HROB	OMIM:620897	Ovarian dysgenesis 11	ar_hom	1	4	chr17:44148223TG>T	0.1.27/HROB/PMID_34707299_Patient7.json
+PMID_25681079_proband_FKT118	GALT	OMIM:230400	Galactosemia	ar_hom	1	8	chr9:34648170A>G	0.1.27/GALT/PMID_25681079_proband_FKT118.json
+PMID_36593121_XH008_II_1	CFAP54	OMIM:621124	Spermatogenic failure 98	ar_hom	1	8	chr12:96592590CT>C	0.1.27/CFAP54/PMID_36593121_XH008_II_1.json
+PMID_29483676_proband	PREPL	OMIM:616224	Myasthenic syndrome, congenital, 22	ar_hom	1	20	chr2:44346267CT>C	0.1.27/PREPL/PMID_29483676_proband.json
+PMID_41694855_Case_presentation	GBA1	OMIM:231000	Gaucher disease, type III	ar_hom	1	9	chr1:155237513G>A	0.1.27/GBA1/PMID_41694855_Case_presentation.json
+PMID_39230499_Proband_3	GUK1	OMIM:621071	Mitochondrial DNA depletion syndrome 21	ar_hom	1	17	chr1:228140364G>T	0.1.27/GUK1/PMID_39230499_Proband_3.json
+PMID_36965478_Individual_3	SNAPC4	OMIM:620515	Neurodevelopmental disorder with motor regression, progressive spastic paraplegia, and oromotor dysfunction	comphet	2	10	chr9:136387815T>C;chr9:136387489C>T	0.1.27/SNAPC4/PMID_36965478_Individual_3.json
+PMID_36546111_F2_1	CCIN	OMIM:620838	Spermatogenic failure 91	comphet	2	3	chr9:36170843C>A;chr9:36170796C>T	0.1.27/CCIN/PMID_36546111_F2_1.json
+PMID_39106866_Individual_2	RFC4	OMIM:621010	Morimoto-Ryu-Malicdan neuromuscular syndrome	comphet	2	26	chr3:186797530C>A;chr3:186790155G>GTGA	0.1.27/RFC4/PMID_39106866_Individual_2.json
+PMID_40830826_Family_3_II_1	COX18	OMIM:621488	Charcot-Marie-Tooth disease, axonal, type 2MM	comphet	2	20	chr4:73069322C>G;chr4:73058226C>G	0.1.27/COX18/PMID_40830826_Family_3_II_1.json
+PMID_36553465_P10	SLC45A2	OMIM:606574	Albinism, oculocutaneous, type IV	comphet	2	9	chr5:33954406TG>T;chr5:33947363CTT>C	0.1.27/SLC45A2/PMID_36553465_P10.json
+PMID_37107710_F7_II_3	FDXR	OMIM:620887	Multiple mitochondrial dysfunctions syndrome 9B	comphet	2	8	chr17:74864176C>T;chr17:74866496T>C	0.1.27/FDXR/PMID_37107710_F7_II_3.json
+PMID_26185144_Family_1_Sibling_of_Proband_1	COQ4	OMIM:616276	Coenzyme Q10 deficiency, primary, 7	comphet	2	4	chr9:128332223G>A;chr9:128325185T>A	0.1.27/COQ4/PMID_26185144_Family_1_Sibling_of_Proband_1.json
+PMID_26541327_Pat_16_FXV_b	NBAS	OMIM:614800	Short stature, optic nerve atrophy, and Pelger-Huet anomaly	comphet	2	4	chr2:15475842A>T;chr2:15539327G>A	0.1.27/NBAS/PMID_26541327_Pat_16_FXV_b.json
+PMID_38083972_patient	EEF1D	OMIM:621150	Neurodevelopmental disorder with thin corpus callosum, hypotonia, and absent language	comphet	2	7	chr8:143589406G>A;chr8:143580011C>T	0.1.27/EEF1D/PMID_38083972_patient.json
+PMID_40081376_Individual_13	MED16	OMIM:621220	Guillouet-Gordon syndrome	comphet	2	20	chr19:872057C>T;chr19:873471A>G	0.1.27/MED16/PMID_40081376_Individual_13.json
+PMID_11841556_15_2	SPINK5	OMIM:256500	Netherton syndrome	comphet	2	11	chr5:148070388AT>A;chr5:148065374T>A	0.1.27/SPINK5/PMID_11841556_15_2.json
+PMID_30368668_NS659	LZTR1	OMIM:605275	Noonan syndrome 2	comphet	2	10	chr22:20995995C>A;chr22:20995874T>C	0.1.27/LZTR1/PMID_30368668_NS659.json
+PMID_39636576_F6_Netherlands_P10	GTF3C3	OMIM:621201	Neurodevelopmental disorder with dysmorphic facies, brain anomalies, and seizures	comphet	2	13	chr2:196766683C>T;chr2:196779018A>G	0.1.27/GTF3C3/PMID_39636576_F6_Netherlands_P10.json
+PMID_35362222_Patient_2	MBTPS1	OMIM:621252	CAOP syndrome	comphet	2	10	chr16:84067825T>A;chr16:84054449T>A	0.1.27/MBTPS1/PMID_35362222_Patient_2.json
+PMID_17187620_child	SCO2	OMIM:604377	Mitochondrial complex IV deficiency, nuclear type 2	comphet	2	8	chr22:50523933A>C;chr22:50523994C>T	0.1.27/SCO2/PMID_17187620_child.json
+PMID_25477417_F3_1	CLDN16	OMIM:248250	Hypomagnesemia 3, renal	comphet	2	10	chr3:190408423G>T;chr3:190402342C>G	0.1.27/CLDN16/PMID_25477417_F3_1.json
+PMID_28456785_P065	RPGRIP1	OMIM:608194	Cone-rod dystrophy 13	comphet	2	7	chr14:21324875C>T;chr14:21294745C>T	0.1.27/RPGRIP1/PMID_28456785_P065.json
+PMID_35344616_A21	ROR2	OMIM:268310	Robinow syndrome, autosomal recessive 1	comphet	2	27	chr9:91724524C>T;chr9:91733155G>A	0.1.27/ROR2/PMID_35344616_A21.json
+PMID_40683276_Family_7_Patient_17	RCC1	OMIM:621333	Infection-induced acute-onset axonal neuropathy	comphet	2	10	chr1:28535323G>A;chr1:28532239G>C	0.1.27/RCC1/PMID_40683276_Family_7_Patient_17.json
+PMID_23726037_patient	CDK5RAP2	OMIM:604804	Microcephaly 3, primary, autosomal recessive	comphet	2	5	chr9:120536505CTGCCT>C;chr9:120419961C>T	0.1.27/CDK5RAP2/PMID_23726037_patient.json
+PMID_17968484_Patient_1	MCCC1	OMIM:210200	3-Methylcrotonyl-CoA carboxylase 1 deficiency	comphet	2	6	chr3:183022536G>A;chr3:183052211CTT>C	0.1.27/MCCC1/PMID_17968484_Patient_1.json
+PMID_26590883_Patient_NCI_253_1	FANCI	OMIM:609053	Fanconi anemia, complementation group I	comphet	2	18	chr15:89281249T>A;chr15:89303898G>A	0.1.27/FANCI/PMID_26590883_Patient_NCI_253_1.json
+PMID_28757203_Individual_2_P2	LIPT2	OMIM:617668	Encephalopathy, neonatal severe, with lactic acidosis and brain abnormalities	comphet	2	8	chr11:74493327A>C;chr11:74493390A>C	0.1.27/LIPT2/PMID_28757203_Individual_2_P2.json
+PMID_25511235_B4_1	HMGCS2	OMIM:605911	HMG-CoA synthase-2 deficiency	comphet	2	4	chr1:119750821T>C;chr1:119764178A>G	0.1.27/HMGCS2/PMID_25511235_B4_1.json
+PMID_36823193_Patient_5_Family_4	TEFM	OMIM:620451	Combined oxidative phosphorylation deficiency 58	comphet	2	5	chr17:30904461G>A;chr17:30900495T>C	0.1.27/TEFM/PMID_36823193_Patient_5_Family_4.json
+PMID_36303223_Proband_26_from_PMID_31870341	SUOX	OMIM:272300	Sulfite oxidase deficiency	comphet	2	4	chr12:56004485C>T;chr12:56004765G>A	0.1.27/SUOX/PMID_36303223_Proband_26_from_PMID_31870341.json
+PMID_23664117_family_F9_subject_P11	B3GALT6	OMIM:615349	Ehlers-Danlos syndrome, spondylodysplastic type, 2	comphet	2	24	chr1:1232859CG>C;chr1:1233203T>A	0.1.27/B3GALT6/PMID_23664117_family_F9_subject_P11.json
+PMID_16965330_patient_10	AIRE	OMIM:240300	Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia	comphet	2	6	chr21:44289773C>T;chr21:44291145CT>C	0.1.27/AIRE/PMID_16965330_patient_10.json
+PMID_40814755_Ind_C1	DARS2	OMIM:621485	Charcot-Marie-Tooth disease, axonal, type 2LL	comphet	2	16	chr1:173831632T>C;chr1:173853512C>T	0.1.27/DARS2/PMID_40814755_Ind_C1.json
+PMID_37768732_Family_3_Patient_3	TBC1D32	OMIM:621280	Retinitis pigmentosa 100	comphet	2	6	chr6:121292158C>A;chr6:121090994C>A	0.1.27/TBC1D32/PMID_37768732_Family_3_Patient_3.json
+PMID_14970743_patient_MA	HMBS	OMIM:620704	Encephalopathy, porphyria-related	comphet	2	11	chr11:119091413C>T;chr11:119091414G>A	0.1.27/HMBS/PMID_14970743_patient_MA.json
+PMID_31509304_F1_III_1	NKX6-2	OMIM:617560	Spastic ataxia 8, autosomal recessive, with hypomyelinating leukodystrophy	comphet	2	5	chr10:132785318G>C;chr10:132785648G>T	0.1.27/NKX6-2/PMID_31509304_F1_III_1.json
+PMID_37352860_Individual_3	ERI1	OMIM:620663	Spondyloepimetaphyseal dysplasia, Guo-Campeau type	comphet	2	7	chr8:9029879T>C;chr8:9011655A>G	0.1.27/ERI1/PMID_37352860_Individual_3.json
+PMID_28625504_UW132_4	ARMC9	OMIM:617622	Joubert syndrome 30	comphet	2	5	chr2:231214858G>A;chr2:231276637C>T	0.1.27/ARMC9/PMID_28625504_UW132_4.json
+PMID_32424628_32424628_P1	ISCA2	OMIM:616370	Multiple mitochondrial dysfunctions syndrome 4	comphet	2	16	chr14:74494948C>G;chr14:74493779C>A	0.1.27/ISCA2/PMID_32424628_32424628_P1.json
+PMID_40931063_Patient_5	PLD4	OMIM:621369	Systemic lupus erythematosus 18	comphet	2	20	chr14:104931797C>T;chr14:104930767A>G	0.1.27/PLD4/PMID_40931063_Patient_5.json
+PMID_38626355_OP_398_II1	WFDC2	OMIM:620984	Bronchiectasis and nasal polyposis	comphet	2	3	chr20:45479989G>A;chr20:45470454T>C	0.1.27/WFDC2/PMID_38626355_OP_398_II1.json
+PMID_16429406_first_patient	FANCC	OMIM:227645	Fanconi anemia, complementation group C	comphet	2	3	chr9:95172037A>AT;chr9:95107206G>A	0.1.27/FANCC/PMID_16429406_first_patient.json
+PMID_28940506_Family_22_Individual_28	FBXL4	OMIM:615471	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	comphet	2	11	chr6:98875474TCA>T;chr6:98926570A>G	0.1.27/FBXL4/PMID_28940506_Family_22_Individual_28.json
+PMID_12229880_Case_1	PRF1	OMIM:603553	Hemophagocytic lymphohistiocytosis, familial, 2	comphet	2	16	chr10:70598599C>T;chr10:70600631G>A	0.1.27/PRF1/PMID_12229880_Case_1.json
+PMID_19776401_Patient_7_1	DOCK8	OMIM:243700	Hyper-IgE syndrome 2, autosomal recessive, with recurrent infections	comphet	2	16	chr9:407040G>GGCTTGGCT;chr9:407032AC>A	0.1.27/DOCK8/PMID_19776401_Patient_7_1.json
+PMID_16865293_Family_4_individual_8Y1M	ERCC8	OMIM:216400	Cockayne syndrome, type A	comphet	2	10	chr5:60918351CAG>C;chr5:60902448G>T	0.1.27/ERCC8/PMID_16865293_Family_4_individual_8Y1M.json
+PMID_38158856_Patient_6_Family_IV	CACHD1	OMIM:621566	Davis-Wells syndrome	comphet	2	8	chr1:64602855C>T;chr1:64582171C>T	0.1.27/CACHD1/PMID_38158856_Patient_6_Family_IV.json
+PMID_20074988_Patient_4	MPV17	OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	comphet	2	9	chr2:27312685CCAA>C;chr2:27309958G>T	0.1.27/MPV17/PMID_20074988_Patient_4.json
+PMID_28862745_PD_Case_5	VPS13C	OMIM:616840	Parkinson disease 23, autosomal recessive, early onset	comphet	2	7	chr15:61963952C>A;chr15:61982457A>C	0.1.27/VPS13C/PMID_28862745_PD_Case_5.json
+PMID_29883675_first_family_patient_2	RTTN	OMIM:614833	Microcephaly, short stature, and polymicrogyria with seizures	comphet	2	5	chr18:70109687T>C;chr18:70145778C>T	0.1.27/RTTN/PMID_29883675_first_family_patient_2.json
+PMID_23222957_Family_10_10_1	EPG5	OMIM:242840	Vici syndrome	comphet	2	8	chr18:45867678C>CT;chr18:45923388C>T	0.1.27/EPG5/PMID_23222957_Family_10_10_1.json
+PMID_25758857_Clinical_data	NFU1	OMIM:620938	Spastic paraplegia 93, autosomal recessive	comphet	2	12	chr2:69431921AG>A;chr2:69400519C>T	0.1.27/NFU1/PMID_25758857_Clinical_data.json
+PMID_25849362_P1	RAG1	OMIM:603554	Omenn syndrome	comphet	2	22	chr11:36573728C>T;chr11:36575639G>A	0.1.27/RAG1/PMID_25849362_P1.json
+PMID_41130203_F4_II_1	RPS6KC1	OMIM:621460	Neurodevelopmental disorder with spasticity, thin corpus callosum, and decreased brain white matter	comphet	2	13	chr1:213241022TGCAATGAATATGG>T;chr1:213167880AG>A	0.1.27/RPS6KC1/PMID_41130203_F4_II_1.json
+PMID_38508705_Case_7	ZFHX3	OMIM:621500	Epilepsy, idiopathic generalized 20	comphet	2	8	chr16:72787831C>A;chr16:72796521G>A	0.1.27/ZFHX3/PMID_38508705_Case_7.json
+PMID_28148925_proband	LONP1	OMIM:600373	CODAS syndrome	comphet	2	13	chr19:5693734G>A;chr19:5719836G>GC	0.1.27/LONP1/PMID_28148925_proband.json
+PMID_39962046_T_II_4	SPOUT1	OMIM:621154	Neurodevelopmental disorder with poor growth, seizures, and brain abnormalities	comphet	2	8	chr9:128823751G>A;chr9:128823754C>T	0.1.27/SPOUT1/PMID_39962046_T_II_4.json
+PMID_19185281_Family_9_individual_N1P_1	SPINT2	OMIM:270420	Diarrhea 3, secretory sodium, congenital, syndromic	comphet	2	9	chr19:38290215A>G;chr19:38264893A>T	0.1.27/SPINT2/PMID_19185281_Family_9_individual_N1P_1.json
+PMID_35637269_patient	MAN2B2	OMIM:621140	Congenital disorder of glycosylation type 1EE with or without immunodeficiency	comphet	2	13	chr4:6587041TCTC>T;chr4:6610988G>A	0.1.27/MAN2B2/PMID_35637269_patient.json
+PMID_17853487_Patient_2	SC5D	OMIM:607330	Lathosterolosis	comphet	2	26	chr11:121307244G>A;chr11:121303461G>A	0.1.27/SC5D/PMID_17853487_Patient_2.json
+PMID_32758583_Patient	PNPLA6	OMIM:275400	Oliver-McFarlane syndrome	comphet	2	18	chr19:7558933G>A;chr19:7543084G>T	0.1.27/PNPLA6/PMID_32758583_Patient.json
+PMID_37179472_Family_2II_6	DRG1	OMIM:620641	Tan-Almurshedi syndrome	comphet	2	19	chr22:31426688A>T;chr22:31426643AA>TT	0.1.27/DRG1/PMID_37179472_Family_2II_6.json
+PMID_1907800_TS	GLB1	OMIM:230650	GM1-gangliosidosis, type III	comphet	2	5	chr3:33016818C>T;chr3:33072637A>G	0.1.27/GLB1/PMID_1907800_TS.json
+PMID_38154379_1_Family_1	CEP295	OMIM:620767	Seckel syndrome 11	comphet	2	21	chr11:93699470C>T;chr11:93695593C>T	0.1.27/CEP295/PMID_38154379_1_Family_1.json
+PMID_37054711_Family_4_Subject_6	INTS11	OMIM:620428	Neurodevelopmental disorder with motor and language delay, ocular defects, and brain abnormalities	comphet	2	4	chr1:1312290C>T;chr1:1320493C>T	0.1.27/INTS11/PMID_37054711_Family_4_Subject_6.json
+PMID_34906488_Individual_5	HYAL2	OMIM:621063	Muggenthaler-Chowdhury-Chioza syndrome	comphet	2	19	chr3:50320296G>C;chr3:50318278A>C	0.1.27/HYAL2/PMID_34906488_Individual_5.json
+PMID_27040691_Individual_4_1	TBCK	OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3	comphet	2	5	chr4:106171272T>C;chr4:106247263CTTCA>C	0.1.27/TBCK/PMID_27040691_Individual_4_1.json
+PMID_23273567_individual_DII_1	INPPL1	OMIM:258480	Opsismodysplasia	comphet	2	10	chr11:72225013C>CG;chr11:72232303GTCACC>G	0.1.27/INPPL1/PMID_23273567_individual_DII_1.json
+PMID_36593121_YT698_II_1	CFAP54	OMIM:621124	Spermatogenic failure 98	comphet	2	8	chr12:96651600C>T;chr12:96519066G>A	0.1.27/CFAP54/PMID_36593121_YT698_II_1.json
+PMID_37167966_Individual_F2_II_1	HMGCR	OMIM:620375	Muscular dystrophy, limb-girdle, autosomal recessive 28	comphet	2	8	chr5:75344336A>G;chr5:75359474A>G	0.1.27/HMGCR/PMID_37167966_Individual_F2_II_1.json
+PMID_33507216_Family_F5230_Patient_CIC09152	CLN3	OMIM:621548	Retinitis pigmentosa 101	comphet	2	9	chr16:28482161G>A;chr16:28477620G>A	0.1.27/CLN3/PMID_33507216_Family_F5230_Patient_CIC09152.json
+PMID_35047834_Individual_6_1	ASCC3	OMIM:620700	Intellectual developmental disorder, autosomal recessive 81	comphet	2	3	chr6:100646725A>AT;chr6:100606800T>A	0.1.27/ASCC3/PMID_35047834_Individual_6_1.json
+PMID_33897766_Case_Description	MOCS3	OMIM:621373	Molybdenum cofactor deficiency, type B2	comphet	2	9	chr20:50959167C>G;chr20:50960217C>T	0.1.27/MOCS3/PMID_33897766_Case_Description.json
+PMID_32666529_Family_5_II_1	PPP1R13L	OMIM:620519	Arrhythmogenic cardiomyopathy with variable ectodermal abnormalities	comphet	2	3	chr19:45382579C>G;chr19:45385569G>C	0.1.27/PPP1R13L/PMID_32666529_Family_5_II_1.json
+PMID_32480058_Case_F10P1	ALPK3	OMIM:618052	Cardiomyopathy, familial hypertrophic 27	comphet	2	6	chr15:84817443G>T;chr15:84863645G>C	0.1.27/ALPK3/PMID_32480058_Case_F10P1.json
+PMID_39420558_case	LSM7	OMIM:621191	Leukodystrophy and cerebellar atrophy	comphet	2	16	chr19:2321787G>A;chr19:2324173C>T	0.1.27/LSM7/PMID_39420558_case.json
+PMID_15911822_Patient_3	PANK2	OMIM:234200	Neurodegeneration with brain iron accumulation 1	comphet	2	9	chr20:3912573C>T;chr20:3918695G>A	0.1.27/PANK2/PMID_15911822_Patient_3.json
+PMID_9817917_Family_7_individual_13076	WFS1	OMIM:222300	Wolfram syndrome 1	comphet	2	4	chr4:6301801A>G;chr4:6291334CT>C	0.1.27/WFS1/PMID_9817917_Family_7_individual_13076.json
+PMID_27672653_Individual_6	GCDH	OMIM:231670	Glutaricaciduria, type I	comphet	2	12	chr19:12899466A>C;chr19:12893540A>T	0.1.27/GCDH/PMID_27672653_Individual_6.json
+PMID_37619988_affected_fetus	RAB34	OMIM:620718	Orofaciodigital syndrome XX	comphet	2	8	chr17:28715860A>G;chr17:28714814G>A	0.1.27/RAB34/PMID_37619988_affected_fetus.json
+PMID_33595912_Patient_2	TBXAS1	OMIM:231095	Ghosal hematodiaphyseal syndrome	comphet	2	6	chr7:140017723G>T;chr7:139955497TCG>T	0.1.27/TBXAS1/PMID_33595912_Patient_2.json
+PMID_38423010_individual_E2	SNF8	OMIM:620784	Neurodevelopmental disorder plus optic atrophy	comphet	2	7	chr17:48937065C>T;chr17:48930569GCCTGTAAGTC>TCCA	0.1.27/SNF8/PMID_38423010_individual_E2.json
+PMID_39230499_Proband_4	GUK1	OMIM:621071	Mitochondrial DNA depletion syndrome 21	comphet	2	14	chr1:228140304T>G;chr1:228145588C>T	0.1.27/GUK1/PMID_39230499_Proband_4.json
+PMID_35603789_Patient_1_D24G_R82Q	GINS3	OMIM:621512	Meier-Gorlin syndrome 9	comphet	2	17	chr16:58403156G>A;chr16:58392672A>G	0.1.27/GINS3/PMID_35603789_Patient_1_D24G_R82Q.json
+PMID_39753129_Family_1_II_1	CIROZ	OMIM:621080	Heterotaxy, visceral, 14	comphet	2	9	chr1:10976227G>A;chr1:10957732G>A	0.1.27/CIROZ/PMID_39753129_Family_1_II_1.json
+PMID_39753114_F3_II_1	EEFSEC	OMIM:621102	Neurodevelopmental disorder with progressive spasticity and brain abnormalities	comphet	2	18	chr3:128341300G>A;chr3:128153508A>G	0.1.27/EEFSEC/PMID_39753114_F3_II_1.json
+PMID_24403049_Proband_2	SLC35C1	OMIM:266265	Congenital disorder of glycosylation, type IIc	comphet	2	12	chr11:45806301CCTT>C;chr11:45805892G>T	0.1.27/SLC35C1/PMID_24403049_Proband_2.json
+PMID_37947183_Family_F12_individual_P16	CRELD1	OMIM:620771	Jeffries-Lakhani neurodevelopmental syndrome	comphet	2	17	chr3:9944455C>T;chr3:9943425CA>C	0.1.27/CRELD1/PMID_37947183_Family_F12_individual_P16.json
+PMID_39531736_Family_USA1_individual_P5	HMGCS1	OMIM:621433	Congenital myopathy 28 with rigid spine	comphet	2	7	chr5:43298757A>G;chr5:43295854C>G	0.1.27/HMGCS1/PMID_39531736_Family_USA1_individual_P5.json
+PMID_21958591_Case_report	GYS1	OMIM:611556	Glycogen storage disease 0, muscle	comphet	2	13	chr19:48969857T>C;chr19:48978004T>C	0.1.27/GYS1/PMID_21958591_Case_report.json
+PMID_38386308_F3_II_1	ZSCAN10	OMIM:620910	Otofacial neurodevelopmental syndrome	comphet	2	11	chr16:3090184G>T;chr16:3089383TG>T	0.1.27/ZSCAN10/PMID_38386308_F3_II_1.json
+PMID_28503313_patient	DHCR7	OMIM:270400	Smith-Lemli-Opitz syndrome	comphet	2	13	chr11:71437868C>T;chr11:71435478T>C	0.1.27/DHCR7/PMID_28503313_patient.json
+PMID_38413582_Family_8_individual_II_2	SNUPN	OMIM:620793	Muscular dystrophy, limb-girdle, autosomal recessive 29	comphet	2	10	chr15:75598515A>C;chr15:75598654G>A	0.1.27/SNUPN/PMID_38413582_Family_8_individual_II_2.json
+PMID_15200511_individual_II_6	DLL3	OMIM:277300	Spondylocostal dysostosis 1, autosomal recessive	comphet	2	4	chr19:39507384CG>C;chr19:39507456G>A	0.1.27/DLL3/PMID_15200511_individual_II_6.json
+PMID_30364145_proband	OTUD6B	OMIM:617452	Intellectual developmental disorder with dysmorphic facies, seizures, and distal limb anomalies	comphet	2	21	chr8:91071290G>C;chr8:91073912G>A	0.1.27/OTUD6B/PMID_30364145_proband.json
+PMID_36074124_1_06817	DAW1	OMIM:620570	Ciliary dyskinesia, primary, 52	comphet	2	5	chr2:227921464G>T;chr2:227889939T>A	0.1.27/DAW1/PMID_36074124_1_06817.json
+PMID_20729548_UCMD21	COL6A2	OMIM:620727	Ullrich congenital muscular dystrophy 1B	comphet	2	8	chr21:46125500TTCGTCA>T;chr21:46125265G>T	0.1.27/COL6A2/PMID_20729548_UCMD21.json
+PMID_24769197_patient	CTSA	OMIM:256540	Galactosialidosis	comphet	2	17	chr20:45894703CTA>C;chr20:45894040T>A	0.1.27/CTSA/PMID_24769197_patient.json
+PMID_18385497_Patient_4	MMADHC	OMIM:620953	Methylmalonic aciduria, cblD type	comphet	2	7	chr2:149579478T>TTGATAAAGGTTCTGCTAG;chr2:149579643G>A	0.1.27/MMADHC/PMID_18385497_Patient_4.json
+PMID_30968594_individual_43	CYP21A2	OMIM:201910	Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency	comphet	2	6	chr6:32039426T>A;chr6:32039081C>G	0.1.27/CYP21A2/PMID_30968594_individual_43.json
+PMID_34612517_F2_II_2	TMEM260	OMIM:617478	Structural heart defects and renal anomalies syndrome	comphet	2	8	chr14:56633089GT>G;chr14:56621697C>T	0.1.27/TMEM260/PMID_34612517_F2_II_2.json
+PMID_23913798_Patient_2	PLCB4	OMIM:620458	Auriculocondylar syndrome 2B	comphet	2	7	chr20:9384200G>A;chr20:9389959G>C	0.1.27/PLCB4/PMID_23913798_Patient_2.json
+PMID_15496425_patient	MUSK	OMIM:616325	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency	comphet	2	9	chr9:110800746G>A;chr9:110687127A>AC	0.1.27/MUSK/PMID_15496425_patient.json
+PMID_33510604_Case_Presentation	GALE	OMIM:620776	Thrombocytopenia 13, syndromic	comphet	2	10	chr1:23796782C>T;chr1:23798701G>A	0.1.27/GALE/PMID_33510604_Case_Presentation.json
+PMID_27153400_Family_C_IV_13	CAPN1	OMIM:616907	Spastic paraplegia 76, autosomal recessive	comphet	2	8	chr11:65206824G>A;chr11:65183541TC>T	0.1.27/CAPN1/PMID_27153400_Family_C_IV_13.json
+PMID_20034086_Patient_1	LRP5	OMIM:259770	Osteoporosis-pseudoglioma syndrome	comphet	2	10	chr11:68363791C>T;chr11:68386445C>T	0.1.27/LRP5/PMID_20034086_Patient_1.json
+PMID_29321044_Patient_1	VMA12	OMIM:616829	Congenital disorder of glycosylation, type Iip	comphet	2	12	chr17:28357681CTT>C;chr17:28357762G>C	0.1.27/VMA12/PMID_29321044_Patient_1.json
+PMID_36603335_Case_report	COL4A2	OMIM:621414	Brain small vessel disease 2B, autosomal recessive	comphet	2	7	chr13:110467070G>T;chr13:110429942C>T	0.1.27/COL4A2/PMID_36603335_Case_report.json
+PMID_28619360_probadn	COG8	OMIM:611182	Congenital disorder of glycosylation, type IIh	comphet	2	14	chr16:69339381G>GC;chr16:69331021C>CG	0.1.27/COG8/PMID_28619360_probadn.json
+PMID_39306721_Family_8_Individual_10	FLVCR1	OMIM:621060	Neurodevelopmental disorder with microcephaly, absent speech, and hypotonia	comphet	2	13	chr1:212872813C>T;chr1:212887919T>C	0.1.27/FLVCR1/PMID_39306721_Family_8_Individual_10.json
+PMID_37713809_R0038_II_1	AK9	OMIM:620705	Spermatogenic failure 89	comphet	2	5	chr6:109533430C>T;chr6:109564271G>A	0.1.27/AK9/PMID_37713809_R0038_II_1.json
+PMID_29385733_Proband_32595	NRL	OMIM:621371	Enhanced S-cone syndrome 2	comphet	2	8	chr14:24081442G>T;chr14:24081295AG>A	0.1.27/NRL/PMID_29385733_Proband_32595.json
+PMID_26078953_proband_II_2	BBS2	OMIM:615981	Bardet-Biedl syndrome 2	comphet	2	8	chr16:56485717A>T;chr16:56497013G>A	0.1.27/BBS2/PMID_26078953_proband_II_2.json
+PMID_37723834_family_2_III_3	PABPC1L	OMIM:621093	Oocyte/zygote/embryo maturation arrest 22	comphet	2	3	chr20:44930688C>T;chr20:44921648C>T	0.1.27/PABPC1L/PMID_37723834_family_2_III_3.json
+PMID_26908613_MOGL2063	POMGNT1	OMIM:617123	Retinitis pigmentosa 76	comphet	2	6	chr1:46197018G>A;chr1:46194293A>C	0.1.27/POMGNT1/PMID_26908613_MOGL2063.json
+PMID_33988247_Family_208_II_1	ATG4D	OMIM:621269	Spermatogenic failure 101	comphet	2	3	chr19:10547235G>A;chr19:10552265G>A	0.1.27/ATG4D/PMID_33988247_Family_208_II_1.json
+PMID_17110937_Patient_7	GGCX	OMIM:610842	Pseudoxanthoma elasticum-like disorder with multiple coagulation factor deficiency	comphet	2	5	chr2:85551548C>T;chr2:85553491A>G	0.1.27/GGCX/PMID_17110937_Patient_7.json
+PMID_24443441_P_1	KLF1	OMIM:620969	Anemia, congenital dyserythropoietic, type IVb	comphet	2	13	chr19:12884971C>T;chr19:12884983G>A	0.1.27/KLF1/PMID_24443441_P_1.json
+PMID_24889630_Proband_2	PCYT1A	OMIM:620680	Lipodystrophy, congenital generalized, type 5	comphet	2	11	chr3:196238795AG>A;chr3:196239603TCTC>T	0.1.27/PCYT1A/PMID_24889630_Proband_2.json
+PMID_38054405_Family_2_individual_P3	SLC4A10	OMIM:620746	Neurodevelopmental disorder with hypotonia and characteristic brain abnormalities	comphet	2	15	chr2:161879234G>C;chr2:161905754C>T	0.1.27/SLC4A10/PMID_38054405_Family_2_individual_P3.json
+PMID_35321494_Subject_1	TAMM41	OMIM:620139	Combined oxidative phosphorylation deficiency 56	comphet	2	16	chr3:11839223G>A;chr3:11809684T>C	0.1.27/TAMM41/PMID_35321494_Subject_1.json
+PMID_36253531_Family_1	LDB3	OMIM:621237	Cardiomyopathy, dilated, 2L	comphet	2	3	chr10:86668744AG>A;chr10:86692069A>G	0.1.27/LDB3/PMID_36253531_Family_1.json
+PMID_28285769_Individual_6_II_1	CWC27	OMIM:250410	Retinitis pigmentosa with or without skeletal anomalies	comphet	2	12	chr5:64769165C>T;chr5:64785511C>T	0.1.27/CWC27/PMID_28285769_Individual_6_II_1.json
+PMID_36351433_F3_III_1	EMILIN1	OMIM:620908	Arterial tortuosity-bone fragility syndrome	comphet	2	20	chr2:27084428G>GGCTGGGCCCCCAGGGCCTCCTGGGCT;chr2:27079183A>AG	0.1.27/EMILIN1/PMID_36351433_F3_III_1.json
+PMID_38430071_F1_II_3	NIT1	OMIM:621313	Brain small vessel disease 4	comphet	2	7	chr1:161120508C>T;chr1:161119232CAT>C	0.1.27/NIT1/PMID_38430071_F1_II_3.json
+PMID_38436102_sister	MYZAP	OMIM:620894	Cardiomyopathy, dilated, 2K	comphet	2	4	chr15:57621638C>T;chr15:57633742G>A	0.1.27/MYZAP/PMID_38436102_sister.json
+PMID_38128568_Patient_FI_1	BORCS8	OMIM:620987	Neurodegeneration, infantile-onset, with optic atrophy and brain abnormalities	comphet	2	51	chr19:19186967T>TGGCCA;chr19:19186958A>G	0.1.27/BORCS8/PMID_38128568_Patient_FI_1.json
+PMID_38422122_Patient_7_kindred_E	PTCRA	OMIM:620931	Immunodeficiency 126	comphet	2	18	chr6:42925282G>A;chr6:42925264CA>C	0.1.27/PTCRA/PMID_38422122_Patient_7_kindred_E.json
+PMID_36190515_Patient_3	GCSH	OMIM:620423	Multiple mitochondrial dysfunctions syndrome 7	comphet	2	6	chr16:81096278T>C;chr16:81090603G>A	0.1.27/GCSH/PMID_36190515_Patient_3.json
+PMID_24126608_BAB3022	VRK1	OMIM:620542	Neuronopathy, distal hereditary motor, autosomal recessive 10	comphet	2	15	chr14:96855353G>A;chr14:96846144G>A	0.1.27/VRK1/PMID_24126608_BAB3022.json
+PMID_38105698_girl	HROB	OMIM:620897	Ovarian dysgenesis 11	comphet	2	5	chr17:44152679C>T;chr17:44148521C>T	0.1.27/HROB/PMID_38105698_girl.json
+PMID_16912710_Individual_F1234_II_1	LAMB2	OMIM:614199	Nephrotic syndrome, type 5, with or without ocular abnormalities	comphet	2	3	chr3:49123216G>T;chr3:49130815A>G	0.1.27/LAMB2/PMID_16912710_Individual_F1234_II_1.json
+PMID_38767059_C1	FAM177A1	OMIM:621152	Neurodevelopmental disorder with white matter abnormalities and gait disturbance	comphet	2	13	chr14:35053380G>T;chr14:35053319CAT>C	0.1.27/FAM177A1/PMID_38767059_C1.json
+PMID_37880421_Family_2_II_1	CASP2	OMIM:620653	Intellectual developmental disorder, autosomal recessive 80, with variant lissencephaly	comphet	2	11	chr7:143300052G>T;chr7:143291595C>T	0.1.27/CASP2/PMID_37880421_Family_2_II_1.json
+PMID_25411445_Patient_4	WWOX	OMIM:616211	Developmental and epileptic encephalopathy 28	comphet	2	6	chr16:78108455C>G;chr16:78099822AGGAC>A	0.1.27/WWOX/PMID_25411445_Patient_4.json
+PMID_29175559_Patient_7_Schaaf_2011	DHCR24	OMIM:602398	Desmosterolosis	comphet	2	11	chr1:54852346C>T;chr1:54883724C>T	0.1.27/DHCR24/PMID_29175559_Patient_7_Schaaf_2011.json
+PMID_38592547_affected_individual_II_1	SUPT7L	OMIM:621130	Fischer-Zirnsak progeroid syndrome	comphet	2	28	chr2:27661144T>TCTGG;chr2:27661323C>T	0.1.27/SUPT7L/PMID_38592547_affected_individual_II_1.json
+PMID_40924475_XP140BR	GTF2H4	OMIM:621435	Xeroderma pigmentosum, complementation group J	comphet	2	12	chr6:30909434G>A;chr6:30913374CC>GAG	0.1.27/GTF2H4/PMID_40924475_XP140BR.json
+PMID_29644084_patient	ASPM	OMIM:608716	Microcephaly 5, primary, autosomal recessive	comphet	2	12	chr1:197101467TTC>T;chr1:197090279AGTTT>A	0.1.27/ASPM/PMID_29644084_patient.json
+PMID_40449487_Individual_1	TM2D3	OMIM:621379	Neurocardiorenal malformation syndrome	comphet	2	43	chr15:101645162C>T;chr15:101652355C>A	0.1.27/TM2D3/PMID_40449487_Individual_1.json
+PMID_40043708_F8	MRPL49	OMIM:621195	Combined oxidative phosphorylation deficiency 60	comphet	2	16	chr11:65125520C>T;chr11:65124545CTG>C	0.1.27/MRPL49/PMID_40043708_F8.json
+PMID_21542062_22_year_old_Asian_mal	ATP13A2	OMIM:606693	Kufor-Rakeb syndrome	comphet	2	15	chr1:16986864A>C;chr1:16986614AG>A	0.1.27/ATP13A2/PMID_21542062_22_year_old_Asian_mal.json
+PMID_23335372_Case_report	CARD9	OMIM:212050	Immunodeficiency 103, susceptibility to fungal infection	comphet	2	6	chr9:136367788C>G;chr9:136371432C>T	0.1.27/CARD9/PMID_23335372_Case_report.json
+PMID_28392951_Patient_3	NPHS1	OMIM:256300	Nephrotic syndrome, type 1	comphet	2	6	chr19:35842480C>A;chr19:35842511T>A	0.1.27/NPHS1/PMID_28392951_Patient_3.json
+PMID_26040326_eldest_sister_III_1	AMN	OMIM:618882	Imerslund-Grasbeck syndrome 2	comphet	2	3	chr14:102923978T>A;chr14:102922722CA>C	0.1.27/AMN/PMID_26040326_eldest_sister_III_1.json
+PMID_25678555_UDP4003	CAD	OMIM:616457	Developmental and epileptic encephalopathy 50	comphet	2	15	chr2:27226130G>A;chr2:27242098G>A	0.1.27/CAD/PMID_25678555_UDP4003.json
+PMID_38950322_P3	CIAO1	OMIM:620960	Multiple mitochondrial dysfunctions syndrome 10	comphet	2	14	chr2:96267374C>T;chr2:96271236A>C	0.1.27/CIAO1/PMID_38950322_P3.json
+PMID_10571775_YAT_II_1	SLC4A1	OMIM:611590	Distal renal tubular acidosis 4 with hemolytic anemia	comphet	2	9	chr17:44253327C>T;chr17:44258042ACGGCAGCCAGGACCTGGGGGCTGAATG>A	0.1.27/SLC4A1/PMID_10571775_YAT_II_1.json
+PMID_28132693_individual_1_GC18203	ARHGEF18	OMIM:617433	Retinitis pigmentosa 78	comphet	2	9	chr19:7444215A>G;chr19:7462259C>T	0.1.27/ARHGEF18/PMID_28132693_individual_1_GC18203.json
+PMID_25845469_Patient_2	MED23	OMIM:614249	Intellectual developmental disorder, autosomal recessive 18, with or without epilepsy	comphet	2	14	chr6:131591361T>C;chr6:131587798G>A	0.1.27/MED23/PMID_25845469_Patient_2.json
+PMID_36302985_Patient_1	ITPR3	OMIM:621254	Immunodeficiency 133 with ectodermal dysplasia with or without peripheral neuropathy	comphet	2	25	chr6:33692839C>T;chr6:33685709G>A	0.1.27/ITPR3/PMID_36302985_Patient_1.json
+PMID_27900365_patient	NPC1	OMIM:257220	Niemann-Pick disease, type C1	comphet	2	12	chr18:23535479T>C;chr18:23539418C>T	0.1.27/NPC1/PMID_27900365_patient.json
+PMID_36136088_Family_4_II_1	FICD	OMIM:620911	Spastic paraplegia 92, autosomal recessive	comphet	2	5	chr12:108519219G>A;chr12:108519205CGG>C	0.1.27/FICD/PMID_36136088_Family_4_II_1.json
+PMID_30208878_proband	GNPTAB	OMIM:252600	Mucolipidosis III alpha/beta	comphet	2	22	chr12:101764201C>T;chr12:101764513G>A	0.1.27/GNPTAB/PMID_30208878_proband.json
+PMID_28830446_Patient_1	ADA2	OMIM:615688	Vasculitis, autoinflammation, immunodeficiency, and hematologic defects syndrome	comphet	2	17	chr22:17182620C>T;chr22:17209539C>G	0.1.27/ADA2/PMID_28830446_Patient_1.json
+PMID_30936877_8_year_old_girl	RNF31	OMIM:620632	Immunodeficiency 115 with autoinflammation	comphet	2	12	chr14:24150448G>C;chr14:24151382A>G	0.1.27/RNF31/PMID_30936877_8_year_old_girl.json
+PMID_30568144_Case_Report	WRN	OMIM:277700	Werner syndrome	comphet	2	14	chr8:31090533G>A;chr8:31141680G>C	0.1.27/WRN/PMID_30568144_Case_Report.json
+PMID_26358773_Patient_9	SLC9A3	OMIM:616868	Diarrhea 8, secretory sodium, congenital	comphet	2	8	chr5:483270C>T;chr5:477346AG>A	0.1.27/SLC9A3/PMID_26358773_Patient_9.json
+PMID_28446873_Case_2	VPS13A	OMIM:200150	Choreoacanthocytosis	comphet	2	14	chr9:77345128TCAATA>T;chr9:77365526C>T	0.1.27/VPS13A/PMID_28446873_Case_2.json
+PMID_37183190_Family_9_individual_ind_13	CNTNAP2	OMIM:610042	Pitt-Hopkins like syndrome 1	comphet	2	6	chr7:148118183G>A;chr7:146839902T>G	0.1.27/CNTNAP2/PMID_37183190_Family_9_individual_ind_13.json
+PMID_15781812_individual_120	NHLRC1	OMIM:620681	Myoclonic epilepsy of Lafora 2	comphet	2	7	chr6:18122138CT>C;chr6:18122402G>C	0.1.27/NHLRC1/PMID_15781812_individual_120.json
+PMID_26734137_patient	CYP27B1	OMIM:264700	Vitamin D-dependent rickets, type I	comphet	2	18	chr12:57763730G>T;chr12:57764147C>T	0.1.27/CYP27B1/PMID_26734137_patient.json
+PMID_41125872_Pathogenic_05	UNC13A	OMIM:621455	Neurodevelopmental disorder with hypotonia, epilepsy, and absent speech	comphet	2	12	chr19:17626632C>T;chr19:17658061C>A	0.1.27/UNC13A/PMID_41125872_Pathogenic_05.json
+PMID_32811249_Sibling_2	BBS5	OMIM:615983	Bardet-Biedl syndrome 5	comphet	2	6	chr2:169504477AAAGCAAC>A;chr2:169487068G>A	0.1.27/BBS5/PMID_32811249_Sibling_2.json
+PMID_29606302_A_II_1	AEBP1	OMIM:618000	Ehlers-Danlos syndrome, classic-like, 2	comphet	2	18	chr7:44110793AC>A;chr7:44111533C>A	0.1.27/AEBP1/PMID_29606302_A_II_1.json
+PMID_40499538_Subject_3	FASTKD5	OMIM:621431	Mitochondrial complex IV deficiency, nuclear type 24	comphet	2	14	chr20:3147041CCT>C;chr20:3148697T>C	0.1.27/FASTKD5/PMID_40499538_Subject_3.json
+PMID_23099195_Patient_3	ASS1	OMIM:215700	Citrullinemia	comphet	2	15	chr9:130466723A>G;chr9:130489464G>A	0.1.27/ASS1/PMID_23099195_Patient_3.json
+PMID_16439204_P1	NHEJ1	OMIM:611291	Immunodeficiency 124, severe combined	comphet	2	11	chr2:219157495A>G;chr2:219158194G>C	0.1.27/NHEJ1/PMID_16439204_P1.json
+PMID_39071892_AY0749	DNAH12	OMIM:621209	Spermatogenic failure 100	comphet	2	8	chr3:57462708T>C;chr3:57296360G>A	0.1.27/DNAH12/PMID_39071892_AY0749.json
+PMID_35026854_Patient_3	NOTCH3	OMIM:621295	Cerebral arteriopathy, autosomal recessive, with subcortical infarcts and leukoencephalopathy 1	comphet	2	10	chr19:15162548G>A;chr19:15161701A>AG	0.1.27/NOTCH3/PMID_35026854_Patient_3.json
+PMID_21739261_Patient_1	TYRP1	OMIM:203290	Albinism, oculocutaneous, type III	comphet	2	3	chr9:12698521TCTGCACGGATGA>T;chr9:12702424G>A	0.1.27/TYRP1/PMID_21739261_Patient_1.json
+PMID_29149870_proposita	VPS13B	OMIM:216550	Cohen syndrome	comphet	2	20	chr8:99699772CAT>C;chr8:99467549CT>C	0.1.27/VPS13B/PMID_29149870_proposita.json
+PMID_31792352_proband	EFEMP1	OMIM:620780	Cutis laxa, autosomal recessive, type ID	comphet	2	19	chr2:55881637A>T;chr2:55917857TTGCCA>T	0.1.27/EFEMP1/PMID_31792352_proband.json
+PMID_31449058_Patient_2	POLD1	OMIM:620836	Immunodeficiency 120	comphet	2	11	chr19:50417843C>T;chr19:50409564G>C	0.1.27/POLD1/PMID_31449058_Patient_2.json
+PMID_29050284_proband_II_5	OCA2	OMIM:203200	Albinism, oculocutaneous, type II	comphet	2	7	chr15:28016189G>C;chr15:27871924T>C	0.1.27/OCA2/PMID_29050284_proband_II_5.json
+PMID_40267907_Family_4_1	UGGT1	OMIM:621381	Congenital disorder of glycosylation, type IICC	comphet	2	16	chr2:128181069T>TC;chr2:128155519T>C	0.1.27/UGGT1/PMID_40267907_Family_4_1.json
+PMID_30359777_Clinical_report	GTF2H5	OMIM:616395	Trichothiodystrophy 3, photosensitive	comphet	2	25	chr6:158191990A>T;chr6:158170532T>A	0.1.27/GTF2H5/PMID_30359777_Clinical_report.json
+PMID_36333996_Patient_of_family_B	NUP54	OMIM:620427	Dystonia 37, early-onset, with striatal lesions	comphet	2	10	chr4:76124687T>C;chr4:76124740A>C	0.1.27/NUP54/PMID_36333996_Patient_of_family_B.json
+PMID_31784481_P4	DONSON	OMIM:621528	Meier-Gorlin syndrome 10	comphet	2	7	chr21:33584705G>A;chr21:33583643T>C	0.1.27/DONSON/PMID_31784481_P4.json
+PMID_40409267_Family_D_individual_II_1	POPDC2	OMIM:621367	Cardiac conduction disease with or without cardiomyopathy 2	comphet	2	7	chr3:119654542C>T;chr3:119660310GAGTA>G	0.1.27/POPDC2/PMID_40409267_Family_D_individual_II_1.json
+PMID_30790272_Family_1_Patient_1	GTPBP2	OMIM:617988	Jaberi-Elahi syndrome	comphet	2	37	chr6:43622077G>A;chr6:43625413G>A	0.1.27/GTPBP2/PMID_30790272_Family_1_Patient_1.json
+PMID_31251474_proband	SERAC1	OMIM:614739	3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome	comphet	2	19	chr6:158150590C>G;chr6:158150516G>A	0.1.27/SERAC1/PMID_31251474_proband.json
+PMID_8202713_Case_1	ZAP70	OMIM:269840	Immunodeficiency 48	comphet	2	11	chr2:97737984G>A;chr2:97737828C>A	0.1.27/ZAP70/PMID_8202713_Case_1.json
+PMID_8005589_patient_B	AMT	OMIM:620398	Glycine encephalopathy 2	comphet	2	5	chr3:49422223C>T;chr3:49417892C>T	0.1.27/AMT/PMID_8005589_patient_B.json
+PMID_10498624_Case_6_NS	NCF2	OMIM:233710	Chronic granulomatous disease 2, autosomal recessive	comphet	2	4	chr1:183590266AGTCCTTCTT>A;chr1:183577598C>T	0.1.27/NCF2/PMID_10498624_Case_6_NS.json
+PMID_24164096_patient	ASAH1	OMIM:159950	Spinal muscular atrophy with progressive myoclonic epilepsy	comphet	2	7	chr8:18059639C>A;chr8:18064458T>G	0.1.27/ASAH1/PMID_24164096_patient.json
+PMID_27132592_Subject_1	TRMT10C	OMIM:616974	Combined oxidative phosphorylation deficiency 30	comphet	2	14	chr3:101565595A>G;chr3:101565323G>T	0.1.27/TRMT10C/PMID_27132592_Subject_1.json
+PMID_38509369_P2	IL27RA	OMIM:621405	Immunodeficiency 134 (Epstein-Barr virus-specific)	comphet	2	12	chr19:14049248C>G;chr19:14048979A>C	0.1.27/IL27RA/PMID_38509369_P2.json
+PMID_38637313_Family_1_Patient_1	PACSIN3	OMIM:621343	Congenital myopathy 27	comphet	2	14	chr11:47180624GCGCTCAGC>G;chr11:47179579GCT>G	0.1.27/PACSIN3/PMID_38637313_Family_1_Patient_1.json
+PMID_26567009_male_child	GALC	OMIM:245200	Krabbe disease	comphet	2	8	chr14:87945601C>T;chr14:87968383C>T	0.1.27/GALC/PMID_26567009_male_child.json
+PMID_19818506_Patient_3	RGS9	OMIM:608415	Prolonged electroretinal response suppression 1	comphet	2	4	chr17:65160868C>T;chr17:65197160T>C	0.1.27/RGS9/PMID_19818506_Patient_3.json
+PMID_36443312_Family_2_II_1	CMPK2	OMIM:621018	Basal ganglia calcification, idiopathic, 10, autosomal recessive	comphet	2	8	chr2:6865696T>G;chr2:6849959T>C	0.1.27/CMPK2/PMID_36443312_Family_2_II_1.json
+PMID_18669544_FO_10	BBS1	OMIM:209900	Bardet-Biedl syndrome 1	comphet	2	4	chr11:66523885G>A;chr11:66526181T>G	0.1.27/BBS1/PMID_18669544_FO_10.json
+PMID_24623842_T23532	GABRA1	OMIM:615744	Developmental and epileptic encephalopathy 19	denovo	1	11	chr5:161873196G>A	0.1.27/GABRA1/PMID_24623842_T23532.json
+PMID_21683322_AD_Family_22_a	FBN1	OMIM:102370	Acromicric dysplasia	denovo	1	8	chr15:48460292A>C	0.1.27/FBN1/PMID_21683322_AD_Family_22_a.json
+PMID_35190816_STX_STXBP1adult_Pt32	STXBP1	OMIM:612164	Developmental and epileptic encephalopathy 4	denovo	1	18	chr9:127666236A>G	0.1.27/STXBP1/PMID_35190816_STX_STXBP1adult_Pt32.json
+PMID_10939567_Patient_EMD6_III_5	LMNA	OMIM:181350	Emery-Dreifuss muscular dystrophy 2, autosomal dominant	denovo	1	14	chr1:156137204G>C	0.1.27/LMNA/PMID_10939567_Patient_EMD6_III_5.json
+PMID_25802881_P86	GNAS	OMIM:103580	Pseudohypoparathyroidism Ia	denovo	1	3	chr20:58910754GAA>G	0.1.27/GNAS/PMID_25802881_P86.json
+PMID_36446582_Parenti2021_P3	ANKRD11	OMIM:148050	KBG syndrome	denovo	1	12	chr16:89284565G>C	0.1.27/ANKRD11/PMID_36446582_Parenti2021_P3.json
+PMID_40610405_COL034_1	NR6A1	OMIM:621277	Oculovertebral syndrome	denovo	1	11	chr9:124554439G>A	0.1.27/NR6A1/PMID_40610405_COL034_1.json
+PMID_38614108_TUN3_II_1	RAB32	OMIM:620923	Parkinson disease 26, autosomal dominant, susceptibility to	denovo	1	5	chr6:146544084C>G	0.1.27/RAB32/PMID_38614108_TUN3_II_1.json
+PMID_32376980_Patient_25	TRAF7	OMIM:618164	Cardiac, facial, and digital anomalies with developmental delay	denovo	1	7	chr16:2176153C>G	0.1.27/TRAF7/PMID_32376980_Patient_25.json
+PMID_37761890_53	PPP2R1A	OMIM:616362	Houge-Janssens syndrome 2	denovo	1	3	chr19:52212718C>T	0.1.27/PPP2R1A/PMID_37761890_53.json
+PMID_30679813_Individual_17	FBXO11	OMIM:618089	Intellectual developmental disorder with dysmorphic facies and behavioral abnormalities	denovo	1	5	chr2:47813316C>G	0.1.27/FBXO11/PMID_30679813_Individual_17.json
+PMID_35052493_individual_G02	POGZ	OMIM:616364	White-Sutton syndrome	denovo	1	11	chr1:151423950G>A	0.1.27/POGZ/PMID_35052493_individual_G02.json
+PMID_37433783_P6	EZH1	OMIM:601674	EZH1-related neurodevelopmental disorder	denovo	1	12	chr17:42702878T>C	0.1.27/EZH1/PMID_37433783_P6.json
+PMID_39013458_individual_VUSM110030	EHMT1	OMIM:610253	Kleefstra syndrome 1	denovo	1	9	chr9:137798837C>T	0.1.27/EHMT1/PMID_39013458_individual_VUSM110030.json
+PMID_36549593_Id6	TRA2B	OMIM:621421	Ramond-Elliott neurodevelopmental syndrome	denovo	1	9	chr3:185937845C>A	0.1.27/TRA2B/PMID_36549593_Id6.json
+PMID_35420632_Patient_4_IV_4	POT1	OMIM:620367	Pulmonary fibrosis and/or bone marrow failure syndrome, telomere-related, 8	denovo	1	8	chr7:124853065A>G	0.1.27/POT1/PMID_35420632_Patient_4_IV_4.json
+PMID_19776401_Patient_4_1	DOCK8	OMIM:243700	Hyper-IgE syndrome 2, autosomal recessive, with recurrent infections	denovo	1	8	chr9:334240G>T	0.1.27/DOCK8/PMID_19776401_Patient_4_1.json
+PMID_31898322_case_6_index	TGFB3	OMIM:615582	Loeys-Dietz syndrome 5	denovo	1	7	chr14:75971257TA>CT	0.1.27/TGFB3/PMID_31898322_case_6_index.json
+PMID_38503300_Individual_1	PSMB10	OMIM:620807	Immunodeficiency 121 with autoinflammation	denovo	1	14	chr16:67934906C>T	0.1.27/PSMB10/PMID_38503300_Individual_1.json
+PMID_31239556_individual_38	CTCF	OMIM:615502	Intellectual developmental disorder, autosomal dominant 21	denovo	1	10	chr16:67616870A>C	0.1.27/CTCF/PMID_31239556_individual_38.json
+PMID_34890546_M199_Mayo_II_1	IFT140	OMIM:621164	Polycystic kidney disease 9, susceptibility to	denovo	1	3	chr16:1525884CACTA>C	0.1.27/IFT140/PMID_34890546_M199_Mayo_II_1.json
+PMID_26541327_Pat_13_FXII	NBAS	OMIM:614800	Short stature, optic nerve atrophy, and Pelger-Huet anomaly	denovo	1	13	chr2:15475750A>C	0.1.27/NBAS/PMID_26541327_Pat_13_FXII.json
+PMID_38950288_Proband_4	C10orf71	OMIM:621251	Cardiomyopathy, dilated, 1QQ	denovo	1	3	chr10:49325598G>A	0.1.27/C10orf71/PMID_38950288_Proband_4.json
+PMID_24736735_G033	GLI3	OMIM:175700	Greig cephalopolysyndactyly syndrome	denovo	1	6	chr7:42023586AG>A	0.1.27/GLI3/PMID_24736735_G033.json
+PMID_33078099_III_8	LIM2	OMIM:615277	Cataract 19, multiple types	denovo	1	4	chr19:51380577G>A	0.1.27/LIM2/PMID_33078099_III_8.json
+PMID_31721432_patient_16	CHD8	OMIM:615032	Intellectual developmental disorder with autism and macrocephaly	denovo	1	7	chr14:21403202C>CTT	0.1.27/CHD8/PMID_31721432_patient_16.json
+PMID_39088281_III_5	RPL17	OMIM:621262	Diamond-Blackfan anemia 22	denovo	1	9	chr18:49490555G>C	0.1.27/RPL17/PMID_39088281_III_5.json
+PMID_28686853_Individual_15	WDR26	OMIM:617616	Skraban-Deardorff syndrome	denovo	1	12	chr1:224411425ACCGGATCAACT>A	0.1.27/WDR26/PMID_28686853_Individual_15.json
+PMID_28782633_Family_1_P3_26_year_old_son	SEC61A1	OMIM:620670	Immunodeficiency, common variable, 15	denovo	1	7	chr3:128056742T>A	0.1.27/SEC61A1/PMID_28782633_Family_1_P3_26_year_old_son.json
+PMID_29230160_case_report	AHDC1	OMIM:615829	Xia-Gibbs syndrome	denovo	1	19	chr1:27550085GC>G	0.1.27/AHDC1/PMID_29230160_case_report.json
+PMID_37196654_Individual_76	KDM6B	OMIM:618505	Stolerman neurodevelopmental syndrome	denovo	1	11	chr17:7852299G>A	0.1.27/KDM6B/PMID_37196654_Individual_76.json
+PMID_23197950_father	UMOD	OMIM:162000	Tubulointerstitial kidney disease, autosomal dominant, 1	denovo	1	3	chr16:20348613A>G	0.1.27/UMOD/PMID_23197950_father.json
+PMID_10077612_Family_A_VI_2	TBX5	OMIM:142900	Holt-Oram syndrome	denovo	1	4	chr12:114401830C>T	0.1.27/TBX5/PMID_10077612_Family_A_VI_2.json
+PMID_28826917_Patient_A	ITPR1	OMIM:117360	Spinocerebellar ataxia 29, congenital nonprogressive	denovo	1	11	chr3:4645678C>T	0.1.27/ITPR1/PMID_28826917_Patient_A.json
+PMID_29681085_Case_1	SETD2	OMIM:616831	Luscan-Lumish syndrome	denovo	1	12	chr3:47122969TTATAACGGGAAGCACTACTG>GT	0.1.27/SETD2/PMID_29681085_Case_1.json
+PMID_28841907_boy	COL2A1	OMIM:108300	Stickler syndrome, type I	denovo	1	16	chr12:47987690C>T	0.1.27/COL2A1/PMID_28841907_boy.json
+PMID_33499149_II_2	GSN	OMIM:105120	Amyloidosis, Finnish type	denovo	1	5	chr9:121326680G>A	0.1.27/GSN/PMID_33499149_II_2.json
+PMID_40420380_Participant_10	KDM2B	OMIM:621474	Neurodevelopmental disorder with congenital cardiac defects and variable renal and ocular abnormalities	denovo	1	13	chr12:121453133C>G	0.1.27/KDM2B/PMID_40420380_Participant_10.json
+PMID_37598857_Family_12_individual	NEK8	OMIM:620903	Polycystic kidney disease 8	denovo	1	4	chr17:28734987A>G	0.1.27/NEK8/PMID_37598857_Family_12_individual.json
+PMID_39256359_Pedigree_Y_case_20	LRRC7	OMIM:621415	Intellectual developmental disorder, autosomal dominant 77	denovo	1	5	chr1:70121859T>A	0.1.27/LRRC7/PMID_39256359_Pedigree_Y_case_20.json
+PMID_40166812_F3_III_1	RAB3A	OMIM:621535	Spinocerebellar ataxia 52	denovo	1	6	chr19:18200427G>A	0.1.27/RAB3A/PMID_40166812_F3_III_1.json
+PMID_37369308_patient	DHX9	OMIM:620988	Intellectual developmental disorder, autosomal dominant 75	denovo	1	18	chr1:182860092G>A	0.1.27/DHX9/PMID_37369308_patient.json
+PMID_37256937_Patient_16	PSMC3	OMIM:621539	Ebstein-Bezieau neurodevelopmental syndrome	denovo	1	8	chr11:47420702G>A	0.1.27/PSMC3/PMID_37256937_Patient_16.json
+PMID_24465259_Patient_1	DNM2	OMIM:160150	Centronuclear myopathy 1	denovo	1	10	chr19:10825111G>C	0.1.27/DNM2/PMID_24465259_Patient_1.json
+PMID_30968594_individual_10	CYP21A2	OMIM:201910	Adrenal hyperplasia, congenital, due to 21-hydroxylase deficiency	denovo	1	6	chr6:32040421C>T	0.1.27/CYP21A2/PMID_30968594_individual_10.json
+PMID_31569402_Family_13_Patient_I	TGFBR2	OMIM:610168	Loeys-Dietz syndrome 2	denovo	1	20	chr3:30674186G>T	0.1.27/TGFBR2/PMID_31569402_Family_13_Patient_I.json
+PMID_18930476_individual_III2	CAV3	OMIM:614321	Myopathy, distal, Tateyama type	denovo	1	4	chr3:8733956G>A	0.1.27/CAV3/PMID_18930476_individual_III2.json
+PMID_34521999_Individual_3	SON	OMIM:617140	ZTTK syndrome	denovo	1	18	chr21:33554981CAGTT>C	0.1.27/SON/PMID_34521999_Individual_3.json
+PMID_29198722_p_Arg913Ter_Affected_Individual_2	ZSWIM6	OMIM:617865	Neurodevelopmental disorder with movement abnormalities, abnormal gait, and autistic features	denovo	1	10	chr5:61541917C>T	0.1.27/ZSWIM6/PMID_29198722_p_Arg913Ter_Affected_Individual_2.json
+PMID_35484142_F5_P6	HNRNPA2B1	OMIM:620460	Oculopharyngeal muscular dystrophy 2	denovo	1	9	chr7:26192540AC>A	0.1.27/HNRPA2B1/PMID_35484142_F5_P6.json
+PMID_37421948_Individual_16	TMEM63B	OMIM:621250	Developmental and epileptic encephalopathy 118	denovo	1	9	chr6:44153712G>C	0.1.27/TMEM63B/PMID_37421948_Individual_16.json
+PMID_41125872_Pathogenic_12	UNC13A	OMIM:621456	Neurodevelopmental disorder with speech delay, movement abnormalities, and seizures	denovo	1	11	chr19:17642894C>T	0.1.27/UNC13A/PMID_41125872_Pathogenic_12.json
+PMID_31021519_SATB2_04_from_Zarate_et_al_2018a_Scott_et_al	SATB2	OMIM:612313	Glass syndrome	denovo	1	4	chr2:199349027G>A	0.1.27/SATB2/PMID_31021519_SATB2_04_from_Zarate_et_al_2018a_Scott_et_al.json
+PMID_20924721_Egyptian_infant	MYH3	OMIM:193700	Arthrogryposis, distal, type 2A (Freeman-Sheldon)	denovo	1	10	chr17:10641318G>A	0.1.27/MYH3/PMID_20924721_Egyptian_infant.json
+PMID_30580808_Patient_9	SMARCC2	OMIM:618362	Coffin-Siris syndrome 8	denovo	1	20	chr12:56172426A>G	0.1.27/SMARCC2/PMID_30580808_Patient_9.json
+PMID_32128574_Family_A_II_4	TOP2B	OMIM:609296	B-cell immunodeficiency, distal limb anomalies, and urogenital malformations	denovo	1	15	chr3:25630407C>G	0.1.27/TOP2B/PMID_32128574_Family_A_II_4.json
+PMID_39721588_Individual_24	UBR5	OMIM:621372	Neurodevelopmental disorder with speech delay and behavioral abnormalities	denovo	1	8	chr8:102288202TCC>T	0.1.27/UBR5/PMID_39721588_Individual_24.json
+PMID_32730804_Individual_8	SCAF4	OMIM:620511	Fliedner-Zweier syndrome	denovo	1	9	chr21:31690870C>T	0.1.27/SCAF4/PMID_32730804_Individual_8.json
+PMID_36189931_32	COL3A1	OMIM:130050	Ehlers-Danlos syndrome, vascular type	denovo	1	9	chr2:189007500G>C	0.1.27/COL3A1/PMID_36189931_32.json
+PMID_27087320_Subject_9	RERE	OMIM:616975	Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart	denovo	1	10	chr1:8361236C>CCCTGGAGGAGCTGAGGAGGGAG	0.1.27/RERE/PMID_27087320_Subject_9.json
+PMID_20676099_proband_II_5	KLF1	OMIM:613566	Hereditary persistence of fetal hemoglobin	denovo	1	4	chr19:12885368T>A	0.1.27/KLF1/PMID_20676099_proband_II_5.json
+PMID_32219868_F8_II_1	AFG3L2	OMIM:618977	Optic atrophy 12	denovo	1	4	chr18:12356822G>A	0.1.27/AFG3L2/PMID_32219868_F8_II_1.json
+PMID_37660254_Patient_3	FTH1	OMIM:620669	Neurodegeneration with brain iron accumulation 9	denovo	1	17	chr11:61964765CAA>C	0.1.27/FTH1/PMID_37660254_Patient_3.json
+PMID_30569521_proband	ERF	OMIM:617180	Chitayat syndrome	denovo	1	13	chr19:42249934T>C	0.1.27/ERF/PMID_30569521_proband.json
+PMID_37850357_Case_2	RAP1B	OMIM:620654	Thrombocytopenia 11 with multiple congenital anomalies and dysmorphic facies	denovo	1	6	chr12:68652046G>A	0.1.27/RAP1B/PMID_37850357_Case_2.json
+PMID_40610405_Individual_7	EIF4A2	OMIM:620455	Neurodevelopmental disorder with hypotonia and speech delay, with or without seizures	denovo	1	9	chr3:186786220G>A	0.1.27/EIF4A2/PMID_40610405_Individual_7.json
+PMID_37541189_Individual_3	HNRNPC	OMIM:620688	Intellectual developmental disorder, autosomal dominant 74	denovo	1	9	chr14:21211228AGTCATCCTCGCCATTGGCGCTGTCTCT>A	0.1.27/HNRNPC/PMID_37541189_Individual_3.json
+PMID_22541558_individual_S_1	SF3B4	OMIM:154400	Acrofacial dysostosis 1, Nager type	denovo	1	7	chr1:149925952A>AT	0.1.27/SF3B4/PMID_22541558_individual_S_1.json
+PMID_39538375_Woman	AMOTL1	OMIM:621192	Craniofaciocardiohepatic syndrome	denovo	1	10	chr11:94799659C>T	0.1.27/AMOTL1/PMID_39538375_Woman.json
+PMID_17661815_Patient_A_II_2	CHD7	OMIM:214800	CHARGE syndrome	denovo	1	5	chr8:60816389C>T	0.1.27/CHD7/PMID_17661815_Patient_A_II_2.json
+PMID_39970126_FAMILY_3_individual_F3P3_pedigree_II1	ATP2A2	OMIM:621236	Rhabdomyolysis, susceptibility to, 2	denovo	1	5	chr12:110339543G>A	0.1.27/ATP2A2/PMID_39970126_FAMILY_3_individual_F3P3_pedigree_II1.json
+PMID_20932317_SMS324	RAI1	OMIM:182290	Smith-Magenis syndrome	denovo	1	28	chr17:17796044GC>G	0.1.27/RAI1/PMID_20932317_SMS324.json
+PMID_38708366_Patient_1	KCNH5	OMIM:620537	Developmental and epileptic encephalopathy 112	denovo	1	6	chr14:62950522C>T	0.1.27/KCNH5/PMID_38708366_Patient_1.json
+PMID_35977029_Family_8_individual14401_p1	UBAP2L	OMIM:620494	Neurodevelopmental disorder with impaired language, behavioral abnormalities, and dysmorphic facies	denovo	1	6	chr1:154255200T>TC	0.1.27/UBAP2L/PMID_35977029_Family_8_individual14401_p1.json
+PMID_35310830_Individual_III_5	SAMD9L	OMIM:619806	Spinocerebellar ataxia 49	denovo	1	5	chr7:93134095G>A	0.1.27/SAMD9L/PMID_35310830_Individual_III_5.json
+PMID_11333380_P3	ACTA1	OMIM:161800	Congenital myopathy 2A, typical, autosomal dominant	denovo	1	7	chr1:229431994C>A	0.1.27/ACTA1/PMID_11333380_P3.json
+PMID_30315159_Patient_4_Mother_of_Patient_3	ACTB	OMIM:620475	Thrombocytopenia 8, with dysmorphic features and developmental delay	denovo	1	14	chr7:5527867ACTTGCGCTCAGGAGGAG>A	0.1.27/ACTB/PMID_30315159_Patient_4_Mother_of_Patient_3.json
+PMID_25557232_Patients_3	KRT83	OMIM:621170	Monilethrix 3	denovo	1	4	chr12:52315903C>T	0.1.27/KRT83/PMID_25557232_Patients_3.json
+PMID_39480921_Patient_8	TCP1	OMIM:621021	Intellectual developmental disorder with polymicrogyria and seizures	denovo	1	6	chr6:159783954G>A	0.1.27/TCP1/PMID_39480921_Patient_8.json
+PMID_36214804_P13	KLHL20	OMIM:621390	Neurodevelopmental disorder with early-onset seizures, facial dysmorphism, and behavioral abnormalities	denovo	1	15	chr1:173766256A>G	0.1.27/KLHL20/PMID_36214804_P13.json
+PMID_8282779_II_2	SLC4A1	OMIM:612653	Spherocytosis, type 4	denovo	1	6	chr17:44251435A>ACATCTGGGTG	0.1.27/SLC4A1/PMID_8282779_II_2.json
+PMID_25168959_Patient_L5	SMARCB1	OMIM:614608	Coffin-Siris syndrome 3	denovo	1	23	chr22:23833669GAGA>G	0.1.27/SMARCB1/PMID_25168959_Patient_L5.json
+PMID_11849445_Proband	LYZ	OMIM:620658	Amyloidosis, hereditary systemic 5	denovo	1	3	chr12:69350215T>C	0.1.27/LYZ/PMID_11849445_Proband.json
+PMID_23388215_Proband_3	CALM1	OMIM:616247	Long QT syndrome 14	denovo	1	6	chr14:90404482A>G	0.1.27/CALM1/PMID_23388215_Proband_3.json
+PMID_37156989_P1	SOCS1	OMIM:619375	Autoinflammatory syndrome, familial, with or without immunodeficiency	denovo	1	6	chr16:11255421G>A	0.1.27/SOCS1/PMID_37156989_P1.json
+PMID_35150594_J_II_1	SPTAN1	OMIM:620538	Spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia	denovo	1	3	chr9:128566795C>T	0.1.27/SPTAN1/PMID_35150594_J_II_1.json
+PMID_32154675_Family_2_Patient_3	SMAD3	OMIM:613795	Loeys-Dietz syndrome 3	denovo	1	4	chr15:67164953T>TGCC	0.1.27/SMAD3/PMID_32154675_Family_2_Patient_3.json
+PMID_25817016_Individual_016516	DVL1	OMIM:616331	Robinow syndrome, autosomal dominant 2	denovo	1	19	chr1:1338107CG>C	0.1.27/DVL1/PMID_25817016_Individual_016516.json
+PMID_36074901_Patient_11	ATP6V0C	OMIM:620465	Epilepsy, early-onset, 3, with or without developmental delay	denovo	1	10	chr16:2519561C>T	0.1.27/ATP6V0C/PMID_36074901_Patient_11.json
+PMID_35618278_XII_1	SOX17	OMIM:621248	Pulmonary hypertension, primary, 7	denovo	1	3	chr8:54459163G>C	0.1.27/SOX17/PMID_35618278_XII_1.json
+PMID_24966961_proband	RUNX2	OMIM:119600	Cleidocranial dysplasia	denovo	1	13	chr6:45437997GCTAC>G	0.1.27/RUNX2/PMID_24966961_proband.json
+PMID_38753057_Family_A_individual	ATXN7L3	OMIM:621377	Harel-Tora neurodevelopmental syndrome	denovo	1	17	chr17:44197244G>A	0.1.27/ATXN7L3/PMID_38753057_Family_A_individual.json
+PMID_29196670_Patient_11	TSC2	OMIM:613254	Tuberous sclerosis-2	denovo	1	4	chr16:2088144G>T	0.1.27/TSC2/PMID_29196670_Patient_11.json
+PMID_22772368_4_III_1	TGFB2	OMIM:614816	Loeys-Dietz syndrome 4	denovo	1	6	chr1:218437423C>A	0.1.27/TGFB2/PMID_22772368_4_III_1.json
+PMID_21131976_EsM10408	POLR1D	OMIM:613717	Treacher Collins syndrome 2	denovo	1	5	chr13:27622984G>T	0.1.27/POLR1D/PMID_21131976_EsM10408.json
+PMID_37962958_Individual_37	U2AF2	OMIM:620535	Developmental delay, dysmorphic facies, and brain anomalies	denovo	1	15	chr19:55661137C>T	0.1.27/U2AF2/PMID_37962958_Individual_37.json
+PMID_11603379_Patient_1	SLC2A1	OMIM:606777	GLUT1 deficiency syndrome 1, infantile onset, severe	denovo	1	11	chr1:42930765C>T	0.1.27/SLC2A1/PMID_11603379_Patient_1.json
+PMID_32083401_Patient_2	KMT2D	OMIM:147920	Kabuki Syndrome 1	denovo	1	15	chr12:49034225G>C	0.1.27/KMT2D/PMID_32083401_Patient_2.json
+PMID_7607663_Patient_0542	NF1	OMIM:162200	Neurofibromatosis, type 1	denovo	1	4	chr17:31338739C>A	0.1.27/NF1/PMID_7607663_Patient_0542.json
+PMID_38489591_Family_H_individual_16	CST3	OMIM:621214	Leukodystrophy, adult-onset, autosomal dominant, without amyloid angiopathy	denovo	1	4	chr20:23633981G>A	0.1.27/CST3/PMID_38489591_Family_H_individual_16.json
+PMID_36001342_Patient_III_5	YWHAZ	OMIM:618428	Popov-Chang syndrome	denovo	1	4	chr8:100948743T>A	0.1.27/YWHAZ/PMID_36001342_Patient_III_5.json
+PMID_37075751_Individual_10	POLR1A	OMIM:616462	Acrofacial dysostosis, Cincinnati type	denovo	1	6	chr2:86040482TG>T	0.1.27/POLR1A/PMID_37075751_Individual_10.json
+PMID_39641441_F2p2	PSMD12	OMIM:617516	Stankiewicz-Isidor syndrome	denovo	1	19	chr17:67350301A>C	0.1.27/PSMD12/PMID_39641441_F2p2.json
+PMID_36799992_D_III_2	DTNA	OMIM:620971	Myopathy with myalgia, increased serum creatine kinase, and with or without episodic rhabdomyolysis 2	denovo	1	6	chr18:34863965GACAGCGCAAAGATGAGCTGGA>G	0.1.27/DTNA/PMID_36799992_D_III_2.json
+PMID_23086397_Patient_3	KCNT1	OMIM:614959	Developmental and epileptic encephalopathy 14	denovo	1	11	chr9:135765706G>A	0.1.27/KCNT1/PMID_23086397_Patient_3.json
+PMID_25411445_Patient_2	WWOX	OMIM:616211	Developmental and epileptic encephalopathy 28	denovo	1	15	chr16:78432701G>A	0.1.27/WWOX/PMID_25411445_Patient_2.json
+PMID_35960817_Family_B_B3	TRAF3	OMIM:621096	Immunodeficiency 132B	denovo	1	9	chr14:102903359GT>G	0.1.27/TRAF3/PMID_35960817_Family_B_B3.json
+PMID_23440193_11_y_old_boy	KCNJ2	OMIM:609622	Short QT syndrome 3	denovo	1	3	chr17:70175935A>T	0.1.27/KCNJ2/PMID_23440193_11_y_old_boy.json
+PMID_22158539_individual_8	SMAD4	OMIM:139210	Myhre syndrome	denovo	1	17	chr18:51078308A>G	0.1.27/SMAD4/PMID_22158539_individual_8.json
+PMID_23958762_proband_of_Family_1	LAMB3	OMIM:104530	Amelogenesis imperfecta, type IA	denovo	1	4	chr1:209615336TCTCCAGTC>T	0.1.27/LAMB3/PMID_23958762_proband_of_Family_1.json
+PMID_38630025_Patient_1	OTULIN	OMIM:621030	Autoinflammation, panniculitis, and dermatosis syndrome, autosomal dominant	denovo	1	13	chr5:14681525G>C	0.1.27/OTULIN/PMID_38630025_Patient_1.json
+PMID_25145518_patient_III_2	HCN4	OMIM:163800	Sick sinus syndrome 2	denovo	1	3	chr15:73329719C>T	0.1.27/HCN4/PMID_25145518_patient_III_2.json
+PMID_27977582_male_child	FLNB	OMIM:150250	Larsen syndrome	denovo	1	7	chr3:58138491G>A	0.1.27/FLNB/PMID_27977582_male_child.json
+PMID_39978342_P29	PPP2R5C	OMIM:621185	Houge-Janssens syndrome 4	denovo	1	6	chr14:101882257T>C	0.1.27/PPP2R5C/PMID_39978342_P29.json
+PMID_39069253_individual_7_Weiss_et_al	ZNF462	OMIM:618619	Weiss-Kruszka syndrome	denovo	1	8	chr9:106927699C>T	0.1.27/ZNF462/PMID_39069253_individual_7_Weiss_et_al.json
+PMID_18695062_Case_3	MPV17	OMIM:256810	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	denovo	1	12	chr2:27322448C>A	0.1.27/MPV17/PMID_18695062_Case_3.json
+PMID_9916936_propositus_IV_8	APOA1	OMIM:620657	Amyloidosis, hereditary systemic 3	denovo	1	5	chr11:116836271A>G	0.1.27/APOA1/PMID_9916936_propositus_IV_8.json
+PMID_38884572_Family_4_Patient_4	TUBA4A	OMIM:621226	Spastic ataxia 11, autosomal dominant	denovo	1	7	chr2:219250752C>T	0.1.27/TUBA4A/PMID_38884572_Family_4_Patient_4.json
+PMID_41912533_Individual_16	MAU2	OMIM:621570	Cornelia de Lange syndrome 7	denovo	1	19	chr19:19344904CAGCACAGC>ATT	0.1.27/MAU2/PMID_41912533_Individual_16.json
+PMID_27003583_Patient_4	HIVEP2	OMIM:616977	Intellectual developmental disorder, autosomal dominant 43	denovo	1	8	chr6:142773550C>A	0.1.27/HIVEP2/PMID_27003583_Patient_4.json
+PMID_39419027_P27	MARK2	OMIM:621285	Intellectual developmental disorder, autosomal dominant 76	denovo	1	10	chr11:63904874CG>C	0.1.27/MARK2/PMID_39419027_P27.json
+PMID_18423521_Patient_4	TFAP2A	OMIM:113620	Branchiooculofacial syndrome	denovo	1	12	chr6:10404511C>T	0.1.27/TFAP2A/PMID_18423521_Patient_4.json
+PMID_12058348_Patient_4	PTPN11	OMIM:151100	LEOPARD syndrome 1	denovo	1	3	chr12:112488466C>T	0.1.27/PTPN11/PMID_12058348_Patient_4.json
+PMID_38096951_Family_3a_III_14_p_L66V	APOA4	OMIM:621106	Tubulointerstitial kidney disease, autosomal dominant 6	denovo	1	6	chr11:116821862G>C	0.1.27/APOA4/PMID_38096951_Family_3a_III_14_p_L66V.json
+PMID_29506490_Patient_27	EP300	OMIM:613684	Rubinstein-Taybi syndrome 2	denovo	1	19	chr22:41162784G>C	0.1.27/EP300/PMID_29506490_Patient_27.json
+PMID_11748311_p13	TBX1	OMIM:188400	DiGeorge syndrome	denovo	1	6	chr22:19766651CCACTATCT>C	0.1.27/TBX1/PMID_11748311_p13.json
+PMID_38284454_Patient_13	NIPBL	OMIM:122470	Cornelia de Lange syndrome 1	denovo	1	10	chr5:37060988G>GA	0.1.27/NIPBL/PMID_38284454_Patient_13.json
+PMID_38815585_Individual_8	MSL2	OMIM:620985	Karayol-Borroto-Haghshenas neurodevelopmental syndrome	denovo	1	5	chr3:136151648ACT>A	0.1.27/MSL2/PMID_38815585_Individual_8.json
+PMID_36695497_Individual_5	FZD5	OMIM:620731	Microphthalmia/coloboma 11	denovo	1	3	chr2:207767590C>G	0.1.27/FZD5/PMID_36695497_Individual_5.json
+PMID_24239060_mother_I_1	TPM3	OMIM:255310	Congenital myopathy 4A, autosomal dominant	denovo	1	11	chr1:154173134G>T	0.1.27/TPM3/PMID_24239060_mother_I_1.json
+PMID_23434115_Sanger_3_proband	ACTN1	OMIM:615193	Bleeding disorder, platelet-type, 15	denovo	1	4	chr14:68904658C>T	0.1.27/ACTN1/PMID_23434115_Sanger_3_proband.json
+PMID_36073542_individual_4	SLC32A1	OMIM:620774	Developmental and epileptic encephalopathy 114	denovo	1	17	chr20:38728026T>G	0.1.27/SLC32A1/PMID_36073542_individual_4.json
+PMID_37071997_Subject_I16	SRSF1	OMIM:620489	Neurodevelopmental disorder with dysmorphic facies and behavioral abnormalities	denovo	1	6	chr17:58007008C>T	0.1.27/SRSF1/PMID_37071997_Subject_I16.json
+PMID_29196670_Patient_7	TSC1	OMIM:191100	Tuberous sclerosis-1	denovo	1	3	chr9:132897533CCT>C	0.1.27/TSC1/PMID_29196670_Patient_7.json
+PMID_39623139_Patient_1	LRRC8C	OMIM:621056	TIMES syndrome	denovo	1	26	chr1:89713764C>CA	0.1.27/LRRC8C/PMID_39623139_Patient_1.json
+PMID_30612693_Individual_11	MAPK8IP3	OMIM:618443	Neurodevelopmental disorder with or without variable brain abnormalities	denovo	1	6	chr16:1767834C>T	0.1.27/MAPK8IP3/PMID_30612693_Individual_11.json
+PMID_36195757_Proband_2	KCNK3	OMIM:621402	Developmental delay with sleep apnea	denovo	1	14	chr2:26727748T>C	0.1.27/KCNK3/PMID_36195757_Proband_2.json
+PMID_23378224_Patient_3_family_B	TPM2	OMIM:609285	Congenital myopathy 23	denovo	1	7	chr9:35689795ATCT>A	0.1.27/TPM2/PMID_23378224_Patient_3_family_B.json
+PMID_36662884_P5	IRF4	OMIM:621097	Immunodeficiency 131	denovo	1	7	chr6:394888C>G	0.1.27/IRF4/PMID_36662884_P5.json
+PMID_24969041_neonate	GLRA1	OMIM:149400	Hyperekplexia 1	denovo	1	4	chr5:151886762T>A	0.1.27/GLRA1/PMID_24969041_neonate.json
+PMID_27939403_E_II_1	IKZF1	OMIM:616873	Immunodeficiency, common variable, 13	denovo	1	7	chr7:50382708G>A	0.1.27/IKZF1/PMID_27939403_E_II_1.json
+PMID_16103912_child	ZFPM2	OMIM:610187	Diaphragmatic hernia 3	denovo	1	4	chr8:105561395C>T	0.1.27/ZFPM2/PMID_16103912_child.json
+PMID_34778490_sister	CNTNAP2	OMIM:610042	Pitt-Hopkins like syndrome 1	denovo	1	6	chr7:147639181ACTCAGTGACACAG>A	0.1.27/CNTNAP2/PMID_34778490_sister.json
+PMID_15385446_Family_A_III_1	HOXA13	OMIM:140000	Hand-foot-genital syndrome	denovo	1	13	chr7:27199928A>AGCCGCCGCCGCTGCAGCCGCTGCTGCAGCCGCC	0.1.27/HOXA13/PMID_15385446_Family_A_III_1.json
+PMID_36718090_Patient_1	SPTSSA	OMIM:620416	Spastic paraplegia 90A, autosomal dominant	denovo	1	12	chr14:34435265G>A	0.1.27/SPTSSA/PMID_36718090_Patient_1.json
+PMID_38508705_Case_2	ZFHX3	OMIM:621500	Epilepsy, idiopathic generalized 20	denovo	1	4	chr16:72787423G>T	0.1.27/ZFHX3/PMID_38508705_Case_2.json
+PMID_37827158_Proband_2	DOT1L	OMIM:621265	Nil-Deshwar neurodevelopmental syndrome	denovo	1	20	chr19:2191046C>T	0.1.27/DOT1L/PMID_37827158_Proband_2.json
+PMID_35638551_Patient_PM6	APOLD1	OMIM:620715	Bleeding disorder, vascular-type	denovo	1	3	chr12:12787050CG>TA	0.1.27/APOLD1/PMID_35638551_Patient_PM6.json
+PMID_40857589_P7	CRNKL1	OMIM:621436	Microcephaly, progressive, with simplified gyral pattern and cerebellar hypoplasia	denovo	1	11	chr20:20048481C>T	0.1.27/CRNKL1/PMID_40857589_P7.json
+PMID_40965981_Individual_15	PTBP1	OMIM:621495	STAD syndrome	denovo	1	11	chr19:797499T>A	0.1.27/PTBP1/PMID_40965981_Individual_15.json
+PMID_35923690_50_1	RPS19	OMIM:105650	Diamond-Blackfan anemia 1	denovo	1	8	chr19:41869043G>A	0.1.27/RPS19/PMID_35923690_50_1.json
+PMID_34655521_Patient_10	KDM1A	OMIM:620990	ACTH-independent macronodular adrenal hyperplasia 3	denovo	1	3	chr1:23055089C>T	0.1.27/KDM1A/PMID_34655521_Patient_10.json
+PMID_28542676_CEI1_CEI26198	CLN3	OMIM:621548	Retinitis pigmentosa 101	denovo	1	7	chr16:28486653G>C	0.1.27/CLN3/PMID_28542676_CEI1_CEI26198.json
+PMID_31569402_Family_8_Patient_I	TGFBR1	OMIM:609192	Loeys-Dietz syndrome 1	denovo	1	8	chr9:99149253G>A	0.1.27/TGFBR1/PMID_31569402_Family_8_Patient_I.json
+PMID_24108658_Family_2_Patient_3	TCOF1	OMIM:154500	Treacher Collins syndrome 1	denovo	1	10	chr5:150389946A>AG	0.1.27/TCOF1/PMID_24108658_Family_2_Patient_3.json
+PMID_35979925_Case_8	CAPRIN1	OMIM:620782	Neurodevelopmental disorder with language impairment, autism, and attention deficit-hyperactivity disorder	denovo	1	3	chr11:34086377C>T	0.1.27/CAPRIN1/PMID_35979925_Case_8.json
+PMID_26247899_P2_1	SMAD2	OMIM:619656	Loeys-Dietz syndrome 6	denovo	1	11	chr18:47841862C>T	0.1.27/SMAD2/PMID_26247899_P2_1.json
+PMID_27108799_Individual_13	GNB1	OMIM:616973	Intellectual developmental disorder, autosomal dominant 42	denovo	1	15	chr1:1804565A>G	0.1.27/GNB1/PMID_27108799_Individual_13.json
+PMID_26162006_Individual_I_1	EFEMP1	OMIM:611276	Glaucoma 1, open angle, H	denovo	1	3	chr2:55917764G>A	0.1.27/EFEMP1/PMID_26162006_Individual_I_1.json
+PMID_20685856_Family_2_index	GLI2	OMIM:615849	Culler-Jones syndrome	denovo	1	12	chr2:120986452GCCCC>G	0.1.27/GLI2/PMID_20685856_Family_2_index.json
+PMID_29379197_CDL038	BRD4	OMIM:620568	Cornelia de Lange syndrome 6	denovo	1	6	chr19:15263537C>TG	0.1.27/BRD4/PMID_29379197_CDL038.json
+PMID_28687524_proband	TBL1XR1	OMIM:602342	Pierpont syndrome	denovo	1	23	chr3:177033050T>C	0.1.27/TBL1XR1/PMID_28687524_proband.json
+PMID_10874631_II_2	ABCA4	OMIM:601718	Retinitis pigmentosa 19	denovo	1	7	chr1:94060760C>T	0.1.27/ABCA4/PMID_10874631_II_2.json
+PMID_38479391_Individual_6	FRYL	OMIM:621049	Pan-Chung-Bellen syndrome	denovo	1	13	chr4:48549594G>A	0.1.27/FRYL/PMID_38479391_Individual_6.json
+PMID_10851256_family_815	MITF	OMIM:103500	Tietz albinism-deafness syndrome	denovo	1	6	chr3:69951882C>G	0.1.27/MITF/PMID_10851256_family_815.json
+PMID_39414788_III_2	CCN2	OMIM:621099	Spondyloepimetaphyseal dysplasia, Li-Shao-Li type	denovo	1	11	chr6:131951108C>G	0.1.27/CCN2/PMID_39414788_III_2.json
+PMID_8923000_Family_A_proband	COL5A1	OMIM:130000	Ehlers-Danlos syndrome, classic type, 1	denovo	1	6	chr9:134835204TGTGA>T	0.1.27/COL5A1/PMID_8923000_Family_A_proband.json
+PMID_26956144_patient	MFN2	OMIM:609260	Charcot-Marie-Tooth disease, axonal, type 2A2A	denovo	1	8	chr1:11999009G>C	0.1.27/MFN2/PMID_26956144_patient.json
+PMID_16962354_first_mutation	TGIF1	OMIM:142946	Holoprosencephaly 4	denovo	1	9	chr18:3456470G>T	0.1.27/TGIF1/PMID_16962354_first_mutation.json
+PMID_30046498_proband	JAG1	OMIM:118450	Alagille syndrome 1	denovo	1	19	chr20:10672996G>GC	0.1.27/JAG1/PMID_30046498_proband.json
+PMID_27376152_FPLD_122_3	ADRA2A	OMIM:620679	Lipodystrophy, familial partial, type 8	denovo	1	12	chr10:111078198C>T	0.1.27/ADRA2A/PMID_27376152_FPLD_122_3.json
+PMID_35583550_Family_3_Proband	LEF1	OMIM:621224	Ectodermal dysplasia 17 with or without limb malformations	denovo	1	4	chr4:108089127TG>T	0.1.27/LEF1/PMID_35583550_Family_3_Proband.json
+PMID_25851998_Smith_et_al_2013	MTOR	OMIM:616638	Smith-Kingsmore syndrome	denovo	1	26	chr1:11157173C>A	0.1.27/MTOR/PMID_25851998_Smith_et_al_2013.json
+PMID_36440963_IV_2	PRDM10	OMIM:620459	Birt-Hogg-Dube syndrome 2	denovo	1	3	chr11:129923264C>T	0.1.27/PRDM10/PMID_36440963_IV_2.json
+PMID_10797416_Belleh_Patient_CF1349	FBN2	OMIM:121050	Contractural arachnodactyly, congenital	denovo	1	6	chr5:128335543A>C	0.1.27/FBN2/PMID_10797416_Belleh_Patient_CF1349.json
+PMID_38626355_OP_2032_II1	WFDC2	OMIM:620984	Bronchiectasis and nasal polyposis	denovo	1	7	chr20:45470454T>C	0.1.27/WFDC2/PMID_38626355_OP_2032_II1.json
+PMID_21371013_Case_1	SETBP1	OMIM:269150	Schinzel-Giedion midface retraction syndrome	denovo	1	29	chr18:44951948G>A	0.1.27/SETBP1/PMID_21371013_Case_1.json
+PMID_38465576_Individual_4	FEM1B	OMIM:621263	Neurodevelopmental disorder with behavioral, ear, and skeletal abnormalities	denovo	1	46	chr15:68289735G>A	0.1.27/FEM1B/PMID_38465576_Individual_4.json
+PMID_20358596_Patient_B	ANKH	OMIM:123000	Craniometaphyseal dysplasia	denovo	1	9	chr5:14713637A>G	0.1.27/ANKH/PMID_20358596_Patient_B.json
+PMID_39143735_Case_Presentation	HMGCS2	OMIM:605911	HMG-CoA synthase-2 deficiency	denovo	1	6	chr1:119757272C>T	0.1.27/HMGCS2/PMID_39143735_Case_Presentation.json
+PMID_25007886_Subject_4	SLC4A11	OMIM:613268	Corneal dystrophy, Fuchs endothelial, 4	denovo	1	3	chr20:3230205C>T	0.1.27/SLC4A11/PMID_25007886_Subject_4.json
+PMID_36103875_Individual_2	GABBR1	OMIM:620502	Neurodevelopmental disorder with language delay and variable cognitive abnormalities	denovo	1	12	chr6:29621779C>G	0.1.27/GABBR1/PMID_36103875_Individual_2.json
+PMID_38579670_Individual_4	GLUL	OMIM:620806	Developmental and epileptic encephalopathy 116	denovo	1	10	chr1:182388737T>A	0.1.27/GLUL/PMID_38579670_Individual_4.json
+PMID_30368668_Individual_NS808	LZTR1	OMIM:616564	Noonan syndrome 10	denovo	1	15	chr22:20988037A>G	0.1.27/LZTR1/PMID_30368668_Individual_NS808.json
+PMID_40519748_Family_3_individual_II_2	DHRS3	OMIM:621499	Craniosynostosis-scoliosis syndrome	denovo	1	19	chr1:12578905C>T	0.1.27/DHRS3/PMID_40519748_Family_3_individual_II_2.json
+PMID_29474920_Subject_11	PUM1	OMIM:620719	Neurodevelopmental disorder with motor abnormalities, seizures, and facial dysmorphism	denovo	1	19	chr1:30933339G>A	0.1.27/PUM1/PMID_29474920_Subject_11.json
+PMID_38181735_Patient_8	PPFIA3	OMIM:621122	Paul-Chao neurodevelopmental syndrome	denovo	1	27	chr19:49133877C>T	0.1.27/PPFIA3/PMID_38181735_Patient_8.json
+PMID_33450762_P3_son	PDGFRB	OMIM:621091	Ocular pterygium-digital keloid dysplasia syndrome	denovo	1	3	chr5:150124277T>A	0.1.27/PDGFRB/PMID_33450762_P3_son.json
+PMID_40210435_A_III_5	CDK4	OMIM:621507	Microcephaly 31, primary, autosomal recessive	denovo	1	7	chr12:57751078G>A	0.1.27/CDK4/PMID_40210435_A_III_5.json
+PMID_37907725_Patient_III_10	BAG3	OMIM:621094	Neuronopathy, distal hereditary motor, autosomal dominant 15	denovo	1	6	chr10:119677067G>GGGAC	0.1.27/BAG3/PMID_37907725_Patient_III_10.json
+PMID_30881852_index_case	LMX1B	OMIM:161200	Nail-patella syndrome	denovo	1	5	chr9:126615548A>G	0.1.27/LMX1B/PMID_30881852_index_case.json
+PMID_32869508_11_month_old_boy	CLDN16	OMIM:248250	Hypomagnesemia 3, renal	denovo	1	11	chr3:190388396G>A	0.1.27/CLDN16/PMID_32869508_11_month_old_boy.json
+PMID_40081376_Individual_5	MED16	OMIM:621220	Guillouet-Gordon syndrome	denovo	1	10	chr19:885985C>T	0.1.27/MED16/PMID_40081376_Individual_5.json
+PMID_36929019_F1_III6	ARHGEF15	OMIM:621331	Brain small vessel disease 5 with osteoporosis	denovo	1	7	chr17:8315095G>A	0.1.27/ARHGEF15/PMID_36929019_F1_III6.json
+PMID_30296944_Case_presentation	RYR2	OMIM:604772	Ventricular tachycardia, catecholaminergic polymorphic, 1	denovo	1	5	chr1:237784232T>A	0.1.27/RYR2/PMID_30296944_Case_presentation.json
+PMID_28289718_Higgins_Patient_1	MRAS	OMIM:618499	Noonan syndrome-11	denovo	1	9	chr3:138372951G>T	0.1.27/MRAS/PMID_28289718_Higgins_Patient_1.json
+PMID_30057544_patient	KIF5A	OMIM:604187	Spastic paraplegia 10, autosomal dominant	denovo	1	8	chr12:57567514C>T	0.1.27/KIF5A/PMID_30057544_patient.json
+PMID_27939640_individual_P9	BRPF1	OMIM:617333	Intellectual developmental disorder with dysmorphic facies and ptosis	denovo	1	16	chr3:9744497A>AC	0.1.27/BRPF1/PMID_27939640_individual_P9.json
+PMID_22693999_family_member_II_9	B2M	OMIM:620659	Amyloidosis, hereditary systemic 6	denovo	1	3	chr15:44715641G>A	0.1.27/B2M/PMID_22693999_family_member_II_9.json
+PMID_39701103_Proband_F2	DAP3	OMIM:621101	Perrault syndrome 7	denovo	1	7	chr1:155725942C>T	0.1.27/DAP3/PMID_39701103_Proband_F2.json
+PMID_27040691_Individual_9_2	TBCK	OMIM:616900	Hypotonia, infantile, with psychomotor retardation and characteristic facies 3	denovo	1	10	chr4:106262103G>A	0.1.27/TBCK/PMID_27040691_Individual_9_2.json
+PMID_30095615_proband	CRX	OMIM:120970	Cone-rod retinal dystrophy-2	denovo	1	8	chr19:47839603T>TG	0.1.27/CRX/PMID_30095615_proband.json
+PMID_30072743_individual_281_608	RPGRIP1	OMIM:613826	Leber congenital amaurosis 6	denovo	1	4	chr14:21321855AGGAACTGGAG>A	0.1.27/RPGRIP1/PMID_30072743_individual_281_608.json
+PMID_38531365_Individual_1	SEPHS1	OMIM:621325	Ververi-Brady syndrome 2	denovo	1	10	chr10:13319210G>A	0.1.27/SEPHS1/PMID_38531365_Individual_1.json
+PMID_15200509_Case_report	STK11	OMIM:175200	Peutz-Jeghers syndrome	denovo	1	3	chr19:1221216C>G	0.1.27/STK11/PMID_15200509_Case_report.json
+PMID_33875846_individual_row_22	TAF4	OMIM:620450	Intellectual developmental disorder, autosomal dominant 73	denovo	1	6	chr20:61976336C>T	0.1.27/TAF4/PMID_33875846_individual_row_22.json
+PMID_37148315_Family_3_Proband_II_1	NLRP7	OMIM:621471	Ooxyte/zygote/embryo maturation arrest 25 	denovo	1	3	chr19:54941461C>T	0.1.27/NLRP7/PMID_37148315_Family_3_Proband_II_1.json
+PMID_30099644_IV_3	PRPF31	OMIM:600138	Retinitis pigmentosa 11	denovo	1	7	chr19:54126568G>A	0.1.27/PRPF31/PMID_30099644_IV_3.json
+PMID_24331334_father	RET	OMIM:171400	Multiple endocrine neoplasia IIA	denovo	1	3	chr10:43114502C>G	0.1.27/RET/PMID_24331334_father.json
+PMID_31403083_proband_IV_8	HSPB8	OMIM:621078	Myopathy, myofibrillar, 13, with rimmed vacuoles	denovo	1	13	chr12:119193779T>TC	0.1.27/HSPB8/PMID_31403083_proband_IV_8.json
+PMID_26467218_individual_12_Present_study	NRAS	OMIM:613224	Noonan syndrome 6	denovo	1	14	chr1:114713911C>T	0.1.27/NRAS/PMID_26467218_individual_12_Present_study.json
+PMID_30236613_patient	SOD1	OMIM:105400	Amyotrophic lateral sclerosis 1	denovo	1	7	chr21:31667337C>CT	0.1.27/SOD1/PMID_30236613_patient.json
+PMID_30055078_index_patient	MYT1L	OMIM:616521	Intellectual developmental disorder, autosomal dominant 39	denovo	1	7	chr2:1892089CGGCAGCGCGT>C	0.1.27/MYT1L/PMID_30055078_index_patient.json
+PMID_18412284_Patient_III_8	PRPF3	OMIM:601414	Retinitis pigmentosa 18	denovo	1	5	chr1:150344201C>A	0.1.27/PRPF3/PMID_18412284_Patient_III_8.json
+PMID_34920454_Family_D_Patient_D1_P6	IKZF2	OMIM:621233	Immunodysregulation with variable immunodeficiency and autoimmunity	denovo	1	5	chr2:213056923G>A	0.1.27/IKZF2/PMID_34920454_Family_D_Patient_D1_P6.json
+PMID_17056636_Patient_No_8	KRAS	OMIM:615278	Cardiofaciocutaneous syndrome 2	denovo	1	12	chr12:25227346C>G	0.1.27/KRAS/PMID_17056636_Patient_No_8.json
+PMID_28851325_Case_2	FOXG1	OMIM:613454	Rett syndrome, congenital variant	denovo	1	11	chr14:28767973A>T	0.1.27/FOXG1/PMID_28851325_Case_2.json
+PMID_23993195_Individual_2	GNAO1	OMIM:615473	Developmental and epileptic encephalopathy 17	denovo	1	8	chr16:56334785A>G	0.1.27/GNAO1/PMID_23993195_Individual_2.json
+PMID_29110636_proband_VMFS	SALL1	OMIM:107480	Townes-Brocks syndrome 1	denovo	1	19	chr16:51141398A>C	0.1.27/SALL1/PMID_29110636_proband_VMFS.json
+PMID_37943617_Patient_4_IV_5	SEL1L	OMIM:621068	Neurodevelopmental disorder with hypotonia, poor growth, dysmorphic facies, and agammaglobulinemia	denovo	1	17	chr14:81506160C>T	0.1.27/SEL1L/PMID_37943617_Patient_4_IV_5.json
+PMID_36860166_A_III_2	ATP5F1B	OMIM:621502	Dystonia 38	denovo	1	3	chr12:56642532T>G	0.1.27/ATP5F1B/PMID_36860166_A_III_2.json
+PMID_28949039_Case_1	SGCE	OMIM:159900	Dystonia-11, myoclonic	denovo	1	5	chr7:94628303G>A	0.1.27/SGCE/PMID_28949039_Case_1.json
+PMID_26740388_PMID_26740388	FGFR3	OMIM:602849	Muenke syndrome	denovo	1	4	chr4:1801844C>G	0.1.27/FGFR3/PMID_26740388_PMID_26740388.json
+PMID_23546041_Patient_2	FGFR2	OMIM:101200	Apert syndrome	denovo	1	13	chr10:121520160G>C	0.1.27/FGFR2/PMID_23546041_Patient_2.json
+PMID_36197437_case_9	FOSL2	OMIM:620789	Aplasia cutis-enamel dysplasia syndrome	denovo	1	8	chr2:28412127GGT>G	0.1.27/FOSL2/PMID_36197437_case_9.json
+PMID_2544998_proband	INSR	OMIM:610549	Diabetes mellitus, insulin-resistant, with acanthosis nigricans	denovo	1	4	chr19:7125437C>A	0.1.27/INSR/PMID_2544998_proband.json
+PMID_35904593_Patient_1	CTSA	OMIM:621394	Brain small vessel disease 6 with leukoencephalopathy	denovo	1	8	chr20:45894872C>T	0.1.27/CTSA/PMID_35904593_Patient_1.json
+PMID_26805782_F1_II_2	TANGO2	OMIM:616878	Metabolic encephalomyopathic crises, recurrent, with rhabdomyolysis, cardiac arrhythmias, and neurodegeneration	denovo	1	15	chr22:20036801GT>G	0.1.27/TANGO2/PMID_26805782_F1_II_2.json
+PMID_39270020_Patient_3	ITPR3	OMIM:621254	Immunodeficiency 133 with ectodermal dysplasia with or without peripheral neuropathy	denovo	1	25	chr6:33692839C>T	0.1.27/ITPR3/PMID_39270020_Patient_3.json
+PMID_41716553_Patient_2	FOXP1	OMIM:613670	Intellectual developmental disorder with language impairment with or without autistic features	denovo	1	16	chr3:70959371T>TC	0.1.27/FOXP1/PMID_41716553_Patient_2.json
+PMID_26922654_Patient_1	DYRK1A	OMIM:614104	Intellectual developmental disorder, autosomal dominant 7	denovo	1	19	chr21:37490461GGTAA>G	0.1.27/DYRK1A/PMID_26922654_Patient_1.json
+PMID_31085352_Family_2_propositus_III_1	LRP6	OMIM:621449	Osteopetrosis, autosomal dominant 4	denovo	1	4	chr12:12203297T>G	0.1.27/LRP6/PMID_31085352_Family_2_propositus_III_1.json
+PMID_36122175_Patient_in_the_present_study	LYN	OMIM:620376	Autoinflammatory disease, systemic, with vasculitis	denovo	1	19	chr8:56010093T>C	0.1.27/LYN/PMID_36122175_Patient_in_the_present_study.json
+PMID_23246288_CCF04333_01_001LM	AKT1	OMIM:615109	Cowden syndrome 6	denovo	1	3	chr14:104770805T>G	0.1.27/AKT1/PMID_23246288_CCF04333_01_001LM.json
+PMID_12925374_Proband_III_3	PSEN2	OMIM:606889	Alzheimer disease-4	denovo	1	8	chr1:226895521C>T	0.1.27/PSEN2/PMID_12925374_Proband_III_3.json
+PMID_23388215_Proband_2	CALM2	OMIM:616249	Long QT syndrome 15	denovo	1	7	chr2:47161857T>A	0.1.27/CALM2/PMID_23388215_Proband_2.json
+PMID_23566664_Case_report	NOTCH2	OMIM:102500	Hajdu-Cheney syndrome	denovo	1	9	chr1:119916100G>A	0.1.27/NOTCH2/PMID_23566664_Case_report.json
+PMID_33977139_Patient_6	SNAP29	OMIM:609528	Cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome	denovo	1	14	chr22:20870447T>TG	0.1.27/SNAP29/PMID_33977139_Patient_6.json
+PMID_17698770_19_year_old_Chinese_man	RGS9BP	OMIM:620344	Prolonged electroretinal response suppression 2	denovo	1	3	chr19:32676539CAT>C	0.1.27/RGS9BP/PMID_17698770_19_year_old_Chinese_man.json
+PMID_28106895_proband_II_2	NRL	OMIM:613750	Retinitis pigmentosa 27	denovo	1	4	chr14:24082699TGAA>T	0.1.27/NRL/PMID_28106895_proband_II_2.json
+PMID_38433265_sister_III_2	THBS2	OMIM:620865	Ehlers-Danlos syndrome, classic-like, 3	denovo	1	7	chr6:169225232A>G	0.1.27/THBS2/PMID_38433265_sister_III_2.json
+PMID_25525168_HM789	SCO2	OMIM:608908	Myopia 6	denovo	1	4	chr22:50524054G>A	0.1.27/SCO2/PMID_25525168_HM789.json
+PMID_26647175_Case_1	SCN2A	OMIM:613721	Developmental and epileptic encephalopathy 11	denovo	1	14	chr2:165331569G>A	0.1.27/SCN2A/PMID_26647175_Case_1.json
+PMID_11410597_proband	SCN5A	OMIM:601144	Brugada syndrome 1	denovo	1	3	chr3:38550989A>G	0.1.27/SCN5A/PMID_11410597_proband.json
+PMID_36779064_patient	COL6A3	OMIM:620726	Bethlem myopathy 1C	denovo	1	10	chr2:237350211T>C	0.1.27/COL6A3/PMID_36779064_patient.json
+PMID_35617047_Proband_3	RRM1	OMIM:620647	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 6	denovo	1	10	chr11:4123345C>A	0.1.27/RRM1/PMID_35617047_Proband_3.json
+PMID_12632326_subject_3	CRELD1	OMIM:606217	Atrioventricular septal defect, partial, with heterotaxy syndrome	denovo	1	4	chr3:9937624G>A	0.1.27/CRELD1/PMID_12632326_subject_3.json
+PMID_28781842_patient_1	SMC3	OMIM:610759	Cornelia de Lange syndrome 3	denovo	1	31	chr10:110589913T>TGCA	0.1.27/SMC3/PMID_28781842_patient_1.json
+PMID_18477167_III_4	KRT9	OMIM:144200	Palmoplantar keratoderma, epidermolytic, 1	denovo	1	3	chr17:41571523A>C	0.1.27/KRT9/PMID_18477167_III_4.json
+PMID_34014594_Index_patient	ABCC8	OMIM:621196	Maturity-onset diabetes of the young, type 12	denovo	1	8	chr11:17404525G>A	0.1.27/ABCC8/PMID_34014594_Index_patient.json
+PMID_30034812_patient	TGFB1	OMIM:131300	Camurati-Engelmann disease	denovo	1	12	chr19:41342230G>A	0.1.27/TGFB1/PMID_30034812_patient.json
+PMID_29482508_current_case	ACVR1	OMIM:135100	Fibrodysplasia ossificans progressiva	denovo	1	5	chr2:157774114C>T	0.1.27/ACVR1/PMID_29482508_current_case.json
+PMID_38791218_Family_1_Patient_6_II_5	KCTD1	OMIM:621434	Dental radicular dysplasia	denovo	1	3	chr18:26455795C>T	0.1.27/KCTD1/PMID_38791218_Family_1_Patient_6_II_5.json
+PMID_26239674_proband_III_3	MEN1	OMIM:131100	Multiple endocrine neoplasia 1	denovo	1	17	chr11:64807099C>T	0.1.27/MEN1/PMID_26239674_proband_III_3.json
+PMID_36190515_Patient_1	GCSH	OMIM:620423	Multiple mitochondrial dysfunctions syndrome 7	denovo	1	9	chr16:81090659T>C	0.1.27/GCSH/PMID_36190515_Patient_1.json
+PMID_28966590_patient	TUBB2B	OMIM:610031	Cortical dysplasia, complex, with other brain malformations 7	denovo	1	13	chr6:3225367C>T	0.1.27/TUBB2B/PMID_28966590_patient.json
+PMID_38149472_individual	BAIAP2	OMIM:621468	Developmental and epileptic encephalopathy 120	denovo	1	14	chr17:81053698C>T	0.1.27/BAIAP2/PMID_38149472_individual.json
+PMID_38422122_Patient_2_Kindred_A	PTCRA	OMIM:620931	Immunodeficiency 126	denovo	1	3	chr6:42916127G>C	0.1.27/PTCRA/PMID_38422122_Patient_2_Kindred_A.json
+PMID_9402962_proband	KRT81	OMIM:621169	Monilethrix 2	denovo	1	4	chr12:52287112C>T	0.1.27/KRT81/PMID_9402962_proband.json
+PMID_34138484_Proband	SPINK5	OMIM:256500	Netherton syndrome	denovo	1	11	chr5:148091214C>T	0.1.27/SPINK5/PMID_34138484_Proband.json
+PMID_39233737_Patient_2	OPA1	OMIM:621481	Mitochondrial DNA depletion syndrome 14A (encephalomyopathic type)	denovo	1	16	chr3:193637213T>C	0.1.27/OPA1/PMID_39233737_Patient_2.json
+PMID_30573562_Patient_1	MYCN	OMIM:620748	Megalencephaly-polydactyly syndrome	denovo	1	27	chr2:15942237C>T	0.1.27/MYCN/PMID_30573562_Patient_1.json
+PMID_36553465_P24	SLC45A2	OMIM:606574	Albinism, oculocutaneous, type IV	denovo	1	8	chr5:33944723G>A	0.1.27/SLC45A2/PMID_36553465_P24.json
+PMID_39824192_E_E_II_1	KICS2	OMIM:621100	Intellectual developmental disorder, autosomal recessive 83	denovo	1	7	chr12:64194396T>A	0.1.27/KICS2/PMID_39824192_E_E_II_1.json
+PMID_18456719_Patient_2	BRAF	OMIM:115150	Cardiofaciocutaneous syndrome	denovo	1	29	chr7:140801502T>C	0.1.27/BRAF/PMID_18456719_Patient_2.json
+PMID_38141607_Individuals_3_P3	MAX	OMIM:620712	Polydactyly-macrocephaly syndrome	denovo	1	7	chr14:65078029C>T	0.1.27/MAX/PMID_38141607_Individuals_3_P3.json

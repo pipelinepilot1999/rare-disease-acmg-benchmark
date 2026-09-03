@@ -1,0 +1,5 @@
+# Resources and intermediates live outside the repo (~/rdacmg); nothing large is tracked.
+__pycache__/
+*.pyc
+results/figures/*.pdf
+data/cases.json

@@ -1,0 +1,64 @@
+stratum_type	stratum	n	lookup	full	svi	blind	ceiling
+vcep	Myeloid Malignancy VCEP	1518	0.9954	0.7912	0.5013	0.4921	0.9315
+vcep	Monogenic Diabetes VCEP	744	0.9892	0.5215	0.3602	0.3118	0.4126
+vcep	Phenylketonuria VCEP	603	0.9934	0.5821	0.3532	0.2172	0.2753
+vcep	Familial Hypercholesterolemia VCEP	549	0.9927	0.7231	0.6193	0.5665	0.6448
+vcep	Lysosomal Diseases VCEP	546	0.9835	0.4286	0.2894	0.2289	0.2729
+vcep	Rett and Angelman-like Disorders VCEP	492	0.998	0.3699	0.1646	0.1484	0.439
+vcep	Platelet Disorders VCEP	484	0.9855	0.5124	0.3802	0.345	0.5165
+vcep	Severe Combined Immunodeficiency Disease  VCEP	452	0.9425	0.5686	0.4358	0.4115	0.4757
+vcep	Limb Girdle Muscular Dystrophy VCEP	404	1.0	0.2624	0.1287	0.099	0.2005
+vcep	RASopathy VCEP	390	0.9744	0.3179	0.1692	0.1487	0.5333
+vcep	Mitochondrial Diseases VCEP	354	1.0	0.5734	0.5621	0.565	0.6441
+vcep	Leber Congenital Amaurosis/early onset Retinal Dystrophy VCEP	341	1.0	0.4282	0.2317	0.1906	0.2962
+vcep	CDH1 VCEP	327	0.9969	0.6606	0.2049	0.1713	0.6361
+vcep	Glaucoma VCEP	308	0.9968	0.7695	0.6104	0.5877	0.6104
+vcep	Malignant Hyperthermia Susceptibility VCEP	295	0.9864	0.7153	0.6136	0.6068	0.6508
+vcep	X-linked Inherited Retinal Disease VCEP	285	1.0	0.3649	0.2491	0.2105	0.4246
+vcep	ACADVL VCEP	267	0.9251	0.5318	0.3296	0.2772	0.397
+vcep	Cerebral Creatine Deficiency Syndromes VCEP	266	0.9586	0.5564	0.3346	0.312	0.4586
+vcep	PTEN VCEP	230	0.9957	0.513	0.3435	0.2652	0.3913
+vcep	Cardiomyopathy VCEP	210	0.9667	0.4762	0.4429	0.4286	0.6286
+vcep	Hearing Loss VCEP	208	0.9856	0.4904	0.3173	0.3029	0.4375
+vcep	DICER1 and miRNA-Processing Gene VCEP	185	1.0	0.6973	0.4865	0.4757	0.5784
+vcep	Hereditary Breast, Ovarian and Pancreatic Cancer VCEP	181	1.0	0.674	0.2983	0.2541	0.5635
+vcep	TP53 VCEP	180	1.0	0.3611	0.2167	0.1889	0.2167
+vcep	ENIGMA BRCA1 and BRCA2 VCEP	173	1.0	0.4509	0.2081	0.1792	0.289
+vcep	ABCA4 VCEP	154	0.9286	0.2987	0.1883	0.1688	0.1818
+vcep	InSiGHT Hereditary Colorectal Cancer/Polyposis VCEP	140	0.8214	0.4429	0.3071	0.2857	0.3714
+vcep	Congenital Myopathies VCEP	132	0.9545	0.3939	0.2576	0.2045	0.3561
+vcep	Coagulation Factor Deficiency VCEP	120	0.9333	0.325	0.1833	0.15	0.375
+vcep	Antibody Deficiencies VCEP	114	1.0	0.5614	0.3333	0.3158	0.5877
+vcep	von Willebrand Disease  VCEP	109	0.9908	0.5505	0.4404	0.4128	0.4404
+vcep	FBN1 VCEP	106	1.0	0.5189	0.2925	0.1509	0.434
+vcep	Thrombosis VCEP	89	0.9888	0.5393	0.3708	0.382	0.5506
+vcep	Pulmonary Hypertension VCEP	80	1.0	0.5875	0.3625	0.3	0.575
+vcep	Epilepsy Sodium Channel VCEP	77	0.8961	0.4935	0.3377	0.2078	0.4156
+vcep	Hereditary Hemorrhagic Telangiectasia VCEP	55	0.8727	0.5455	0.3455	0.3091	0.3818
+vcep	Galactosemia VCEP	43	0.5814	0.4651	0.3488	0.3256	0.5116
+vcep	Brain Malformations VCEP	42	1.0	0.381	0.2381	0.2381	0.4762
+vcep	Ocular Anterior Segment Disorder VCEP	37	0.5405	0.2432	0.1622	0.0541	0.3243
+vcep	Urea Cycle Disorders VCEP	37	0.4865	0.2973	0.3243	0.2703	0.4595
+vcep	Peroxisomal Disorders VCEP	36	0.4444	0.3056	0.2222	0.25	0.6389
+vcep	Potassium Channel Arrhythmia VCEP	34	0.8824	0.5588	0.3529	0.4412	0.5294
+vcep	Leukodystrophy and Leukoencephalopathy VCEP	34	0.5	0.2941	0.2647	0.2647	0.5588
+vcep	Hemoglobinopathy VCEP	33	1.0	0.4242	0.3333	0.303	0.3939
+vcep	VHL VCEP	31	1.0	0.3226	0.2581	0.2258	0.4839
+vcep	Gastric Cancer VCEP	4	0.5	0.5	0.25	0.25	0.5
+consequence	missense_variant	6547	0.971	0.5749	0.453	0.4116	0.4952
+consequence	synonymous_variant	1066	0.9794	0.7223	0.2214	0.2214	0.8593
+consequence	frameshift_variant	905	0.989	0.5193	0.0707	0.0707	0.2928
+consequence	intron_variant	817	0.9755	0.3464	0.3072	0.3072	0.7136
+consequence	nonsense	701	0.9772	0.5621	0.2582	0.0599	0.1997
+consequence	unknown	404	0.9827	0.552	0.5495	0.5495	0.6287
+consequence	splice_donor_variant	325	0.9785	0.3262	0.1138	0.1138	0.2831
+consequence	splice_acceptor_variant	181	0.9834	0.2376	0.1215	0.1215	0.2376
+consequence	3_prime_UTR_variant	159	0.9937	0.3396	0.327	0.327	0.8239
+consequence	inframe_deletion	151	0.9669	0.3311	0.3245	0.3245	0.4371
+consequence	initiator_codon_variant	70	0.9714	0.2714	0.2714	0.2	0.3429
+consequence	5_prime_UTR_variant	64	0.9375	0.4375	0.3438	0.3438	0.7969
+consequence	inframe_insertion	58	1.0	0.5	0.4655	0.4655	0.5862
+consequence	non-coding_transcript_variant	22	0.9545	0.8182	0.8182	0.8182	0.9091
+consequence	stop_lost	16	1.0	0.75	0.5	0.4375	0.5625
+consequence	inframe_indel	9	1.0	0.6667	0.6667	0.6667	0.6667
+consequence	genic_upstream_transcript_variant	4	1.0	0.75	0.75	0.75	0.75

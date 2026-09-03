@@ -1,0 +1,26 @@
+# Emitted alongside every run. Anything that would move the numbers is pinned here.
+tools:
+  exomiser: "15.1.0"
+  exomiser_data: "2512"
+  bcftools: "1.21"
+  samtools: "1.21"
+  python: "3.11"
+  java: "openjdk 21.0.12"
+  nextflow: "26.04.6"
+resources:
+  clinvar_vcf: "GRCh38, release 2026-08-31"
+  clinvar_variant_summary: "release 2026-08-31"
+  clingen_erepo: "API harvest 2026-09-02, 13243 interpretations"
+  clingen_dosage: "ClinGen_gene_curation_list_GRCh38.tsv, 2026-09-02"
+  phenopacket_store: "0.1.27"
+  gnomad: "v4 joint, GraphQL API, accessed 2026-09-02"
+  revel: "v1.3"
+  gencode: "v50 basic"
+  hpo: "2026-06-23"
+  giab_benchmark: "NIST v4.2.1 GRCh38 chr1-22 (AshkenazimTrio)"
+  reference: "GCA_000001405.15_GRCh38_no_alt_analysis_set"
+thresholds:
+  revel_pp3: {supporting: 0.644, moderate: 0.773, strong: 0.932}
+  revel_bp4: {supporting: 0.290, moderate: 0.183, strong: 0.016, very_strong: 0.003}
+  faf95: {ba1: 0.05, bs1: 0.001, pm2: 0.0001}
+  exomiser_frequency_filter_max_percent: 2.0
