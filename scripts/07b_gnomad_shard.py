@@ -4,11 +4,14 @@
 Sharded because the work is latency-bound: the API caps a query at 25 variant
 aliases, so throughput comes from concurrent requests, not bigger batches.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, json, os, sys, time, urllib.request
 
 shard, nshard = int(sys.argv[1]), int(sys.argv[2])
-REPO = os.path.expanduser("~/rdacmg/repo")
-CACHE = os.path.expanduser("~/rdacmg/work/cache")
+REPO = _paths.s(_paths.REPO)
+CACHE = _paths.s(_paths.CACHE)
 os.makedirs(CACHE, exist_ok=True)
 OUT = f"{CACHE}/gnomad_shard{shard}.json"
 

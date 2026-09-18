@@ -6,12 +6,15 @@ by a *different* nucleotide variant; PM5 asks whether a different change at the
 same residue has. Both need an index keyed on (gene, residue), and both are
 knowledge-derived, which is why they are removed in the blinded condition.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import gzip, os, re, csv, json
 from collections import defaultdict
 
-RES = os.path.expanduser("~/rdacmg/resources")
-REPO = os.path.expanduser("~/rdacmg/repo")
-WORK = os.path.expanduser("~/rdacmg/work")
+RES = _paths.s(_paths.RES)
+REPO = _paths.s(_paths.REPO)
+WORK = _paths.s(_paths.WORK)
 
 P_RE = re.compile(r"\(p\.([A-Z][a-z]{2})(\d+)([A-Z][a-z]{2}|Ter|=)\)")
 

@@ -6,11 +6,14 @@ on the combined score, its rank is the worst position in the tie block. The
 optimistic and mean-of-block variants are recorded alongside, so the effect of
 the policy is visible rather than buried in a tie-break the tool chose.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, json, os, sys, glob
 from collections import defaultdict
 
-REPO = os.path.expanduser("~/rdacmg/repo")
-ARMA = os.path.expanduser("~/rdacmg/arma")
+REPO = _paths.s(_paths.REPO)
+ARMA = _paths.s(_paths.ARMA)
 
 manifest = {c["case_id"]: c for c in json.load(open(f"{REPO}/data/manifest.json"))}
 print(f"{len(manifest)} cases in manifest")

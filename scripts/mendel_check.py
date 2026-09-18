@@ -3,6 +3,9 @@
 
 Reads 'proband<TAB>father<TAB>mother' genotype triples on stdin.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import sys, os
 
 def gt(t):
@@ -31,7 +34,7 @@ for line in sys.stdin:
 
 rate = err / max(total, 1)
 print(f"[mendel] informative={total} violations={err} rate={rate:.4%}")
-out = os.path.expanduser("~/rdacmg/work/mendel.txt")
+out = _paths.s(_paths.WORK / "mendel.txt")
 with open(out, "w") as fh:
     fh.write(f"{total}\t{err}\t{rate:.6f}\n")
 if total == 0:

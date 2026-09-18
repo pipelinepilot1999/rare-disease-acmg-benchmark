@@ -6,6 +6,9 @@ normal-vision floors on the adjacent pairlist. Two of the four sit below 3:1
 contrast on the light surface, so every chart carries visible direct labels -
 the relief rule, not an optional nicety.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, json, os, sys
 from collections import defaultdict, Counter
 import numpy as np
@@ -14,10 +17,10 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 
-sys.path.insert(0, os.path.expanduser("~/rdacmg/repo/src"))
+sys.path.insert(0, _paths.s(_paths.REPO / "src"))
 from acmgx.stats import bootstrap_ci, top_n, wilson_ci
 
-REPO = os.path.expanduser("~/rdacmg/repo")
+REPO = _paths.s(_paths.REPO)
 FIG = f"{REPO}/results/figures"
 os.makedirs(FIG, exist_ok=True)
 

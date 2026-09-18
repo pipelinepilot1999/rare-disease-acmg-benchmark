@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """Merge the sharded gnomAD caches with the REVEL subset and write the
 annotated Arm B table."""
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, glob, json, os
 
-REPO = os.path.expanduser("~/rdacmg/repo")
-CACHE = os.path.expanduser("~/rdacmg/work/cache")
+REPO = _paths.s(_paths.REPO)
+CACHE = _paths.s(_paths.CACHE)
 
 faf = {}
 for p in sorted(glob.glob(f"{CACHE}/gnomad_shard*.json")):

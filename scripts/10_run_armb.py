@@ -2,16 +2,19 @@
 """Arm B: run acmgx over the ERepo ground truth under three blinding conditions,
 alongside a ClinVar lookup baseline that performs no reasoning at all.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, json, os, sys
 from collections import Counter, defaultdict
 
-sys.path.insert(0, os.path.expanduser("~/rdacmg/repo/src"))
+sys.path.insert(0, _paths.s(_paths.REPO / "src"))
 from acmgx.criteria import Variant, evaluate, CRITERIA, NOT_IMPLEMENTED
 from acmgx.combine import combine_2015, combine_points, parse_code
 
-REPO = os.path.expanduser("~/rdacmg/repo")
-WORK = os.path.expanduser("~/rdacmg/work")
-RES = os.path.expanduser("~/rdacmg/resources")
+REPO = _paths.s(_paths.REPO)
+WORK = _paths.s(_paths.WORK)
+RES = _paths.s(_paths.RES)
 
 CONDITIONS = {
     "full":  set(),                                  # includes deprecated PP5/BP6
@@ -120,7 +123,12 @@ print("CRITERION-LEVEL agreement with VCEP evidence codes (acmgx svi condition)"
 print("=" * 78)
 print(f"  {'criterion':<10s} {'VCEP':>7s} {'acmgx':>7s} {'TP':>6s} {'prec':>7s} {'rec':>7s} {'F1':>7s}")
 crit_rows = []
-for c in sorted(set(CRITERIA) | {"PP5", "BP6"}):
+# Metrics are computed against the `svi` calls, so a criterion disabled under svi
+# can only ever score zero. Emitting it as "precision 0.00" reads as a failure of
+# the engine rather than a condition of the experiment, so it is excluded and the
+# condition is recorded in the file.
+METRIC_CONDITION = "svi"
+for c in sorted(set(CRITERIA) - CONDITIONS[METRIC_CONDITION]):
     vcep_set, ours = set(), set()
     for i, r in enumerate(results):
         vc = {parse_code(x)[0] for x in r["codes_vcep"].split(";") if x}
@@ -132,7 +140,8 @@ for c in sorted(set(CRITERIA) | {"PP5", "BP6"}):
     rec = tp / len(vcep_set) if vcep_set else 0.0
     f1 = 2 * prec * rec / (prec + rec) if prec + rec else 0.0
     print(f"  {c:<10s} {len(vcep_set):7d} {len(ours):7d} {tp:6d} {prec:7.2f} {rec:7.2f} {f1:7.2f}")
-    crit_rows.append([c, len(vcep_set), len(ours), tp, round(prec,4), round(rec,4), round(f1,4)])
+    crit_rows.append([METRIC_CONDITION, c, len(vcep_set), len(ours), tp,
+                      round(prec, 4), round(rec, 4), round(f1, 4)])
 
 print("\nCriteria acmgx does not implement (declared, not silently skipped):")
 for c, why in sorted(NOT_IMPLEMENTED.items()):
@@ -146,6 +155,6 @@ with open(f"{REPO}/results/arm_b_calls.tsv", "w", newline="") as fh:
     w.writeheader(); w.writerows(results)
 with open(f"{REPO}/results/criterion_metrics.tsv", "w", newline="") as fh:
     w = csv.writer(fh, delimiter="\t")
-    w.writerow(["criterion","n_vcep","n_acmgx","tp","precision","recall","f1"])
+    w.writerow(["condition","criterion","n_vcep","n_acmgx","tp","precision","recall","f1"])
     w.writerows(crit_rows)
 print(f"\nwrote {REPO}/results/arm_b_calls.tsv and criterion_metrics.tsv")

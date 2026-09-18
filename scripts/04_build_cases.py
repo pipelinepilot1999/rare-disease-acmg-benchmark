@@ -6,12 +6,15 @@ allele, spiked into the GIAB Ashkenazi trio under the inheritance model implied
 by the reported zygosity. Phenotypes are never derived from gene-to-phenotype
 annotations - that is the circularity this project exists to avoid.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import json, glob, os, random, sys, csv
 from collections import Counter, defaultdict
 
-RES = os.path.expanduser("~/rdacmg/resources")
-WORK = os.path.expanduser("~/rdacmg/work")
-REPO = os.path.expanduser("~/rdacmg/repo")
+RES = _paths.s(_paths.RES)
+WORK = _paths.s(_paths.WORK)
+REPO = _paths.s(_paths.REPO)
 random.seed(20260902)
 
 # ---------------------------------------------------------------- regions

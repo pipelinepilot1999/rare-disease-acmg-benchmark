@@ -7,11 +7,14 @@ penultimate exon, escapes NMD and the criterion is downgraded. That question
 cannot be answered without exon coordinates, which is why v1's plan to take
 PVS1 from a tool that does not model them was inadequate.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import gzip, json, os, re
 from collections import defaultdict
 
-RES = os.path.expanduser("~/rdacmg/resources")
-WORK = os.path.expanduser("~/rdacmg/work")
+RES = _paths.s(_paths.RES)
+WORK = _paths.s(_paths.WORK)
 
 tx = {}
 exons = defaultdict(list)

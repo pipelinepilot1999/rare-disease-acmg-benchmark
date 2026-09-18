@@ -9,12 +9,15 @@ father affected turns the flaw into a controlled contrast, and the difference
 between the two is what the trio inheritance filter costs when penetrance is
 incomplete.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import json, os, sys, math
 
-REPO = os.path.expanduser("~/rdacmg/repo")
-JOBS = os.path.expanduser("~/rdacmg/jobs_pen")
-OUT = os.path.expanduser("~/rdacmg/arma")
-BDIR = os.path.expanduser("~/rdacmg/batches_pen")
+REPO = _paths.s(_paths.REPO)
+JOBS = _paths.s(_paths.HOME / "jobs_pen")
+OUT = _paths.s(_paths.ARMA)
+BDIR = _paths.s(_paths.HOME / "batches_pen")
 NW = int(sys.argv[1]) if len(sys.argv) > 1 else 6
 
 sys.path.insert(0, f"{REPO}/scripts")

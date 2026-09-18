@@ -5,12 +5,15 @@ A knockout case is negative only for the spiked variant. HG002 is a healthy
 individual but not a genome free of pathogenic alleles, and saying so with a
 list is better than saying so in the abstract.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, gzip, os, subprocess
 from collections import Counter
 
-RES = os.path.expanduser("~/rdacmg/resources")
-WORK = os.path.expanduser("~/rdacmg/work")
-REPO = os.path.expanduser("~/rdacmg/repo")
+RES = _paths.s(_paths.RES)
+WORK = _paths.s(_paths.WORK)
+REPO = _paths.s(_paths.REPO)
 
 trio = {}
 p = subprocess.run(["bcftools", "query", "-f", "%CHROM\t%POS\t%REF\t%ALT[\t%GT]\n",

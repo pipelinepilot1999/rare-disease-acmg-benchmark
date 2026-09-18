@@ -10,11 +10,14 @@ subset     x {imprecise, noisy, truncated}      (HPO perturbation, informed only
 The phenotype-blinded conditions ignore HPO entirely, so they are not repeated
 across perturbation tiers.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import json, os, random, sys, math
 
-REPO = os.path.expanduser("~/rdacmg/repo")
-JOBS = os.path.expanduser("~/rdacmg/jobs")
-OUT = os.path.expanduser("~/rdacmg/arma")
+REPO = _paths.s(_paths.REPO)
+JOBS = _paths.s(_paths.JOBS)
+OUT = _paths.s(_paths.ARMA)
 NWORKERS = int(sys.argv[1]) if len(sys.argv) > 1 else 8
 HPO_SUBSET = int(sys.argv[2]) if len(sys.argv) > 2 else 300
 random.seed(20260902)
@@ -59,7 +62,7 @@ for case_id, cond, tier, vcf, hpo, pheno in specs:
     lines_by_prop[PROPS[cond]].append(f"--analysis {path}")
 
 os.makedirs(f"{REPO}/../batches", exist_ok=True)
-BDIR = os.path.expanduser("~/rdacmg/batches")
+BDIR = _paths.s(_paths.BATCHES)
 os.makedirs(BDIR, exist_ok=True)
 for f in os.listdir(BDIR):
     os.remove(os.path.join(BDIR, f))

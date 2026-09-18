@@ -6,14 +6,17 @@ VCF, so the join gives coordinates, molecular consequence, gene and ClinVar's ow
 assertion in one pass. ClinVar's assertion is loaded deliberately: it is both the
 evidence for PP5/BP6 and the "lookup baseline" classifier of section 6.3.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import gzip, json, os, sys, csv
 from collections import Counter, defaultdict
 
-sys.path.insert(0, os.path.expanduser("~/rdacmg/repo/src"))
+sys.path.insert(0, _paths.s(_paths.REPO / "src"))
 from acmgx.combine import parse_code
 
-RES = os.path.expanduser("~/rdacmg/resources")
-REPO = os.path.expanduser("~/rdacmg/repo")
+RES = _paths.s(_paths.RES)
+REPO = _paths.s(_paths.REPO)
 
 TIER_MAP = {
     "Pathogenic": "P", "Likely Pathogenic": "LP", "Uncertain Significance": "VUS",

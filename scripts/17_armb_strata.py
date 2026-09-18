@@ -5,14 +5,17 @@ VCEP calls apply gene-specific criteria specifications. Scoring a generic engine
 against them conflates "the rules are wrong" with "the rules were not specialised
 for this gene". Stratifying separates the two; the aggregate number does not.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, os, sys
 from collections import defaultdict, Counter
 import numpy as np
 
-sys.path.insert(0, os.path.expanduser("~/rdacmg/repo/src"))
+sys.path.insert(0, _paths.s(_paths.REPO / "src"))
 from acmgx.stats import wilson_ci
 
-REPO = os.path.expanduser("~/rdacmg/repo")
+REPO = _paths.s(_paths.REPO)
 calls = list(csv.DictReader(open(f"{REPO}/results/arm_b_calls.tsv"), delimiter="\t"))
 ceil = {r["caid"]: r for r in csv.DictReader(open(f"{REPO}/results/ceiling.tsv"), delimiter="\t")}
 print(f"{len(calls)} classified variants")

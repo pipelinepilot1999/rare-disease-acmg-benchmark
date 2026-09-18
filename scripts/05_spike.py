@@ -6,12 +6,15 @@ variant type and genotype, so a spiked variant is not separable from a real one
 by its quality fields. Without this the quality filter never touches a causal
 variant and Arm A recall is inflated.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import json, os, random, subprocess, sys, gzip
 from collections import defaultdict
 
-WORK = os.path.expanduser("~/rdacmg/work")
-REPO = os.path.expanduser("~/rdacmg/repo")
-OUT = os.path.expanduser("~/rdacmg/cases")
+WORK = _paths.s(_paths.WORK)
+REPO = _paths.s(_paths.REPO)
+OUT = _paths.s(_paths.CASES)
 random.seed(20260902)
 os.makedirs(OUT, exist_ok=True)
 

@@ -8,13 +8,16 @@
 
 Both are cached to disk so the step is restartable.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import csv, json, os, sys, time, zipfile, io, gzip
 import urllib.request
 from collections import defaultdict
 
-REPO = os.path.expanduser("~/rdacmg/repo")
-RES = os.path.expanduser("~/rdacmg/resources")
-CACHE = os.path.expanduser("~/rdacmg/work/cache")
+REPO = _paths.s(_paths.REPO)
+RES = _paths.s(_paths.RES)
+CACHE = _paths.s(_paths.CACHE)
 os.makedirs(CACHE, exist_ok=True)
 
 rows = list(csv.DictReader(open(f"{REPO}/data/armb_variants.tsv"), delimiter="\t"))

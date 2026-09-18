@@ -12,8 +12,10 @@
 > And the engine is not the binding constraint either. Re-running each expert panel's **own**
 > evidence with the criteria no machine can assess removed — functional assays, segregation,
 > case-control data, de novo confirmation, phenotype specificity — reproduces the panel's tier for
-> only **51.1%** of variants. That is a ceiling on any automated classifier, however well built.
-> Nine percent of *Pathogenic* calls and twelve percent of *Likely pathogenic* calls survive it.
+> only **51.1%** of the 11,499 variants Arm B classifies (**49.2%** across all 12,967 expert
+> interpretations, including those that do not resolve to GRCh38 coordinates). That is a ceiling on
+> any automated classifier, however well built. Nine percent of *Pathogenic* calls and twelve
+> percent of *Likely pathogenic* calls survive it.
 
 ---
 
@@ -32,6 +34,12 @@ agreement is what makes the subtraction below meaningful.
 | All of the panel's evidence | 92.2% |
 | Machine-assessable + ClinVar-derived evidence only | **49.2%** |
 | Machine-assessable evidence only | 44.9% |
+
+**Two ceiling numbers appear in this document and they are not the same denominator.** 49.2% is
+over all 12,967 ERepo interpretations, which is the number to quote for the framework as a whole.
+51.1% is over the 11,499 of them that resolve to GRCh38 coordinates and are actually classified in
+Arm B, and is the number to compare against `acmgx`. The 1.9-point difference is the variants that
+drop out of the coordinate join, which skew slightly harder.
 
 **62.8% of expert interpretations depend on at least one criterion no automated system can assess.**
 
@@ -257,8 +265,10 @@ should.
 
 So the hypothesis holds, but only for the 29% of causal alleles ClinVar covers, and only once you
 stop averaging over the variants where the mechanism cannot operate. A benchmark built the way v1
-specified — spiking ClinVar P/LP variants — would have drawn 63.6% of its cases from that whitelist
-and reported the blend as diagnostic performance.
+specified — spiking ClinVar P/LP variants — would have drawn most of its cases from variants ClinVar
+already classifies, and reported the blend as diagnostic performance. 63.6% of the causal alleles
+here are ClinVar P/LP (D-005); 29.0% were on Exomiser's whitelist at runtime. Those are different
+numbers and the gap is not fully explained — see `docs/limitations.md`.
 
 ![where the lookup effect lives](../results/figures/fig8_interaction.png)
 
@@ -338,9 +348,16 @@ The causal variant outscores the best hit in its own knockout in **41.8%** [38.8
 Median causal score is 0.224 against a median best-knockout score of 0.482. In more than half of
 cases the healthy background produces a better-scoring candidate than the true answer.
 
-This is the negative control v1 asked for, and it answers the question it was set: the pipeline
-produces a confident-looking top hit whether or not there is anything to find. The median candidate
-list is 88 variants across 51 genes, and the top of it looks much the same either way.
+**That statistic is arithmetically identical to top-1, not independent of it.** The knockout VCF is
+the background alone and the positive is the background plus the causal allele, so "causal beats
+the knockout's best hit" and "causal gene is ranked first" are the same event. They agree on
+1,034/1,034 cases in both conditions, and `tests/test_results_integrity.py` asserts the identity so
+it cannot be quietly presented as a second measurement.
+
+What the knockout does add independently is the **absolute** score of the top hit when there is
+nothing to find: median 0.482, on the same 0-1 scale that a true causal variant reaches 0.224.
+A reviewer handed the knockout's ranked list has no score-based signal that the case is unsolved.
+The median candidate list is 88 variants across 51 genes either way.
 
 ![knockouts](../results/figures/fig4_knockout.png)
 

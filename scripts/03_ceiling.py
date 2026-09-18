@@ -6,15 +6,18 @@ system could assess, re-runs the combining rules, and records the tier that
 survives. Aggregated, this bounds what any rule engine can achieve - a property
 of the framework and the evidence distribution, not of any particular tool.
 """
+import sys as _sys, os as _os
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+import _paths
 import json, os, sys, csv
 from collections import Counter, defaultdict
 
-sys.path.insert(0, os.path.expanduser("~/rdacmg/repo/src"))
+sys.path.insert(0, _paths.s(_paths.REPO / "src"))
 from acmgx.combine import combine_2015, combine_points, parse_code
 from acmgx.assessability import bucket
 
-RAW = os.path.expanduser("~/rdacmg/resources/erepo/erepo_raw.json")
-OUTDIR = os.path.expanduser("~/rdacmg/repo/results")
+RAW = _paths.s(_paths.RES / "erepo/erepo_raw.json")
+OUTDIR = _paths.s(_paths.REPO / "results")
 os.makedirs(OUTDIR, exist_ok=True)
 
 TIER_MAP = {

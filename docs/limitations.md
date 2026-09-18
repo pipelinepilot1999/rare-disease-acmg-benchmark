@@ -106,7 +106,22 @@ therefore reported as a **penetrance contrast** - the same cases re-run with the
 affected - and not as an inheritance-model recall figure. The contrast is informative, but it was
 not the experiment originally intended.
 
-## 11. Single run, no replication
+## 11. The whitelist strata are defined by an observed flag, and 222 cases have no observation
+
+Arm A's ClinVar stratification uses Exomiser's own `WHITELIST_VARIANT` output column, which is only
+emitted for variants that survived the filter cascade. Under `informed`, 812 of 1,034 causal alleles
+survived; 300 of those carry the flag. The "not whitelisted" group of 734 is therefore 512 alleles
+observed not to be whitelisted plus 222 whose status was never observed. Restricting the comparison
+to the 512 observed cases leaves the conclusion unchanged - the ClinVar delta is 0.000 either way -
+but the group label is looser than it looks.
+
+Relatedly, 63.6% of causal alleles are ClinVar P/LP (D-005) while only 29.0% carried the whitelist
+flag. The gap is unexplained here. The likely cause is that the Exomiser 2512 data bundle's ClinVar
+snapshot predates the 2026-08-31 ClinVar VCF used for the P/LP count, and that the whitelist applies
+a review-status floor, but neither was confirmed. **Anyone quoting these numbers should treat 29.0%
+as the measured whitelist coverage and 63.6% as an upper bound on it.**
+
+## 12. Single run, no replication
 
 Exomiser and acmgx are deterministic given the same inputs and versions, so there is no run-to-run
 variance to report. All intervals here are sampling intervals over cases, not over runs. A change
