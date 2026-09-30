@@ -128,6 +128,8 @@ pipeline steps below do not.
 Steps run in order; each is idempotent and logs to `~/rdacmg`.
 
 ```bash
+export RDACMG_HOME=/path/to/large/scratch     # default ~/rdacmg
+bash scripts/render_config.sh                 # Exomiser properties for this machine
 bash scripts/01_reference_and_regions.sh      # reference index, exome regions, testable intersection
 bash scripts/02_trio_background.sh            # joint trio VCF + Mendelian assertion
 python scripts/03_ceiling.py                  # Arm B' ceiling, from ERepo alone

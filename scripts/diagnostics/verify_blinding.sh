@@ -12,7 +12,7 @@ POS=1321072
 
 # whitelist ON (data dir with clinvar db) vs OFF (same dir, flag off)
 cat > $O/wl_on.properties <<EOF
-exomiser.data-directory=/home/ec2-user/rdacmg/resources/exomiser/data
+exomiser.data-directory=${RDACMG_HOME:-$HOME/rdacmg}/resources/exomiser/data
 exomiser.hg38.data-version=2512
 exomiser.hg38.use-clinvar-white-list=true
 exomiser.phenotype.data-version=2512

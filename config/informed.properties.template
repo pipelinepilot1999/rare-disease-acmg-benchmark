@@ -1,4 +1,6 @@
-exomiser.data-directory=/home/ec2-user/rdacmg/resources/exomiser/data
+# Rendered by scripts/render_config.sh; __RDACMG_HOME__ is substituted
+# from $RDACMG_HOME (default ~/rdacmg). Do not edit the rendered copy.
+exomiser.data-directory=__RDACMG_HOME__/resources/exomiser/data
 exomiser.hg38.data-version=2512
 exomiser.hg38.clin-var-data-version=2512
 exomiser.hg38.use-clinvar-white-list=true

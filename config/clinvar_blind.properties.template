@@ -1,3 +1,5 @@
+# Rendered by scripts/render_config.sh; __RDACMG_HOME__ is substituted
+# from $RDACMG_HOME (default ~/rdacmg). Do not edit the rendered copy.
 # ClinVar blinded for the ranking channel: the 287,098-variant ClinVar whitelist
 # is not applied, so a variant cannot receive a maximal score or bypass the
 # filter cascade by virtue of being in ClinVar.
@@ -6,7 +8,7 @@
 # EXOMISER_ACMG_* columns, which do not feed the ranking score. Physically
 # removing the ClinVar database is not possible - Exomiser fails to start
 # without it (docs/decisions.md D-011).
-exomiser.data-directory=/home/ec2-user/rdacmg/resources/exomiser/data
+exomiser.data-directory=__RDACMG_HOME__/resources/exomiser/data
 exomiser.hg38.data-version=2512
 exomiser.hg38.use-clinvar-white-list=false
 exomiser.phenotype.data-version=2512

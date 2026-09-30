@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -uo pipefail
+bash "$(dirname "${BASH_SOURCE[0]}")/render_config.sh" >/dev/null
 E=$HOME/rdacmg/resources/exomiser/exomiser-cli-15.1.0
 R=$HOME/rdacmg/repo
 L=$HOME/rdacmg/logs; mkdir -p $L; rm -f $L/done_pen.txt

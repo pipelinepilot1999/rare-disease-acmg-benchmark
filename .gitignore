@@ -4,3 +4,4 @@ __pycache__/
 results/figures/*.pdf
 data/cases.json
 .venv/
+config/*.properties

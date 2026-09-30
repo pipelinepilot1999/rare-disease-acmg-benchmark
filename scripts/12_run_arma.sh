@@ -2,6 +2,7 @@
 # Launch Arm A: one Exomiser batch worker per batch file, under tmux.
 set -uo pipefail
 source ~/miniconda3/etc/profile.d/conda.sh; conda activate rdacmg
+bash "$(dirname "${BASH_SOURCE[0]}")/render_config.sh" >/dev/null
 E=$HOME/rdacmg/resources/exomiser/exomiser-cli-15.1.0
 R=$HOME/rdacmg/repo
 B=$HOME/rdacmg/batches

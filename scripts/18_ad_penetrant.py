@@ -29,6 +29,16 @@ for f in os.listdir(BDIR):
     os.remove(os.path.join(BDIR, f))
 
 PED = f"{REPO}/config/trio_penetrant.ped"
+
+def vcf(case, kind):
+    """Per-case VCF path, derived rather than stored.
+
+    The manifest used to carry absolute paths, which pinned it to one machine
+    and put 2,068 of them in a public file. They are a function of the case id
+    and RDACMG_HOME, so they are computed here instead.
+    """
+    return _paths.s(_paths.CASES / f"{case['case_id']}.{kind}.vcf.gz")
+
 manifest = [c for c in json.load(open(f"{REPO}/data/manifest.json"))
             if c["model"] == "ad_inherited"]
 print(f"{len(manifest)} inherited-dominant cases")
@@ -36,7 +46,7 @@ print(f"{len(manifest)} inherited-dominant cases")
 lines = []
 for c in manifest:
     name = f'{c["case_id"]}__ad_penetrant__as_reported__pos'
-    y = job(c["vcf_pos"], c["hpo_sets"]["as_reported"], name, OUT, True)
+    y = job(vcf(c, "pos"), c["hpo_sets"]["as_reported"], name, OUT, True)
     y = y.replace(f'ped: {REPO}/config/trio.ped', f'ped: {PED}')
     path = f"{JOBS}/{name}.yml"
     open(path, "w").write(y)

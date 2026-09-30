@@ -57,17 +57,22 @@ rules on the expert panels' own evidence with the un-automatable criteria remove
 
 ## 2. Environment (corrected)
 
-v1's §2 was wrong about the host in three ways that changed its conclusions.
+v1 specified a 200 GB volume and spent most of its section 2 rationing against it. That
+constraint drove real design decisions - cutting predictors, skipping splice prediction - and
+none of them were necessary.
 
-- EC2 `r5.2xlarge`, **Amazon Linux 2023**, 8 vCPU, 62 GB RAM, CPU-only
-- **500 GB root volume, ~448 GB free** — not 200 GB
-- SSH key and login user per the host; public IP changes on stop/start
-- Docker 25.0.14, OpenJDK 21.0.12, Nextflow 26.04.6, conda env `rdacmg`
+Requirements, as actually used for the published run:
+
+- Linux x86-64, **8 vCPU, 62 GB RAM**, CPU-only. Arm A took ~3.5 h at that size; it scales
+  roughly linearly with core count.
+- **~130 GB of free disk** outside the repository: ~92 GB of downloaded resources (the Exomiser
+  2512 bundles dominate at 37 GB compressed), ~7 GB of per-case VCFs, ~1 GB of Exomiser output.
+  Set `RDACMG_HOME` to point at it; the default is `~/rdacmg`.
+- **OpenJDK 21** for Exomiser, Python 3.11+, and `bcftools`/`samtools` 1.21.
 
 **Consequence:** v1's entire disk-budget section is void. The instructions to cut REMM, to cut
 full CADD, to prefer targeted plugin datasets over dbNSFP, and the 160 GB re-plan trigger were
-all responses to a 200 GB volume that does not exist. Take the full resource set. Total planned
-footprint is ~80 GB against 448 GB free.
+all responses to a disk constraint that a modern volume does not have. Take the full resource set.
 
 Long jobs run under `tmux`. Free space is checked before each acquisition step and logged.
 

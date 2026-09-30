@@ -28,6 +28,16 @@ from make_job import job
 for d in (JOBS, OUT):
     os.makedirs(d, exist_ok=True)
 
+
+def vcf(case, kind):
+    """Per-case VCF path, derived rather than stored.
+
+    The manifest used to carry absolute paths, which pinned it to one machine
+    and put 2,068 of them in a public file. They are a function of the case id
+    and RDACMG_HOME, so they are computed here instead.
+    """
+    return _paths.s(_paths.CASES / f"{case['case_id']}.{kind}.vcf.gz")
+
 manifest = json.load(open(f"{REPO}/data/manifest.json"))
 print(f"{len(manifest)} cases")
 
@@ -38,12 +48,12 @@ for c in manifest:
     hpo = c["hpo_sets"]["as_reported"]
     for cond, pheno in (("informed", True), ("clinvar_blind", True),
                         ("pheno_blind", False), ("double_blind", False)):
-        specs.append((c["case_id"], cond, "as_reported", c["vcf_pos"], hpo, pheno))
+        specs.append((c["case_id"], cond, "as_reported", vcf(c, "pos"), hpo, pheno))
     for cond in ("informed", "clinvar_blind"):
-        specs.append((c["case_id"], cond, "as_reported", c["vcf_ko"], hpo, True))
+        specs.append((c["case_id"], cond, "as_reported", vcf(c, "ko"), hpo, True))
     if c["case_id"] in subset_ids:
         for tier in ("imprecise", "noisy", "truncated"):
-            specs.append((c["case_id"], "informed", tier, c["vcf_pos"],
+            specs.append((c["case_id"], "informed", tier, vcf(c, "pos"),
                           c["hpo_sets"][tier], True))
 
 print(f"{len(specs)} Exomiser runs")
