@@ -5,3 +5,4 @@ results/figures/*.pdf
 data/cases.json
 .venv/
 config/*.properties
+CONTEXT.md

@@ -216,6 +216,16 @@ for model, n in (("denovo", 266), ("ar_hom", 352), ("comphet", 189), ("ad_inheri
                if idx[(c, "informed", "as_reported", "pos")]["found"] == "1") / len(ids)
     cited(results, f"{surv:.3f}", f"{model} survival")
 
+# HPO term counts: the corpus median (7) is not the median of the cases actually
+# used (9), and the documents describe the latter.
+manifest = json.load(open(os.path.join(REPO, "data", "manifest.json")))
+counts = sorted(len(c["hpo"]) for c in manifest)
+med = counts[len(counts) // 2]
+check("manifest case count", len(manifest), 1034)
+cited(results, f"median {med} terms", "HPO terms per case")
+anchored(results, "phenotypes are sparse \u2014 median ", f"{med} terms",
+         ", IQR", "HPO sparsity claim")
+
 pen = [c for c in cases if (c, "ad_penetrant", "as_reported", "pos") in idx]
 check("penetrance contrast cases", len(pen), 227)
 cited(results, f"{topn([rank(c, 'ad_penetrant') for c in pen], 1):.3f}", "penetrant top-1")

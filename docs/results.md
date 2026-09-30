@@ -286,7 +286,8 @@ be false; it is an interaction.
 The mechanism is legible. The whitelist pins a causal variant's score at maximum, so ranking on
 variant score alone puts the causal gene first 90.7% of the time. Blending in a phenotype score
 that is usually below 1.0 can only dilute a signal that is already saturated. Real case-report
-phenotypes are sparse — median 7 terms — so the causal gene's phenotype score frequently is below 1.
+phenotypes are sparse — median 9 terms, IQR 6-13 — so the causal gene's phenotype score frequently
+is below 1.
 
 Two things follow. Exomiser's own documentation warns that running without phenotype prioritisation
 gives sub-optimal results, and on the variants it cannot look up (n=734) that is borne out — but the

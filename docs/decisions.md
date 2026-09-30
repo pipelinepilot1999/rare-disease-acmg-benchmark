@@ -20,7 +20,8 @@ with their causal alleles.
 **Alternatives:** v1's plan - derive HPO terms from HPO's gene-to-phenotype file.
 **Reasoning:** Exomiser's hiPhive scores phenotype-gene similarity against the same gene-to-phenotype
 annotations. Deriving the case phenotype from them and then ranking with hiPhive guarantees the
-match. Real case-report phenotypes also carry real incompleteness - median 7 terms - which is what
+match. Real case-report phenotypes also carry real incompleteness - median 9 terms across the 1,034
+cases used, against 7 across the whole corpus - which is what
 a referral actually looks like.
 **Source:** Danis et al., *A corpus of GA4GH Phenopackets* (2024).
 **Effect:** 1,034 usable cases across 628 genes and 660 diseases, with no HPO circularity.
@@ -225,6 +226,6 @@ score (-0.085, p=6e-8) and slightly raises it when ClinVar is blinded (+0.030, p
 **Reasoning:** stating "phenotype ranking makes results worse" unconditionally would be false. The
 mechanism is visible: the whitelist pins a causal variant's score at maximum, ranking on that alone
 puts the causal gene first 90.7% of the time, and blending in a phenotype score below 1.0 dilutes a
-signal that was already saturated. Real case-report phenotypes are sparse - median 7 terms - so the
+signal that was already saturated. Real case-report phenotypes are sparse - median 9 terms - so the
 causal gene's phenotype score frequently is below 1.
 **Effect:** the honest statement is about an interaction, and the 2x2 is figure 8.
